@@ -1,0 +1,70 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <title>Dioramas</title>
+  <meta name="description" content="Twenty interactive 3D landing pages. Every one built around a single idea you can touch.">
+  <meta name="theme-color" content="#060607">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Instrument+Serif:ital@0;1&family=Inter+Tight:wght@400;500;600&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="./src/index/style.css">
+</head>
+<body>
+  <canvas id="gl" aria-hidden="true"></canvas>
+  <header class="top">
+    <a class="mark" href="./" aria-label="Dioramas">
+      <svg viewBox="0 0 20 20" aria-hidden="true"><g fill="currentColor"><rect x="1" y="2" width="2.2" height="2.2" rx=".6"/><rect x="4.8" y="2" width="2.2" height="2.2" rx=".6" opacity=".4"/><rect x="8.6" y="2" width="2.2" height="2.2" rx=".6" opacity=".4"/><rect x="12.4" y="2" width="2.2" height="2.2" rx=".6" opacity=".4"/><rect x="16.2" y="2" width="2.2" height="2.2" rx=".6" opacity=".4"/><rect x="1" y="6.4" width="2.2" height="2.2" rx=".6" opacity=".4"/><rect x="4.8" y="6.4" width="2.2" height="2.2" rx=".6"/><rect x="8.6" y="6.4" width="2.2" height="2.2" rx=".6" opacity=".4"/><rect x="12.4" y="6.4" width="2.2" height="2.2" rx=".6" opacity=".4"/><rect x="16.2" y="6.4" width="2.2" height="2.2" rx=".6" opacity=".4"/><rect x="1" y="10.8" width="2.2" height="2.2" rx=".6" opacity=".4"/><rect x="4.8" y="10.8" width="2.2" height="2.2" rx=".6" opacity=".4"/><rect x="8.6" y="10.8" width="2.2" height="2.2" rx=".6"/><rect x="12.4" y="10.8" width="2.2" height="2.2" rx=".6" opacity=".4"/><rect x="16.2" y="10.8" width="2.2" height="2.2" rx=".6" opacity=".4"/><rect x="1" y="15.2" width="2.2" height="2.2" rx=".6" opacity=".4"/><rect x="4.8" y="15.2" width="2.2" height="2.2" rx=".6" opacity=".4"/><rect x="8.6" y="15.2" width="2.2" height="2.2" rx=".6" opacity=".4"/><rect x="12.4" y="15.2" width="2.2" height="2.2" rx=".6"/><rect x="16.2" y="15.2" width="2.2" height="2.2" rx=".6" opacity=".4"/></g></svg>
+      <span>Dioramas</span>
+    </a>
+    <nav><a href="#list">Index</a><a href="#about">About</a></nav>
+  </header>
+
+  <main>
+    <section class="ring-section" aria-label="Browse the worlds">
+      <div class="ring-sticky">
+        <div class="intro">
+          <p class="kicker mono">Twenty interactive 3D landing pages</p>
+          <h1>Twenty <em>Worlds</em></h1>
+        </div>
+        <div class="active" aria-live="polite">
+          <p class="active-num mono"><span class="n">01</span> / 20</p>
+          <h2 class="active-name">Reliquary</h2>
+          <p class="active-line">A museum you can only see by lantern light</p>
+          <a class="enter" href="./examples/reliquary/" data-cursor="link">Enter world <span aria-hidden="true">→</span></a>
+        </div>
+        <div class="ring-hint mono" aria-hidden="true">Scroll or drag to turn · Click a window to enter</div>
+        <div class="progress" aria-hidden="true"><i></i></div>
+      </div>
+    </section>
+
+    <section class="list" id="list">
+      <div class="list-head">
+        <h2>The index</h2>
+        <p>Each world is a complete landing page for a fictional brand, built around one interaction you can touch. Hero objects are Meshy&nbsp;7.1 image-to-3D models generated from Nano&nbsp;Banana&nbsp;2 reference images, lit and choreographed in three.js.</p>
+      </div>
+      <ol class="rows"></ol>
+    </section>
+
+    <section class="about" id="about">
+      <div class="about-grid">
+        <div>
+          <p class="mono kicker">How they were made</p>
+          <h2>One idea per world. <em>No stock anything.</em></h2>
+        </div>
+        <div class="about-cols">
+          <p><b>Assets.</b> Clean product plates from Nano Banana 2, turned into 60k–250k-triangle PBR models by Meshy 7.1 at 4K geometry, then compressed with meshopt and WebP.</p>
+          <p><b>Rendering.</b> three.js with an HDR post stack: N8AO ambient occlusion, mip-chain bloom, AgX tone mapping, raymarched volumetric light, planar reflections and film grain.</p>
+          <p><b>Interaction.</b> Every page has a signature mechanic: a lantern, a forge, a pond, a lens, a tide, a turntable. The page is the scene; the scroll is the camera.</p>
+        </div>
+      </div>
+      <footer class="foot mono"><span>Dioramas · 2026</span><span>three.js · Meshy 7.1 · Nano Banana 2 · fal</span></footer>
+    </section>
+  </main>
+
+  <div class="preview" aria-hidden="true"><img alt=""></div>
+  <div class="wipe" aria-hidden="true"></div>
+  <script type="module" src="./src/index/main.js"></script>
+</body>
+</html>
