@@ -1,0 +1,560 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>AURELUX | Admin Dashboard</title>
+<style>
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+
+  body {
+    font-family: 'Montserrat', Arial, sans-serif;
+    background: #0B0B0F;
+    color: #F8F6F3;
+    min-height: 100vh;
+  }
+
+  header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px 40px;
+    background: rgba(23, 23, 29, 0.9);
+    border-bottom: 1px solid rgba(232, 198, 167, 0.2);
+  }
+
+  header h1 {
+    font-size: 1.4rem;
+    background: linear-gradient(45deg, #E8C6A7, #C98B72);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+  }
+
+  .logout-btn {
+    padding: 9px 20px;
+    background: transparent;
+    border: 1px solid rgba(232,198,167,0.4);
+    color: #E8C6A7;
+    border-radius: 8px;
+    cursor: pointer;
+    font-size: 0.85rem;
+  }
+  .logout-btn:hover { background: rgba(232,198,167,0.1); }
+
+  .container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 30px 20px;
+  }
+
+  .tabs {
+    display: flex;
+    gap: 10px;
+    margin-bottom: 25px;
+  }
+
+  .tab-btn {
+    padding: 10px 22px;
+    background: rgba(255,255,255,0.05);
+    border: 1px solid rgba(232,198,167,0.2);
+    color: #B9B4B0;
+    border-radius: 10px;
+    cursor: pointer;
+    font-size: 0.9rem;
+  }
+  .tab-btn.active {
+    background: linear-gradient(45deg, #E8C6A7, #C98B72);
+    color: #0B0B0F;
+    font-weight: 600;
+  }
+
+  .tab-content { display: none; }
+  .tab-content.active { display: block; }
+
+  /* ===== ADD WATCH FORM ===== */
+  .form-card {
+    background: rgba(23,23,29,0.8);
+    border: 1px solid rgba(232,198,167,0.2);
+    border-radius: 18px;
+    padding: 30px;
+    margin-bottom: 30px;
+  }
+
+  .form-card h2 {
+    margin-bottom: 20px;
+    font-size: 1.2rem;
+    color: #E8C6A7;
+  }
+
+  .form-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 18px;
+  }
+
+  .form-group { display: flex; flex-direction: column; }
+  .form-group.full { grid-column: 1 / -1; }
+
+  label {
+    font-size: 0.78rem;
+    color: #B9B4B0;
+    margin-bottom: 6px;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+  }
+
+  input, select, textarea {
+    padding: 12px 14px;
+    background: rgba(255,255,255,0.05);
+    border: 1px solid rgba(232,198,167,0.2);
+    border-radius: 10px;
+    color: #F8F6F3;
+    font-size: 0.9rem;
+    outline: none;
+    font-family: inherit;
+  }
+  input:focus, select:focus, textarea:focus { border-color: #E8C6A7; }
+
+  textarea { resize: vertical; min-height: 80px; }
+
+  .hint-text {
+    font-size: 0.75rem;
+    color: #8a8580;
+    margin-top: 6px;
+  }
+
+  .submit-btn {
+    margin-top: 22px;
+    padding: 13px 30px;
+    background: linear-gradient(45deg, #E8C6A7, #C98B72);
+    border: none;
+    border-radius: 10px;
+    color: #0B0B0F;
+    font-weight: 700;
+    cursor: pointer;
+    text-transform: uppercase;
+    font-size: 0.85rem;
+    letter-spacing: 1px;
+  }
+  .submit-btn:hover { transform: translateY(-2px); }
+
+  /* ===== PHOTO PREVIEW ===== */
+  .photo-preview {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    margin-top: 12px;
+  }
+
+  .photo-preview .thumb {
+    position: relative;
+    width: 80px;
+    height: 80px;
+    border-radius: 10px;
+    overflow: hidden;
+    border: 1px solid rgba(232,198,167,0.3);
+  }
+
+  .photo-preview .thumb img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+  }
+
+  .photo-preview .thumb .count-badge {
+    position: absolute;
+    top: 3px;
+    left: 3px;
+    background: rgba(0,0,0,0.6);
+    color: #E8C6A7;
+    font-size: 0.65rem;
+    padding: 2px 6px;
+    border-radius: 6px;
+  }
+
+  /* ===== WATCH GRID ===== */
+  .watch-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
+    gap: 20px;
+  }
+
+  .watch-card {
+    position: relative;
+    background: rgba(23,23,29,0.8);
+    border: 1px solid rgba(232,198,167,0.2);
+    border-radius: 16px;
+    overflow: hidden;
+  }
+
+  .watch-card img {
+    width: 100%;
+    height: 180px;
+    object-fit: cover;
+    background: #222;
+  }
+
+  .photo-count-tag {
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    background: rgba(0,0,0,0.7);
+    color: #E8C6A7;
+    font-size: 0.72rem;
+    padding: 4px 9px;
+    border-radius: 8px;
+    z-index: 2;
+  }
+
+  .watch-card-body { padding: 16px; }
+  .watch-card-body h3 { font-size: 1rem; margin-bottom: 6px; }
+  .watch-card-body .price { color: #E8C6A7; font-weight: 700; margin-bottom: 10px; }
+  .watch-card-body .cat { font-size: 0.75rem; color: #B9B4B0; margin-bottom: 10px; }
+
+  .card-actions { display: flex; gap: 8px; }
+  .card-actions button {
+    flex: 1;
+    padding: 8px;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    font-size: 0.8rem;
+  }
+  .btn-delete { background: rgba(255,80,80,0.15); color: #ff8080; }
+  .btn-delete:hover { background: rgba(255,80,80,0.3); }
+
+  /* ===== ORDERS TABLE ===== */
+  .export-btn {
+    margin-bottom: 20px;
+    padding: 10px 20px;
+    background: linear-gradient(45deg, #E8C6A7, #C98B72);
+    border: none;
+    border-radius: 10px;
+    color: #0B0B0F;
+    font-weight: 700;
+    cursor: pointer;
+  }
+
+  table {
+    width: 100%;
+    border-collapse: collapse;
+    background: rgba(23,23,29,0.8);
+    border-radius: 14px;
+    overflow: hidden;
+  }
+
+  th, td {
+    padding: 12px 14px;
+    text-align: left;
+    font-size: 0.85rem;
+    border-bottom: 1px solid rgba(255,255,255,0.05);
+  }
+
+  th {
+    background: rgba(232,198,167,0.1);
+    color: #E8C6A7;
+    text-transform: uppercase;
+    font-size: 0.72rem;
+    letter-spacing: 0.5px;
+  }
+
+  .empty-msg {
+    text-align: center;
+    padding: 40px;
+    color: #B9B4B0;
+  }
+</style>
+</head>
+<body>
+
+  <header>
+    <h1>AURELUX Admin Dashboard</h1>
+    <button class="logout-btn" onclick="logout()">Logout</button>
+  </header>
+
+  <div class="container">
+
+    <div class="tabs">
+      <button class="tab-btn active" data-tab="addWatch">+ Add Watch</button>
+      <button class="tab-btn" data-tab="allWatches">All Watches</button>
+      <button class="tab-btn" data-tab="orders">Orders</button>
+    </div>
+
+    <!-- TAB 1: ADD WATCH -->
+    <div class="tab-content active" id="addWatch">
+      <div class="form-card">
+        <h2>Add New Watch</h2>
+        <form id="watchForm">
+          <div class="form-grid">
+            <div class="form-group">
+              <label>Watch Name</label>
+              <input type="text" id="wName" required placeholder="e.g. Rose Gold Chronograph">
+            </div>
+
+            <div class="form-group">
+              <label>Price (Rs.)</label>
+              <input type="number" id="wPrice" required placeholder="e.g. 25000">
+            </div>
+
+            <div class="form-group">
+              <label>Category</label>
+              <select id="wCategory">
+                <option>Men's</option>
+                <option>Women's</option>
+                <option>Luxury</option>
+                <option>Sport</option>
+              </select>
+            </div>
+
+            <div class="form-group">
+              <label>Stock Quantity</label>
+              <input type="number" id="wStock" value="1" min="0">
+            </div>
+
+            <div class="form-group full">
+              <label>Description</label>
+              <textarea id="wDescription" placeholder="Watch details..."></textarea>
+            </div>
+
+            <div class="form-group full">
+              <label>Watch Photos (Up to 5)</label>
+              <input type="file" id="wPhotos" accept="image/*" multiple>
+              <p class="hint-text">Hold Ctrl (Windows) or Cmd (Mac) to select multiple photos at once.</p>
+              <div id="photoPreview" class="photo-preview"></div>
+            </div>
+          </div>
+
+          <button type="submit" class="submit-btn">Add Watch</button>
+        </form>
+      </div>
+    </div>
+
+    <!-- TAB 2: ALL WATCHES -->
+    <div class="tab-content" id="allWatches">
+      <div class="watch-grid" id="watchGrid">
+        <p class="empty-msg">Loading watches...</p>
+      </div>
+    </div>
+
+    <!-- TAB 3: ORDERS -->
+    <div class="tab-content" id="orders">
+      <button class="export-btn" onclick="exportOrders()">📥 Download Excel Sheet</button>
+      <table>
+        <thead>
+          <tr>
+            <th>Order ID</th>
+            <th>Customer</th>
+            <th>Phone</th>
+            <th>Watch</th>
+            <th>Qty</th>
+            <th>Total</th>
+            <th>Payment</th>
+            <th>Date</th>
+          </tr>
+        </thead>
+        <tbody id="ordersBody">
+          <tr><td colspan="8" class="empty-msg">Loading orders...</td></tr>
+        </tbody>
+      </table>
+    </div>
+
+  </div>
+
+<script>
+  const API_URL = 'http://localhost:5000';
+  const token = localStorage.getItem('aurelux_token');
+
+  // Protect this page
+  if (!token) {
+    window.location.href = 'login.html';
+  }
+
+  function logout() {
+    localStorage.removeItem('aurelux_token');
+    window.location.href = 'login.html';
+  }
+
+  // ===== TAB SWITCHING =====
+  document.querySelectorAll('.tab-btn').forEach(btn => {
+    btn.addEventListener('click', () => {
+      document.querySelectorAll('.tab-btn').forEach(b => b.classList.remove('active'));
+      document.querySelectorAll('.tab-content').forEach(c => c.classList.remove('active'));
+      btn.classList.add('active');
+      document.getElementById(btn.dataset.tab).classList.add('active');
+
+      if (btn.dataset.tab === 'allWatches') loadWatches();
+      if (btn.dataset.tab === 'orders') loadOrders();
+    });
+  });
+
+  // ===== PHOTO PREVIEW (Multiple) =====
+  document.getElementById('wPhotos').addEventListener('change', function(e) {
+    const preview = document.getElementById('photoPreview');
+    preview.innerHTML = '';
+
+    const files = Array.from(e.target.files).slice(0, 5); // max 5
+
+    if (e.target.files.length > 5) {
+      alert('⚠️ Maximum 5 photos allowed. Only first 5 will be used.');
+    }
+
+    files.forEach((file, index) => {
+      const reader = new FileReader();
+      reader.onload = (ev) => {
+        const div = document.createElement('div');
+        div.className = 'thumb';
+        div.innerHTML = `<img src="${ev.target.result}"><span class="count-badge">${index + 1}</span>`;
+        preview.appendChild(div);
+      };
+      reader.readAsDataURL(file);
+    });
+  });
+
+  // ===== ADD WATCH FORM SUBMIT (Multiple Photos) =====
+  document.getElementById('watchForm').addEventListener('submit', async (e) => {
+    e.preventDefault();
+
+    const formData = new FormData();
+    formData.append('name', document.getElementById('wName').value);
+    formData.append('price', document.getElementById('wPrice').value);
+    formData.append('category', document.getElementById('wCategory').value);
+    formData.append('stock', document.getElementById('wStock').value);
+    formData.append('description', document.getElementById('wDescription').value);
+
+    // Append multiple photos
+    const photoFiles = Array.from(document.getElementById('wPhotos').files).slice(0, 5);
+    photoFiles.forEach(file => {
+      formData.append('photos', file);
+    });
+
+    try {
+      const res = await fetch(`${API_URL}/api/admin/watches`, {
+        method: 'POST',
+        headers: { 'Authorization': `Bearer ${token}` },
+        body: formData
+      });
+
+      const data = await res.json();
+
+      if (data.success) {
+        alert('✅ Watch added successfully with ' + data.watch.photos.length + ' photo(s)!');
+        document.getElementById('watchForm').reset();
+        document.getElementById('photoPreview').innerHTML = '';
+      } else {
+        alert('❌ Error: ' + (data.error || 'Failed to add watch'));
+      }
+
+    } catch (err) {
+      alert('❌ Cannot connect to server.');
+    }
+  });
+
+  // ===== LOAD ALL WATCHES =====
+  async function loadWatches() {
+    const grid = document.getElementById('watchGrid');
+    grid.innerHTML = '<p class="empty-msg">Loading...</p>';
+
+    try {
+      const res = await fetch(`${API_URL}/api/watches`);
+      const watches = await res.json();
+
+      if (watches.length === 0) {
+        grid.innerHTML = '<p class="empty-msg">No watches added yet.</p>';
+        return;
+      }
+
+      grid.innerHTML = watches.map(w => {
+        const firstPhoto = (w.photos && w.photos.length > 0)
+          ? API_URL + w.photos[0]
+          : 'https://via.placeholder.com/220x180?text=No+Image';
+
+        const photoCount = w.photos ? w.photos.length : 0;
+
+        return `
+          <div class="watch-card">
+            ${photoCount > 0 ? `<span class="photo-count-tag">📷 ${photoCount}</span>` : ''}
+            <img src="${firstPhoto}" alt="${w.name}">
+            <div class="watch-card-body">
+              <h3>${w.name}</h3>
+              <p class="price">Rs. ${w.price.toLocaleString()}</p>
+              <p class="cat">${w.category} · Stock: ${w.stock}</p>
+              <div class="card-actions">
+                <button class="btn-delete" onclick="deleteWatch('${w.id}')">🗑 Delete</button>
+              </div>
+            </div>
+          </div>
+        `;
+      }).join('');
+
+    } catch (err) {
+      grid.innerHTML = '<p class="empty-msg">Error loading watches.</p>';
+    }
+  }
+
+  // ===== DELETE WATCH =====
+  async function deleteWatch(id) {
+    if (!confirm('Delete this watch?')) return;
+
+    try {
+      const res = await fetch(`${API_URL}/api/admin/watches/${id}`, {
+        method: 'DELETE',
+        headers: { 'Authorization': `Bearer ${token}` }
+      });
+
+      const data = await res.json();
+
+      if (data.success) {
+        loadWatches();
+      } else {
+        alert('Error deleting watch');
+      }
+    } catch (err) {
+      alert('Cannot connect to server.');
+    }
+  }
+
+  // ===== LOAD ORDERS =====
+  async function loadOrders() {
+    const tbody = document.getElementById('ordersBody');
+    tbody.innerHTML = '<tr><td colspan="8" class="empty-msg">Loading...</td></tr>';
+
+    try {
+      const res = await fetch(`${API_URL}/api/admin/orders`, {
+        headers: { 'Authorization': `Bearer ${token}` }
+      });
+      const orders = await res.json();
+
+      if (orders.length === 0) {
+        tbody.innerHTML = '<tr><td colspan="8" class="empty-msg">No orders yet.</td></tr>';
+        return;
+      }
+
+      tbody.innerHTML = orders.map(o => `
+        <tr>
+          <td>${o.id}</td>
+          <td>${o.customerName}</td>
+          <td>${o.phone}</td>
+          <td>${o.watchName}</td>
+          <td>${o.quantity}</td>
+          <td>Rs. ${o.totalPrice.toLocaleString()}</td>
+          <td>${o.paymentMethod}</td>
+          <td>${new Date(o.date).toLocaleDateString()}</td>
+        </tr>
+      `).join('');
+
+    } catch (err) {
+      tbody.innerHTML = '<tr><td colspan="8" class="empty-msg">Error loading orders.</td></tr>';
+    }
+  }
+
+  // ===== EXPORT EXCEL =====
+  function exportOrders() {
+    window.open(`${API_URL}/api/admin/orders/export?token=${token}`, '_blank');
+  }
+
+  // Initial load
+  loadWatches();
+</script>
+
+</body>
+</html>

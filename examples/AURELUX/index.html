@@ -1,0 +1,248 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <title>AURELUX | The Art of Time</title>
+  <meta name="description" content="Discover AURELUX luxury watches in Sri Lanka. Explore our watches in 3D, view the details, and find your perfect watch.">
+  <meta name="theme-color" content="#f3efe7">
+  <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 32 32%22%3E%3Ccircle cx=%2216%22 cy=%2216%22 r=%2213%22 fill=%22%23f3efe7%22 stroke=%22%239a6a41%22 stroke-width=%222%22/%3E%3Cpath d=%22M16 5v22M6.5 10.5l19 11M6.5 21.5l19-11%22 stroke=%22%2316213d%22 stroke-width=%221.4%22/%3E%3C/svg%3E">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,300;0,400;0,500;0,600;1,300;1,400;1,500&family=Montserrat:wght@400;500;600&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="./style.css">
+</head>
+<body>
+  <canvas id="gl" aria-hidden="true"></canvas>f
+
+  <div class="loader" role="status" aria-live="polite">
+    <svg class="loader-gauge" viewBox="0 0 200 200" aria-hidden="true">
+      <circle class="lg-track" cx="100" cy="100" r="86"/>
+      <circle class="lg-fill" cx="100" cy="100" r="86"/>
+      <g class="lg-ticks"></g>
+      <g class="lg-balance">
+        <circle cx="100" cy="100" r="34" fill="none" stroke="currentColor" stroke-width="2.4"/>
+        <path d="M100 66V134M70.6 83L129.4 117M70.6 117L129.4 83" stroke="currentColor" stroke-width="1.6"/>
+        <circle cx="100" cy="100" r="4" fill="currentColor"/>
+      </g>
+      <path class="lg-spring" d="M100 100m0-6a6 6 0 1 1-6 6a9 9 0 1 1 9 9a12 12 0 1 1-12-12a15 15 0 1 1 15 15a18 18 0 1 1-18-18" fill="none" stroke="currentColor" stroke-width=".8"/>
+    </svg>
+    <p class="loader-h"><span class="loader-n">0</span><small>h</small></p>
+    <p class="loader-line caps">Winding the mainspring</p>
+  </div>
+
+  <header class="nav">
+    <a class="brand" href="#top" aria-label="AURELUX Horologie — home">
+      <svg viewBox="0 0 32 32" aria-hidden="true"><circle cx="16" cy="16" r="11.5" fill="none" stroke="currentColor" stroke-width="1"/><path d="M16 4.5v23M6 10.2l20 11.6M6 21.8l20-11.6" stroke="currentColor" stroke-width=".7"/><circle cx="16" cy="16" r="2.2" fill="currentColor"/></svg>
+      <span class="brand-name">AURELUX</span>
+      <span class="brand-sub caps">Horologie · Genève</span>
+    </a>
+    <nav class="links" aria-label="Primary">
+      <a href="#calibre">Explore Watch</a>
+      <a href="#finishing">Watch Details</a>
+      <a href="#collection">Our Collection</a>
+      <a href="shop.html">Shop</a>
+      <a href="#atelier">About Us</a>
+    </nav>
+    <div class="nav-r">
+      <button class="sound caps" type="button" aria-pressed="true" data-cursor="link"><i></i><span>Sound</span></button>
+      <a class="btn btn-line" href="#appointment" data-magnetic>Request an appointment</a>
+    </div>
+  </header>
+
+  <main>
+    <section class="hero" id="top" aria-label="Introduction">
+      <div class="hero-inner">
+        <p class="eyebrow caps">Calibre AH-01 &nbsp;·&nbsp; Skeleton tourbillon &nbsp;·&nbsp; Genève</p>
+        <h1 class="hero-title"><span class="ln">Experience</span><span class="ln">True Luxury.</span><span class="ln"><em>With AURELUX.</em></span></h1>
+        <p class="hero-lede">Discover a new level of luxury with AURELUX.
+  Explore our premium watch collection in stunning 3D
+  and find the perfect watch for your style.</p>
+        <div class="hero-cta">
+          <a class="btn btn-solid" href="#appointment" data-magnetic>Shop Collection</a>
+          <a class="btn-text caps" href="#calibre">Explore in 3D <span aria-hidden="true">↓</span></a>
+        </div>
+      </div>
+      <dl class="hero-spec caps">
+        <div><dt>Design</dt><dd>Premium Luxury</dd></div>
+        <div><dt>Style</dt><dd>Modern & Elegant</dd></div>
+        <div><dt>Collection</dt><dd>AURELUX Series</dd></div>
+      </dl>
+      <p class="hint caps" aria-hidden="true"><span class="hint-dot"></span>Move to tilt the watch &nbsp;·&nbsp; scroll to open the case</p>
+
+        <div class="shop-inner">
+    <header class="shop-head">
+      <p class="fig caps">Full Collection</p>
+      <h2>Every piece, <em>in detail.</em></h2>
+    </header>
+    <div class="shop-grid" id="shopGrid">
+      <p class="shop-loading caps">Loading watches…</p>
+    </div>
+  </div>
+
+    </section>
+
+    <section class="calibre" id="calibre" aria-label="The calibre, exploded">
+      <div class="stage">
+        <article class="step" data-k="1">
+          <p class="fig caps">Fig. I &nbsp;—&nbsp; The case, opened</p>
+          <h2>Remove the gold, and what is left is <em>a machine.</em></h2>
+          <p>AH-01 is a hand-wound skeleton tourbillon: 211 parts and 31 jewels, and not one of them hidden behind a dial. Keep scrolling and we will take it apart, layer by layer, in the order it was put together.</p>
+        </article>
+        <article class="step" data-k="2">
+          <p class="fig caps">Fig. II &nbsp;—&nbsp; Exploded along the axis</p>
+          <h2>Twelve layers. <em>6.1 millimetres.</em></h2>
+          <p>Sapphire, hands, chapter ring, bridges, winding works, going train, tourbillon, barrel, mainplate, case. Every wheel here is turning at its true ratio — and the hands are showing your time.</p>
+          <ul class="spec caps"><li><b>32.4</b> mm calibre</li><li><b>31</b> jewels</li><li><b>211</b> parts</li></ul>
+        </article>
+        <article class="step" data-k="3">
+          <p class="fig caps">Fig. III &nbsp;—&nbsp; Energy</p>
+          <h2>Hold the crown. <em>Feel the ratchet.</em></h2>
+          <p>Forty-two centimetres of mainspring, coiled in a toothed drum. Each turn of the crown winds it tighter around the arbor while the click stops it slipping back. Thirty turns buy three days.</p>
+          <p class="step-hint caps"><span class="hint-dot"></span>Press and hold the crown, or the gauge</p>
+        </article>
+        <article class="step" data-k="4">
+          <p class="fig caps">Fig. IV &nbsp;—&nbsp; Transmission</p>
+          <h2>Four wheels turn days <em>into seconds.</em></h2>
+          <p>The barrel turns once every eight hours. The centre wheel turns once an hour and carries the minute hand. The third wheel steps it up again, until the tourbillon cage turns exactly once a minute.</p>
+          <ul class="spec caps"><li><b>96 : 12</b> barrel</li><li><b>80 : 10</b> centre</li><li><b>75 : 10</b> third</li></ul>
+        </article>
+        <article class="step" data-k="5">
+          <p class="fig caps">Fig. V &nbsp;—&nbsp; Regulation &nbsp;·&nbsp; shown at ⅒ speed</p>
+          <h2>Eight times a second, <em>it lets go.</em></h2>
+          <p>The pallet fork unlocks the escape wheel by half a tooth and returns a small push to the balance. The balance swings almost three quarters of a turn each way; its hairspring, thinner than a human hair, keeps the beat. The whole escapement rides in a cage that turns once a minute, averaging out gravity.</p>
+          <ul class="spec caps"><li><b>4</b> Hz</li><li><b>290°</b> amplitude</li><li><b>0.29</b> g cage</li></ul>
+        </article>
+        <ol class="rail caps" aria-hidden="true">
+          <li data-k="1">I</li><li data-k="2">II</li><li data-k="3">III</li><li data-k="4">IV</li><li data-k="5">V</li>
+        </ol>
+      </div>
+    </section>
+
+    <section class="finishing" id="finishing" aria-label="Finishing">
+      <div class="stage">
+        <header class="fin-head" data-k="6">
+          <p class="fig caps">Finishing</p>
+          <h2>What no one will see, <em>we polish anyway.</em></h2>
+        </header>
+        <article class="fin" data-k="6">
+          <p class="fin-n"><b>3</b><span class="caps">hours per movement</span></p>
+          <h3>Côtes de Genève</h3>
+          <p>Waves drawn across every bridge with a boxwood wheel, one pass per stripe, aligned from bridge to bridge as if they had been cut from a single plate of metal.</p>
+        </article>
+        <article class="fin" data-k="7">
+          <p class="fin-n"><b>4,000</b><span class="caps">circles on one mainplate</span></p>
+          <h3>Perlage</h3>
+          <p>Overlapping circles grained into the mainplate one at a time with a spinning peg. They scatter the light — and catch the dust that would otherwise find its way to the pivots.</p>
+        </article>
+        <article class="fin" data-k="8">
+          <p class="fin-n"><b>64</b><span class="caps">inward angles, by hand</span></p>
+          <h3>Anglage</h3>
+          <p>Every edge filed to forty-five degrees and polished with gentian wood until it throws a single line of light. An inward angle cannot be made by a machine. AH-01 has sixty-four.</p>
+        </article>
+      </div>
+    </section>
+
+    <section class="collection" id="collection" aria-label="The collection">
+      <div class="stage">
+        <header class="col-head" data-k="9">
+          <p class="fig caps">Reassembled</p>
+          <h2>Assembled twice. <em>Once to test, once to keep.</em></h2>
+          <p>Each AH-01 is fully assembled, regulated in six positions for three weeks, then taken down again for its final finishing — and put together for the last time by the same pair of hands.</p>
+        </header>
+        <header class="refs-head" data-k="10">
+          <p class="fig caps">The collection</p>
+          <h2>Three references. <em>One calibre.</em></h2>
+        </header>
+        <div class="refs" data-k="10">
+          <article class="ref">
+            <p class="caps ref-n">Ref. AH-01 · P</p>
+            <h3>Glacier</h3>
+            <p>950 platinum, rhodium-plated bridges, midnight-blue alligator.</p>
+            <p class="price">Rs. 85,000</p>
+          </article>
+          <article class="ref ref-main">
+            <p class="caps ref-n">Ref. AH-01 · R</p>
+            <h3>Rose</h3>
+            <p>18k 5N rose gold, anthracite bridges, hand-stitched brown alligator.</p>
+            <p class="price">Rs. 95,000</p>
+          </article>
+          <article class="ref">
+            <p class="caps ref-n">Ref. AH-01 · N &nbsp;·&nbsp; 12 pieces</p>
+            <h3>Nuit</h3>
+            <p>Black DLC titanium over rose-gold wheels, matte black calfskin.</p>
+            <p class="price">Rs. 110,000</p>
+          </article>
+        </div>
+      </div>
+    </section>
+
+    <section class="atelier" id="atelier" aria-label="The atelier">
+      <div class="stage">
+        <div class="at" data-k="11">
+          <p class="fig caps">Atelier &nbsp;·&nbsp; Rue des Granges, Genève</p>
+          <h2>Six watchmakers. <em>Thirty-eight watches a year.</em></h2>
+          <p>We could make more. We would rather each watch be made by one person, from the first file stroke to the last screw — and signed under the balance bridge, where only another watchmaker will ever read it.</p>
+          <dl class="stats">
+            <div><dt>6</dt><dd class="caps">watchmakers at the bench</dd></div>
+            <div><dt>38</dt><dd class="caps">watches a year</dd></div>
+            <div><dt>11</dt><dd class="caps">months for each one</dd></div>
+            <div><dt>420</dt><dd class="caps">hours of hand finishing</dd></div>
+          </dl>
+          <p class="bench caps">At the bench &nbsp;—&nbsp; Élise AURELUX, founder · Jonas Favre · Aiko Tanabe · Matteo Rinaldi · Clara Vuille · Samuel Dufour</p>
+        </div>
+      </div>
+    </section>
+
+    <section class="cta" id="appointment" aria-label="Appointments">
+      <div class="cta-inner" data-k="12">
+        <p class="fig caps">Appointments &nbsp;·&nbsp; 2027 allocation opens in March</p>
+        <h2>Your watch begins <em>with a conversation.</em></h2>
+        <p>Visits are by appointment at the atelier, Tuesday to Friday. Tell us a little about yourself and the watch you imagine; we answer every letter within two days.</p>
+        <div class="cta-row">
+          <a class="btn btn-solid" href="https://wa.me/94781866445?text=Hello%20AURELUX%2C%20I%20would%20like%20to%20know%20more%20about%20your%20watches." data-magnetic>Request an appointment</a>
+          <a class="btn-text caps" href="#calibre">Revisit the calibre <span aria-hidden="true">↑</span></a>
+        </div>
+      </div>
+    </section>
+
+    <footer class="foot">
+      <div class="foot-top">
+        <p class="foot-word">AURELUX</p>
+        <p class="foot-line">Made by hand in Geneva, <em>since 2009.</em></p>
+      </div>
+      <div class="foot-cols caps">
+        <p>AURELUX Horologie SA<br>Rue des Granges 14<br>1204 Genève, Suisse</p>
+        <p><a href="#atelier">Atelier</a><br><a href="#collection">Collection</a><br><a href="#appointment">Service &amp; restoration</a></p>
+        <p><a href="#top">Journal</a><br><a href="#top">Press</a><br><a href="#top">Instagram</a></p>
+        <p>© 2026 AURELUX Horologie Sri Lankas<br>Poinçon de Genève<br>Swiss made</p>
+      </div>
+    </footer>
+  </main>
+
+  <svg class="orbit" viewBox="0 0 400 400" aria-hidden="true">
+    <defs><path id="obPath" d="M200,200 m-166,0 a166,166 0 1,1 332,0 a166,166 0 1,1 -332,0"/></defs>
+    <circle cx="200" cy="200" r="196" class="ob-c"/>
+    <g class="ob-rot"><g class="ob-ticks"></g><circle cx="200" cy="7" r="2.4" class="ob-dot"/></g>
+    <text class="ob-t"><textPath href="#obPath" startOffset="0">Aurel Horologie · Genève · Calibre AH-01 · Tourbillon squelette · 28,800 A/h · 72 heures ·</textPath></text>
+    <path d="M4 200H40M360 200H396" class="ob-c"/>
+  </svg>
+  <div class="labels" aria-hidden="true"><svg class="leaders"></svg></div>
+  <div class="crown-hint" aria-hidden="true"><i></i><b></b><span class="caps">Hold to wind</span></div>
+  <aside class="reserve" aria-label="Power reserve">
+    <button class="reserve-btn" type="button" data-cursor="drag" data-cursor-label="Hold" aria-label="Press and hold to wind the mainspring">
+      <svg viewBox="0 0 120 120" aria-hidden="true">
+        <circle class="rv-track" cx="60" cy="60" r="50"/>
+        <circle class="rv-fill" cx="60" cy="60" r="50"/>
+        <g class="rv-ticks"></g>
+      </svg>
+      <span class="rv-val"><b>24</b><small>h</small></span>
+    </button>
+    <p class="rv-label caps"><span>Power reserve</span><em>Hold to wind</em></p>
+  </aside>
+  <div class="toast caps" role="status"></div>
+
+  <script type="module" src="./main.js"></script>
+
+</body>
+</html>

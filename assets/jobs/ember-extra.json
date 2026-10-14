@@ -1,0 +1,25 @@
+{
+  "images": [
+    {
+      "id": "ember-brick",
+      "raw": true,
+      "prompt": "Seamless tileable texture, orthographic flat front view of an old blacksmith workshop wall: hand-made clay bricks in running bond, heavily blackened by a century of forge soot and smoke, crumbling lime mortar joints, subtle warm brown-red brick showing through the soot in places, chipped edges, flat even diffuse lighting with no shadows or highlights, no perspective, fills the entire frame edge to edge, photographic PBR albedo texture, no text.",
+      "aspect_ratio": "1:1",
+      "resolution": "2K"
+    },
+    {
+      "id": "ember-floor",
+      "raw": true,
+      "prompt": "Seamless tileable texture, top-down orthographic view of a blacksmith forge floor: packed dark earth and worn flagstones covered in black soot, coal dust and tiny flakes of iron forge scale, a few scattered small cinders, very dark charcoal and umber tones, flat even diffuse lighting with no shadows, fills the entire frame edge to edge, photographic PBR albedo texture, no objects, no text.",
+      "aspect_ratio": "1:1",
+      "resolution": "2K"
+    },
+    {
+      "id": "ember-damascus",
+      "raw": true,
+      "prompt": "Extreme macro photograph of a polished and acid-etched random-pattern damascus steel sword blade surface, flat-on orthographic view filling the entire frame edge to edge, flowing wood-grain and topographic contour layers of bright silver nickel steel and dark grey carbon steel, hundreds of fine sinuous stretched layers running horizontally along the length, even soft lighting, no reflections of objects, no edges of the blade visible, no text.",
+      "aspect_ratio": "21:9",
+      "resolution": "2K"
+    }
+  ]
+}

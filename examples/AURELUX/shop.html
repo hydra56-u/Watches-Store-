@@ -1,0 +1,92 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <title>Shop | AURELUX — The Art of Time</title>
+  <meta name="description" content="Browse the full AURELUX watch collection. Luxury watches crafted with precision.">
+  <meta name="theme-color" content="#f3efe7">
+  <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 32 32%22%3E%3Ccircle cx=%2216%22 cy=%2216%22 r=%2213%22 fill=%22%23f3efe7%22 stroke=%22%239a6a41%22 stroke-width=%222%22/%3E%3Cpath d=%22M16 5v22M6.5 10.5l19 11M6.5 21.5l19-11%22 stroke=%22%2316213d%22 stroke-width=%221.4%22/%3E%3C/svg%3E">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,300;0,400;0,500;0,600;1,300;1,400;1,500&family=Montserrat:wght@400;500;600&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="./shop.css">
+</head>
+<body>
+
+  <!-- ─── NAV (same style as main site) ─── -->
+  <header class="nav nav-static">
+    <a class="brand" href="./index.html#top" aria-label="AURELUX Horologie — home">
+      <svg viewBox="0 0 32 32" aria-hidden="true"><circle cx="16" cy="16" r="11.5" fill="none" stroke="currentColor" stroke-width="1"/><path d="M16 4.5v23M6 10.2l20 11.6M6 21.8l20-11.6" stroke="currentColor" stroke-width=".7"/><circle cx="16" cy="16" r="2.2" fill="currentColor"/></svg>
+      <span class="brand-name">AURELUX</span>
+      <span class="brand-sub caps">Horologie · Genève</span>
+    </a>
+    <nav class="links" aria-label="Primary">
+      <a href="./index.html#calibre">Explore Watch</a>
+      <a href="./index.html#finishing">Watch Details</a>
+      <a href="./index.html#collection">Our Collection</a>
+      <a href="./shop.html" class="active">Shop</a>
+      <a href="./index.html#atelier">About Us</a>
+    </nav>
+    <div class="nav-r">
+      <a class="btn btn-line" href="https://wa.me/94781866445?text=Hello%20AURELUX%2C%20I%20would%20like%20to%20know%20more%20about%20your%20watches." data-magnetic>Request an appointment</a>
+    </div>
+  </header>
+
+  <main class="shop-main">
+
+    <!-- ─── HERO BANNER ─── -->
+    <section class="shop-hero">
+      <p class="eyebrow caps">Full Collection · AURELUX Horologie</p>
+      <h1 class="shop-hero-title">Every piece, <em>in detail.</em></h1>
+      <p class="shop-hero-lede">Browse our complete range of handcrafted timepieces — each one built to the same exacting standard as the calibre you just explored.</p>
+    </section>
+
+    <!-- ─── FILTER BAR ─── -->
+    <section class="shop-filters" aria-label="Filter watches">
+      <div class="filters-inner">
+        <div class="filter-group caps" id="categoryFilters">
+          <button class="filter-chip active" data-cat="all">All</button>
+          <!-- categories will be injected here by JS -->
+        </div>
+        <div class="filter-search">
+          <input type="text" id="searchInput" placeholder="Search watches…" class="search-input">
+        </div>
+      </div>
+    </section>
+
+    <!-- ─── PRODUCT GRID ─── -->
+    <section class="shop-grid-section">
+      <div class="shop-grid" id="shopGrid">
+        <p class="shop-loading caps">Loading watches…</p>
+      </div>
+    </section>
+
+  </main>
+
+  <!-- ─── FOOTER (matches main site) ─── -->
+  <footer class="foot">
+    <div class="foot-top">
+      <p class="foot-word">AURELUX</p>
+      <p class="foot-line">Made by hand in Geneva, <em>since 2009.</em></p>
+    </div>
+    <div class="foot-cols caps">
+      <p>AURELUX Horologie SA<br>Rue des Granges 14<br>1204 Genève, Suisse</p>
+      <p><a href="./index.html#atelier">Atelier</a><br><a href="./index.html#collection">Collection</a><br><a href="./shop.html">Shop</a></p>
+      <p><a href="./index.html#top">Journal</a><br><a href="./index.html#top">Press</a><br><a href="./index.html#top">Instagram</a></p>
+      <p>© 2026 AURELUX Horologie Sri Lanka<br>Poinçon de Genève<br>Swiss made</p>
+    </div>
+  </footer>
+
+  <!-- ─── WATCH DETAIL MODAL ─── -->
+  <div class="watch-modal" id="watchModal" aria-hidden="true">
+    <div class="watch-modal-overlay" id="modalOverlay"></div>
+    <div class="watch-modal-content">
+      <button class="watch-modal-close" id="modalClose" aria-label="Close">&times;</button>
+      <div class="watch-modal-body" id="modalBody"></div>
+    </div>
+  </div>
+
+  <script type="module" src="./shop.js"></script>
+</body>
+</html>

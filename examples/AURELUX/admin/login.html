@@ -1,0 +1,170 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>AURELUX | Admin Login</title>
+<style>
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+
+  body {
+    font-family: 'Montserrat', Arial, sans-serif;
+    background: #0B0B0F;
+    color: #F8F6F3;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+
+  .login-box {
+    width: 100%;
+    max-width: 380px;
+    background: rgba(23, 23, 29, 0.9);
+    border: 1px solid rgba(232, 198, 167, 0.25);
+    border-radius: 20px;
+    padding: 45px 35px;
+    box-shadow: 0 25px 60px rgba(0,0,0,0.5);
+  }
+
+  .login-box h1 {
+    font-size: 1.8rem;
+    margin-bottom: 5px;
+    background: linear-gradient(45deg, #E8C6A7, #C98B72);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+  }
+
+  .login-box p.sub {
+    color: #B9B4B0;
+    font-size: 0.85rem;
+    margin-bottom: 30px;
+    letter-spacing: 1px;
+  }
+
+  label {
+    display: block;
+    font-size: 0.8rem;
+    color: #B9B4B0;
+    margin-top: 18px;
+    margin-bottom: 6px;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+  }
+
+  input {
+    width: 100%;
+    padding: 13px 15px;
+    background: rgba(255,255,255,0.05);
+    border: 1px solid rgba(232, 198, 167, 0.2);
+    border-radius: 10px;
+    color: #F8F6F3;
+    font-size: 0.95rem;
+    outline: none;
+    transition: 0.2s;
+  }
+
+  input:focus {
+    border-color: #E8C6A7;
+    background: rgba(255,255,255,0.08);
+  }
+
+  button {
+    width: 100%;
+    margin-top: 28px;
+    padding: 14px;
+    background: linear-gradient(45deg, #E8C6A7, #C98B72);
+    border: none;
+    border-radius: 12px;
+    color: #0B0B0F;
+    font-weight: 700;
+    font-size: 0.95rem;
+    cursor: pointer;
+    transition: 0.3s;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+  }
+
+  button:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 10px 25px rgba(232, 198, 167, 0.3);
+  }
+
+  .error-msg {
+    display: none;
+    margin-top: 15px;
+    padding: 10px 14px;
+    background: rgba(255, 80, 80, 0.1);
+    border: 1px solid rgba(255, 80, 80, 0.3);
+    border-radius: 8px;
+    color: #ff8080;
+    font-size: 0.85rem;
+  }
+
+  .error-msg.show { display: block; }
+</style>
+</head>
+<body>
+
+  <div class="login-box">
+    <h1>AURELUX</h1>
+    <p class="sub">ADMIN PANEL — SIGN IN</p>
+
+    <form id="loginForm">
+      <label>Username</label>
+      <input type="text" id="username" required autocomplete="username">
+
+      <label>Password</label>
+      <input type="password" id="password" required autocomplete="current-password">
+
+      <div class="error-msg" id="errorMsg"></div>
+
+      <button type="submit">Sign In</button>
+    </form>
+  </div>
+
+<script>
+  const API_URL = 'http://localhost:5000';
+
+  const form = document.getElementById('loginForm');
+  const errorMsg = document.getElementById('errorMsg');
+
+  // Already logged in? redirect to dashboard
+  if (localStorage.getItem('aurelux_token')) {
+    window.location.href = 'dashboard.html';
+  }
+
+  form.addEventListener('submit', async (e) => {
+    e.preventDefault();
+
+    const username = document.getElementById('username').value;
+    const password = document.getElementById('password').value;
+
+    errorMsg.classList.remove('show');
+
+    try {
+      const res = await fetch(`${API_URL}/api/admin/login`, {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({ username, password })
+      });
+
+      const data = await res.json();
+
+      if (data.success) {
+        localStorage.setItem('aurelux_token', data.token);
+        window.location.href = 'dashboard.html';
+      } else {
+        errorMsg.textContent = data.error || 'Login failed';
+        errorMsg.classList.add('show');
+      }
+
+    } catch (err) {
+      errorMsg.textContent = 'Cannot connect to server. Is the backend running?';
+      errorMsg.classList.add('show');
+    }
+  });
+</script>
+
+</body>
+</html>

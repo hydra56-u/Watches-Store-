@@ -1,0 +1,12 @@
+{ "images": [
+  { "id": "racer-brick", "raw": true, "aspect_ratio": "1:1", "resolution": "2K",
+    "prompt": "Seamless tileable texture. Straight-on orthographic photograph of an old industrial brick wall, soot-darkened charcoal and deep oxblood bricks in running bond, recessed dark mortar joints, wet from rain with subtle vertical water streaks and faint white efflorescence, evenly and flatly lit, no perspective, no shadows, no objects, no text, the bricks fill the entire frame edge to edge." },
+  { "id": "racer-shutter", "raw": true, "aspect_ratio": "1:1", "resolution": "2K",
+    "prompt": "Straight-on orthographic photograph of a closed steel roll-up garage shutter, horizontal corrugated slats filling the entire frame edge to edge, dark gunmetal grey paint worn to bare steel along the ridges, rust streaks and rain runs, grime near the bottom, even flat lighting, no frame, no surrounding wall, no text, no graffiti, no logos." },
+  { "id": "racer-asphalt", "raw": true, "aspect_ratio": "1:1", "resolution": "2K",
+    "prompt": "Seamless tileable texture. Top-down orthographic photograph of dark city asphalt road surface, fine black aggregate with occasional grey stones, a couple of thin sealed tar crack lines, faint oil stains, evenly lit, no puddles, no road markings, no shadows, fills the entire frame." },
+  { "id": "racer-workshop", "raw": true, "aspect_ratio": "21:9", "resolution": "2K",
+    "prompt": "Cinematic low photograph taken at floor level inside a small custom motorcycle workshop at night, warm amber tungsten work lights, polished concrete floor with oil stains and reflections, a red rolling tool chest, spoked motorcycle wheels leaning against a workbench, a bike frame on a stand, shallow depth of field, dim moody atmosphere, film grain, no people, no text." },
+  { "id": "racer-city", "raw": true, "aspect_ratio": "21:9", "resolution": "2K",
+    "prompt": "Very dark rainy city street at night seen far in the distance, everything heavily out of focus, soft round bokeh of sodium street lamps, red tail lights and a few magenta and teal shop signs, wet road reflections, thin fog, cinematic anamorphic look, restrained palette, mostly black, no people, no readable text." }
+] }

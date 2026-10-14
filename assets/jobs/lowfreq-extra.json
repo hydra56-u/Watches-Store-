@@ -1,0 +1,14 @@
+{ "images": [
+  { "id": "lowfreq-cover-aubergine", "raw": true, "aspect_ratio": "1:1", "resolution": "1K",
+    "prompt": "Square vintage jazz record album cover artwork, no text, no letters, no typography. Grainy 35mm film photograph: close-up of a pianist's hands resting on the keys of a worn Fender Rhodes electric piano, lit by a single warm amber lamp from above, everything else falling into deep aubergine-purple shadow, shallow depth of field, heavy film grain, faded 1970s Japanese jazz label aesthetic, moody, intimate, photographic print texture." },
+  { "id": "lowfreq-cover-tidal", "raw": true, "aspect_ratio": "1:1", "resolution": "1K",
+    "prompt": "Square minimalist record album cover artwork, no text, no letters, no typography. A single large pale lavender circle hovering just above a flat dark indigo sea horizon, a thin amber line where sky meets water, vast empty space, risograph print with visible grain and slight ink misregistration, 1960s Japanese modernist graphic design, calm, flat colour fields on uncoated paper." },
+  { "id": "lowfreq-cover-counter", "raw": true, "aspect_ratio": "1:1", "resolution": "1K",
+    "prompt": "Square record album cover artwork, no text, no letters, no typography. High-contrast black and white photograph of an empty narrow Tokyo listening bar at closing time: a long polished wooden counter with a row of round bar stools, a single pendant lamp making a pool of light, walls of vinyl records fading into darkness, heavy grain, deep blacks, 1960s Blue Note style photography, cropped tight, cinematic." },
+  { "id": "lowfreq-cover-rain", "raw": true, "aspect_ratio": "1:1", "resolution": "1K",
+    "prompt": "Square record album cover artwork, no text, no letters, no typography, no signs with readable writing. Night photograph of a narrow Tokyo back alley in heavy rain, wet asphalt reflecting smeared purple and amber neon glow, a lone figure with a transparent umbrella walking away, soft motion blur, bokeh, cinematic colour grade, film grain, melancholy lo-fi mood." },
+  { "id": "lowfreq-cover-valves", "raw": true, "aspect_ratio": "1:1", "resolution": "1K",
+    "prompt": "Square record album cover artwork, no text, no letters, no typography. Macro photograph of four glowing vacuum tubes on a black amplifier chassis in total darkness, orange-amber filaments burning inside smoky glass, reflections on chrome, creamy bokeh, violet rim light from behind, dark and warm, analog hi-fi still life, film grain." },
+  { "id": "lowfreq-cover-geometry", "raw": true, "aspect_ratio": "1:1", "resolution": "1K",
+    "prompt": "Square abstract record album cover artwork, no text, no letters, no typography. Swiss and Japanese modernist composition: overlapping amber semicircles, a lavender quarter-disc and thin black parallel stripes arranged like sound waves on warm off-white paper, screen-printed texture with slight ink spread and paper fibres, bold, balanced, 1960s jazz label design." }
+] }

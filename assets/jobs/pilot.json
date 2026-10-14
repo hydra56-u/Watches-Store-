@@ -1,0 +1,10 @@
+{
+  "images": [
+    { "id": "pilot-astrolabe", "prompt": "An intricate antique brass astrolabe on a small carved walnut stand, engraved rete with star pointers, nested rings, fine filigree, patinated brass with worn highlights." },
+    { "id": "pilot-guardian", "prompt": "An ancient weathered stone guardian statue of a seated lion-dog (komainu), carved granite with moss patches and lichen, cracked chipped edges, sitting on a square carved plinth." }
+  ],
+  "meshes": [
+    { "id": "pilot-astrolabe" },
+    { "id": "pilot-guardian" }
+  ]
+}

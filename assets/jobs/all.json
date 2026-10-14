@@ -1,0 +1,522 @@
+{
+  "images": [
+    {
+      "id": "reliq-helmet",
+      "prompt": "An ancient Greek bronze Corinthian hoplite helmet, deep verdigris green-blue patina with exposed warm bronze on the high points, dented and scratched, engraved brow line, narrow eye slits and nose guard, resting on a small rough-cut dark basalt display block."
+    },
+    {
+      "id": "reliq-mask",
+      "prompt": "An ancient Maya jade mosaic funerary mask, hundreds of fitted green jade tesserae, inlaid white shell eyes with black obsidian pupils, subtle cracks, museum artifact, facing forward at a slight three-quarter angle, mounted on a small black metal museum stand."
+    },
+    {
+      "id": "reliq-bust",
+      "prompt": "A weathered white Carrara marble classical Greek bust of a young woman with braided hair tied up, nose slightly chipped, subtle grey veining and soft erosion, on a square marble socle, museum sculpture."
+    },
+    {
+      "id": "reliq-amphora",
+      "prompt": "An ancient Greek black-figure terracotta amphora with two handles, orange clay with black painted figures of running athletes and meander bands, small chips and wear, standing upright."
+    },
+    {
+      "id": "abyss-angler",
+      "prompt": "A deep-sea anglerfish, menacing wide jaw with long translucent needle teeth, bulbous glowing lure on a stalk above its head, dark brown-black rough warty skin, small eyes, fins spread, side three-quarter view, museum-quality natural history model."
+    },
+    {
+      "id": "abyss-nautilus",
+      "prompt": "A living chambered nautilus, cream shell with bold red-brown tiger stripes, pearly aperture, many small tentacles and a hood emerging from the shell opening, three-quarter view."
+    },
+    {
+      "id": "abyss-sub",
+      "prompt": "A compact deep-sea research submersible, rounded white and safety-orange hull, large clear acrylic viewing dome at the front, two articulated manipulator arms, cluster of LED floodlights, ballast tanks, thrusters, sampling basket, realistic industrial design."
+    },
+    {
+      "id": "abyss-vent",
+      "prompt": "A hydrothermal vent chimney diorama from the deep ocean floor: a tall craggy black-and-rust mineral chimney, dense clusters of giant red-plumed white tube worms at its base, pale crabs and mussels, on a round chunk of dark volcanic seabed."
+    },
+    {
+      "id": "ember-sword",
+      "prompt": "A hand-forged Viking longsword lying diagonally across the frame from bottom-left to top-right, entire sword visible with margin, damascus pattern-welded steel blade with a clearly visible flowing wood-grain pattern, bronze crossguard and lobed pommel with knotwork, dark leather-wrapped grip.",
+      "aspect_ratio": "1:1"
+    },
+    {
+      "id": "ember-anvil",
+      "prompt": "A heavy old blacksmith's anvil, dark forged steel with a polished worn face and horn, scale and scratches, bolted on top of a thick weathered oak tree-stump base with iron bands."
+    },
+    {
+      "id": "ember-hammer",
+      "prompt": "A blacksmith's cross-peen forging hammer with a dark forged steel head showing hammer marks, and a worn ash-wood handle, lying diagonally."
+    },
+    {
+      "id": "terra-moss",
+      "prompt": "A miniature forest terrarium landscape without any glass: rolling hills of lush green cushion moss, lichen-covered grey stones, tiny ferns, a small gnarled bonsai-like tree, a white pebble path winding through, tiny red mushrooms, all built on a round turned walnut wood base disc."
+    },
+    {
+      "id": "terra-desert",
+      "prompt": "A miniature desert terrarium landscape without any glass: pale golden sand dunes, sculptural sandstone rocks, small green and blue-grey succulents and echeverias, a tiny flowering cactus with pink blooms, all built on a round turned walnut wood base disc."
+    },
+    {
+      "id": "terra-tropic",
+      "prompt": "A miniature tropical rainforest terrarium landscape without any glass: dark volcanic rocks, a tiny cascading waterfall, lush miniature ferns, fittonia with pink veins, a small white orchid, mossy roots, all built on a round turned walnut wood base disc."
+    },
+    {
+      "id": "koi-kohaku",
+      "prompt": "A single koi carp fish seen from above at a slight three-quarter angle, kohaku pattern: glossy pearl-white body with large vivid red-orange patches, long flowing translucent fins and tail spread out, gentle S-curve swimming pose, realistic scales."
+    },
+    {
+      "id": "koi-showa",
+      "prompt": "A single koi carp fish seen from above at a slight three-quarter angle, showa sanshoku pattern: black body with red-orange and white patches, long flowing translucent fins and tail spread out, gentle S-curve swimming pose, realistic scales."
+    },
+    {
+      "id": "koi-lotus",
+      "prompt": "A single open pink lotus flower with layered soft pink petals, golden seed pod center and yellow stamens, sitting on one round flat green lotus leaf."
+    },
+    {
+      "id": "koi-lantern",
+      "prompt": "A traditional Japanese granite stone lantern (kasuga toro), weathered grey stone with moss on the roof and base, hexagonal fire box with carved openings, tall pillar, on a rough rock."
+    },
+    {
+      "id": "flora-rose",
+      "prompt": "A single perfect deep crimson red rose bloom with many velvety layered petals and a short stem with two green leaves, botanical specimen."
+    },
+    {
+      "id": "flora-protea",
+      "prompt": "A single king protea flower head, large crown of pink-tipped pointed bracts around a silvery-cream fuzzy center, short stem with leathery green leaves, botanical specimen."
+    },
+    {
+      "id": "flora-morpho",
+      "prompt": "A blue morpho butterfly with wings spread open, iridescent electric-blue upper wings with black edges and white spots, body and antennae, seen from above at a slight angle, natural history specimen."
+    },
+    {
+      "id": "flora-orchid",
+      "prompt": "A single white phalaenopsis orchid spray: arching stem with five open white flowers with magenta-veined lips and two buds, botanical specimen without pot."
+    },
+    {
+      "id": "velo-white",
+      "prompt": "A futuristic performance running sneaker resting flat on the ground, clean side three-quarter view with the entire shoe visible from toe to heel with wide margins, white engineered knit upper with subtle translucent ripstop overlays, sculpted chunky pale-grey foam midsole with a visible black carbon plate slit, volt-orange heel pull tab and orange laces, premium product design."
+    },
+    {
+      "id": "hangar-mech",
+      "prompt": "A large bipedal combat mech robot standing, full body head to feet, military gunmetal grey armor plates with orange hazard stripes and stencilled numbers, weathered and chipped paint, armored cockpit head with glowing visor slit, heavy digitigrade legs with hydraulic pistons, shoulder-mounted cannon, realistic hard-surface design."
+    },
+    {
+      "id": "hangar-drone",
+      "prompt": "A heavy industrial quadcopter drone, carbon fiber and matte grey body, four large rotors with guards, orange safety markings, sensor gimbal camera underneath, realistic hard-surface design."
+    },
+    {
+      "id": "sucre-cake",
+      "prompt": "An elegant three-tier pastel pink and cream wedding cake with piped buttercream ruffles, fresh raspberries and pale roses, gold leaf flakes, on a white porcelain cake stand."
+    },
+    {
+      "id": "sucre-macaron",
+      "prompt": "A single French macaron, pastel pink shells with smooth domed tops and ruffled feet, raspberry buttercream filling, slightly tilted."
+    },
+    {
+      "id": "sucre-macaron2",
+      "prompt": "A single French macaron, pastel pistachio green shells with smooth domed tops and ruffled feet, cream filling, slightly tilted."
+    },
+    {
+      "id": "sucre-croissant",
+      "prompt": "A single golden buttery French croissant with flaky glossy laminated layers."
+    },
+    {
+      "id": "sucre-strawberry",
+      "prompt": "A single ripe glossy red strawberry with green leafy calyx."
+    },
+    {
+      "id": "sucre-tart",
+      "prompt": "A small round French strawberry tart: golden fluted pastry shell, vanilla custard, glazed halved strawberries arranged in a spiral, a mint leaf."
+    },
+    {
+      "id": "mono-house",
+      "prompt": "An architectural diorama: a minimalist modern concrete villa with long cantilevered floors and floor-to-ceiling glass cantilevered dramatically over a rugged granite sea cliff, a few windswept pine trees, infinity pool, all on a chunk of rocky terrain with rough cut edges, highly detailed architectural model."
+    },
+    {
+      "id": "lf-turntable",
+      "prompt": "A premium high-end record turntable, thick walnut wood plinth, heavy brushed aluminum platter with a black vinyl record, polished tonearm with counterweight, two rotary knobs, no dust cover."
+    },
+    {
+      "id": "lf-speaker",
+      "prompt": "A premium bookshelf studio speaker, walnut wood cabinet, exposed woven paper woofer cone and a silk dome tweeter, brass bolts, front-facing three-quarter view."
+    },
+    {
+      "id": "gambit-king",
+      "prompt": "A tall ornate Staunton king chess piece carved from polished white Carrara marble with delicate grey veining, cross on top, standing upright."
+    },
+    {
+      "id": "gambit-queen",
+      "prompt": "A tall ornate Staunton queen chess piece carved from polished white Carrara marble with delicate grey veining, coronet crown on top, standing upright."
+    },
+    {
+      "id": "gambit-bishop",
+      "prompt": "A Staunton bishop chess piece carved from polished white Carrara marble with delicate grey veining, mitre with diagonal cut and small ball finial, standing upright."
+    },
+    {
+      "id": "gambit-knight",
+      "prompt": "A Staunton knight chess piece carved from polished white Carrara marble with delicate grey veining, finely sculpted horse head with flowing mane, standing upright, three-quarter side view."
+    },
+    {
+      "id": "gambit-rook",
+      "prompt": "A Staunton rook chess piece carved from polished white Carrara marble with delicate grey veining, castle turret top with crenellations, standing upright."
+    },
+    {
+      "id": "gambit-pawn",
+      "prompt": "A Staunton pawn chess piece carved from polished white Carrara marble with delicate grey veining, sphere head on a collar and stepped base, standing upright."
+    },
+    {
+      "id": "atlas-lighthouse",
+      "prompt": "A stylized floating sky island, hand-painted stylized game art style: a grassy cliff-top with a small white lighthouse with red top and a cozy stone cottage, winding path, wildflowers, the island's underside a jagged rock cone with hanging roots, floating in the air."
+    },
+    {
+      "id": "atlas-falls",
+      "prompt": "A stylized floating sky island, hand-painted stylized game art style: lush forest with round trees, a waterfall pouring off the edge from a small lake, mossy boulders, the island's underside a jagged rock cone with hanging vines, floating in the air."
+    },
+    {
+      "id": "atlas-pagoda",
+      "prompt": "A stylized floating sky island, hand-painted stylized game art style: a red Japanese pagoda with pink cherry blossom trees, stone steps and a torii gate, the island's underside a jagged rock cone with hanging roots, floating in the air."
+    },
+    {
+      "id": "atlas-windmill",
+      "prompt": "A stylized floating sky island, hand-painted stylized game art style: rolling golden wheat fields, a wooden windmill, a red barn, hay bales and a tiny winding river, the island's underside a jagged rock cone with hanging roots, floating in the air."
+    },
+    {
+      "id": "lithos-geode",
+      "prompt": "One half of a large split amethyst geode, cut face up and tilted toward the viewer: a rough grey-brown rocky outer crust, a white agate banding rim, and a deep cavity densely lined with sparkling purple amethyst crystal points."
+    },
+    {
+      "id": "lithos-quartz",
+      "prompt": "A cluster of clear quartz crystal points growing from a small matrix rock, tall hexagonal terminated crystals, water-clear with slight internal veils and rainbow inclusions."
+    },
+    {
+      "id": "lithos-pyrite",
+      "prompt": "A cluster of natural pyrite cubes, sharp interlocking metallic brass-gold cubic crystals with striated faces, on a small dark rock matrix."
+    },
+    {
+      "id": "lithos-ammonite",
+      "prompt": "A polished ammonite fossil, spiral shell cut and polished showing iridescent mother-of-pearl surface and intricate suture patterns, on a small rough stone base."
+    },
+    {
+      "id": "artemis-astro",
+      "prompt": "A full-body astronaut in a modern white and light grey lunar exploration spacesuit with a reflective gold visor, backpack life-support system, orange accents, gloves and boots, standing in a relaxed A-pose with arms slightly away from the body, facing the viewer, full figure head to toe visible.",
+      "aspect_ratio": "3:4"
+    },
+    {
+      "id": "artemis-lander",
+      "prompt": "A modern lunar lander spacecraft on four spindly landing legs with round footpads, gold foil insulated descent stage, white and grey ascent cabin with windows, antennas, thrusters, solar panel, realistic aerospace design."
+    },
+    {
+      "id": "keeper-lighthouse",
+      "prompt": "A diorama of a tall weathered stone lighthouse painted with red and white bands, black iron lantern gallery at the top, attached small white keeper's cottage with slate roof and chimney, standing on a tall jagged dark wet basalt sea-rock outcrop with steep sides, the rock cut flat at the bottom, no water, no waves, no sea."
+    },
+    {
+      "id": "keeper-boat",
+      "prompt": "A small weathered wooden fishing trawler boat, dark green hull with a white wheelhouse, rust streaks, nets, buoys and a small mast with lights."
+    },
+    {
+      "id": "koen-maple",
+      "prompt": "A Japanese maple bonsai tree in full summer foliage, thick flared tapering trunk with nebari surface roots, elegant branch structure with dense green palmate leaf pads, in a shallow oval dark-glazed ceramic pot covered with moss."
+    },
+    {
+      "id": "noct-iris",
+      "prompt": "A single purple bearded iris flower with ruffled violet falls and standards, golden beard, short green stem and a blade leaf, botanical specimen."
+    },
+    {
+      "id": "noct-bergamot",
+      "prompt": "Two bergamot oranges with one cut in half showing the juicy pale yellow segments, glossy textured green-yellow peel, a sprig with two dark leaves."
+    },
+    {
+      "id": "noct-vanilla",
+      "prompt": "A small bundle of glossy dark brown cured vanilla bean pods tied with twine, next to a cured vanilla orchid flower."
+    },
+    {
+      "id": "noct-oud",
+      "prompt": "A piece of rare resinous agarwood (oud) wood, dark streaks of resin through pale gnarled wood, sculptural twisted chunk."
+    },
+    {
+      "id": "noct-cap",
+      "prompt": "An ornate heavy perfume bottle stopper cap, faceted black obsidian crystal top in a sculpted polished gold art-deco collar with fluted ridges, standing upright."
+    },
+    {
+      "id": "racer-bike",
+      "prompt": "A custom cafe racer motorcycle, three-quarter side view, glossy black fuel tank with brass pinstripe, tan leather hump seat, round chrome headlight, clip-on handlebars, exposed polished twin-cylinder engine, spoked wheels with black tires, brass and chrome details."
+    },
+    {
+      "id": "racer-helmet",
+      "prompt": "A vintage open-face motorcycle helmet, glossy cream paint with a thin red racing stripe, brown leather trim and chin strap, with a bubble visor raised."
+    },
+    {
+      "id": "horo-watch",
+      "prompt": "A luxury skeleton mechanical wristwatch, round polished rose-gold case, openworked dial exposing gears, bridges and a balance wheel, blued steel hands, sapphire crystal, dark brown alligator leather strap, three-quarter view."
+    },
+    {
+      "id": "velo-black",
+      "raw": true,
+      "edit_from": [
+        "velo-white"
+      ],
+      "prompt": "Recolor this exact sneaker, keeping the identical shape, angle, framing and pure white background: make the knit upper deep matte black, the foam midsole charcoal graphite, the carbon plate slit glossy black, and change the heel tab and laces to electric volt yellow-green. Photorealistic product render."
+    }
+  ],
+  "meshes": [
+    {
+      "id": "reliq-helmet",
+      "polycount": 150000
+    },
+    {
+      "id": "reliq-mask",
+      "polycount": 150000
+    },
+    {
+      "id": "reliq-bust",
+      "polycount": 150000
+    },
+    {
+      "id": "reliq-amphora",
+      "polycount": 80000
+    },
+    {
+      "id": "abyss-angler",
+      "polycount": 150000
+    },
+    {
+      "id": "abyss-nautilus",
+      "polycount": 100000
+    },
+    {
+      "id": "abyss-sub",
+      "polycount": 150000
+    },
+    {
+      "id": "abyss-vent",
+      "polycount": 150000
+    },
+    {
+      "id": "ember-sword",
+      "polycount": 80000
+    },
+    {
+      "id": "ember-anvil",
+      "polycount": 100000
+    },
+    {
+      "id": "ember-hammer",
+      "polycount": 40000
+    },
+    {
+      "id": "terra-moss",
+      "polycount": 200000
+    },
+    {
+      "id": "terra-desert",
+      "polycount": 200000
+    },
+    {
+      "id": "terra-tropic",
+      "polycount": 200000
+    },
+    {
+      "id": "koi-kohaku",
+      "polycount": 60000
+    },
+    {
+      "id": "koi-showa",
+      "polycount": 60000
+    },
+    {
+      "id": "koi-lotus",
+      "polycount": 60000
+    },
+    {
+      "id": "koi-lantern",
+      "polycount": 80000
+    },
+    {
+      "id": "flora-rose",
+      "polycount": 100000
+    },
+    {
+      "id": "flora-protea",
+      "polycount": 100000
+    },
+    {
+      "id": "flora-morpho",
+      "polycount": 60000
+    },
+    {
+      "id": "flora-orchid",
+      "polycount": 100000
+    },
+    {
+      "id": "velo-white",
+      "polycount": 150000
+    },
+    {
+      "id": "hangar-mech",
+      "polycount": 200000
+    },
+    {
+      "id": "hangar-drone",
+      "polycount": 100000
+    },
+    {
+      "id": "sucre-cake",
+      "polycount": 150000
+    },
+    {
+      "id": "sucre-macaron",
+      "polycount": 20000
+    },
+    {
+      "id": "sucre-macaron2",
+      "polycount": 20000
+    },
+    {
+      "id": "sucre-croissant",
+      "polycount": 30000
+    },
+    {
+      "id": "sucre-strawberry",
+      "polycount": 20000
+    },
+    {
+      "id": "sucre-tart",
+      "polycount": 40000
+    },
+    {
+      "id": "mono-house",
+      "polycount": 250000
+    },
+    {
+      "id": "lf-turntable",
+      "polycount": 150000
+    },
+    {
+      "id": "lf-speaker",
+      "polycount": 80000
+    },
+    {
+      "id": "gambit-king",
+      "polycount": 60000,
+      "symmetry": "on"
+    },
+    {
+      "id": "gambit-queen",
+      "polycount": 60000,
+      "symmetry": "on"
+    },
+    {
+      "id": "gambit-bishop",
+      "polycount": 60000,
+      "symmetry": "on"
+    },
+    {
+      "id": "gambit-knight",
+      "polycount": 60000,
+      "symmetry": "on"
+    },
+    {
+      "id": "gambit-rook",
+      "polycount": 60000,
+      "symmetry": "on"
+    },
+    {
+      "id": "gambit-pawn",
+      "polycount": 60000,
+      "symmetry": "on"
+    },
+    {
+      "id": "atlas-lighthouse",
+      "polycount": 150000
+    },
+    {
+      "id": "atlas-falls",
+      "polycount": 150000
+    },
+    {
+      "id": "atlas-pagoda",
+      "polycount": 150000
+    },
+    {
+      "id": "atlas-windmill",
+      "polycount": 150000
+    },
+    {
+      "id": "lithos-geode",
+      "polycount": 200000
+    },
+    {
+      "id": "lithos-quartz",
+      "polycount": 100000
+    },
+    {
+      "id": "lithos-pyrite",
+      "polycount": 100000
+    },
+    {
+      "id": "lithos-ammonite",
+      "polycount": 80000
+    },
+    {
+      "id": "artemis-astro",
+      "polycount": 60000,
+      "opts": {
+        "pose_mode": "a-pose",
+        "enable_rigging": true,
+        "rigging_height_meters": 1.85,
+        "enable_animation": true,
+        "animation_action_id": 0
+      },
+      "symmetry": "on"
+    },
+    {
+      "id": "artemis-lander",
+      "polycount": 150000
+    },
+    {
+      "id": "keeper-lighthouse",
+      "polycount": 200000
+    },
+    {
+      "id": "keeper-boat",
+      "polycount": 100000
+    },
+    {
+      "id": "koen-maple",
+      "polycount": 200000
+    },
+    {
+      "id": "noct-iris",
+      "polycount": 80000
+    },
+    {
+      "id": "noct-bergamot",
+      "polycount": 80000
+    },
+    {
+      "id": "noct-vanilla",
+      "polycount": 80000
+    },
+    {
+      "id": "noct-oud",
+      "polycount": 80000
+    },
+    {
+      "id": "noct-cap",
+      "polycount": 80000
+    },
+    {
+      "id": "racer-bike",
+      "polycount": 250000
+    },
+    {
+      "id": "racer-helmet",
+      "polycount": 80000
+    },
+    {
+      "id": "horo-watch",
+      "polycount": 150000
+    },
+    {
+      "id": "velo-black",
+      "polycount": 150000
+    }
+  ]
+}

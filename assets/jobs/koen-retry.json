@@ -1,0 +1,9 @@
+{
+  "images": [
+    { "id": "koen-maple2", "prompt": "A Japanese maple bonsai tree, thick gnarled tapering trunk with visible surface roots, elegant sculpted branch structure with rounded compact cloud-like pads of small bright green maple leaves, clear gaps between the foliage pads showing branches, in a shallow oval dark brown glazed ceramic pot topped with green moss." }
+  ],
+  "meshes": [
+    { "id": "koen-maple", "image": "koen-maple", "polycount": 120000, "geometry": "standard" },
+    { "id": "koen-maple2", "polycount": 150000, "geometry": "standard" }
+  ]
+}

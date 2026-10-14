@@ -1,0 +1,23 @@
+// The collection, in gallery order. Used by the index and by the cross-page navigator.
+export const WORLDS = [
+  { slug: 'reliquary', name: 'Reliquary', line: 'A museum you can only see by lantern light', hue: '#c9a36a' },
+  { slug: 'abyssal', name: 'Abyssal', line: 'Descend eleven thousand metres', hue: '#3fd6c9' },
+  { slug: 'ember', name: 'Hammer & Ember', line: 'Heat the blade. Strike the steel.', hue: '#ff6a1f' },
+  { slug: 'terrarium', name: 'Bell & Moss', line: 'Wipe the glass. Meet the world inside.', hue: '#8fb57a' },
+  { slug: 'koi', name: 'Still Water', line: 'Touch the pond', hue: '#e0503a' },
+  { slug: 'florae', name: 'Florae', line: 'Two hundred thousand petals, one gesture', hue: '#d6456b' },
+  { slug: 'velocity', name: 'Velocity Lab', line: 'See through the shoe', hue: '#ff8a1f' },
+  { slug: 'hangar', name: 'Hangar Nine', line: 'Power up a forty-ton machine', hue: '#ffb000' },
+  { slug: 'sucre', name: 'Maison Sucre', line: 'A patisserie with gravity', hue: '#f29bb2' },
+  { slug: 'monolith', name: 'Monolith', line: 'Drag the sun across a house', hue: '#d9c7a8' },
+  { slug: 'lowfreq', name: 'Low Frequency', line: 'Put your hand on the record', hue: '#a78bfa' },
+  { slug: 'gambit', name: 'Gambit', line: 'The Immortal Game, replayed in marble', hue: '#e9e4da' },
+  { slug: 'atlas', name: 'Atlas of Drifting Isles', line: 'Travel between floating islands', hue: '#7cc4ff' },
+  { slug: 'lithos', name: 'Lithos', line: 'Crack the stone open', hue: '#9d6bff' },
+  { slug: 'artemis', name: 'Artemis', line: 'Scroll to walk on the Moon', hue: '#dcdcdc' },
+  { slug: 'keeper', name: 'The Keeper', line: 'Hold the light against the storm', hue: '#ffd27a' },
+  { slug: 'koen', name: 'Kōen', line: 'One tree, four seasons', hue: '#d2553b' },
+  { slug: 'nocturne', name: 'Nocturne', line: 'A fragrance you can pour', hue: '#d8b56a' },
+  { slug: 'racer', name: 'Nightshift Motor Co.', line: 'Rev a café racer in the rain', hue: '#ff3b5c' },
+  { slug: 'horologie', name: 'Aurel Horologie', line: 'Take a movement apart', hue: '#c89b6d' },
+];

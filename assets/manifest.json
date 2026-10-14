@@ -1,0 +1,2042 @@
+{
+  "images": {
+    "pilot-astrolabe": {
+      "url": "https://v3b.fal.media/files/b/0aac5b2c/8IDIhjGIt9vPZjQLcaSep_ncXhpnwN.png",
+      "prompt": "An intricate antique brass astrolabe on a small carved walnut stand, engraved rete with star pointers, nested rings, fine filigree, patinated brass with worn highlights.",
+      "endpoint": "fal-ai/nano-banana-2",
+      "at": "2026-09-29T10:15:39.308Z"
+    },
+    "pilot-guardian": {
+      "url": "https://v3b.fal.media/files/b/0aac5b2c/fujbp1ruXevlrZkK1S7CH_5lu3fYdM.png",
+      "prompt": "An ancient weathered stone guardian statue of a seated lion-dog (komainu), carved granite with moss patches and lichen, cracked chipped edges, sitting on a square carved plinth.",
+      "endpoint": "fal-ai/nano-banana-2",
+      "at": "2026-09-29T10:15:40.085Z"
+    },
+    "reliq-helmet": {
+      "url": "https://v3b.fal.media/files/b/0aac5b64/sJHNwY5SJTN_iB_4wCVsd_E6wUYZMo.png",
+      "prompt": "An ancient Greek bronze Corinthian hoplite helmet, deep verdigris green-blue patina with exposed warm bronze on the high points, dented and scratched, engraved brow line, narrow eye slits and nose guard, resting on a small rough-cut dark basalt display block.",
+      "endpoint": "fal-ai/nano-banana-2",
+      "at": "2026-09-29T10:25:04.550Z"
+    },
+    "abyss-nautilus": {
+      "url": "https://v3b.fal.media/files/b/0aac5b64/p7pYbaBPK7NuWtDvgFNr__KWOJjXEW.png",
+      "prompt": "A living chambered nautilus, cream shell with bold red-brown tiger stripes, pearly aperture, many small tentacles and a hood emerging from the shell opening, three-quarter view.",
+      "endpoint": "fal-ai/nano-banana-2",
+      "at": "2026-09-29T10:25:06.220Z"
+    },
+    "reliq-mask": {
+      "url": "https://v3b.fal.media/files/b/0aac5b64/-3GIYdVk22Nz5ajCQPgTC_Ed1Ds9Gb.png",
+      "prompt": "An ancient Maya jade mosaic funerary mask, hundreds of fitted green jade tesserae, inlaid white shell eyes with black obsidian pupils, subtle cracks, museum artifact, facing forward at a slight three-quarter angle, mounted on a small black metal museum stand.",
+      "endpoint": "fal-ai/nano-banana-2",
+      "at": "2026-09-29T10:25:08.456Z"
+    },
+    "reliq-bust": {
+      "url": "https://v3b.fal.media/files/b/0aac5b64/x1yFtWmVNkqOpyLzNwNJv_agLblIXw.png",
+      "prompt": "A weathered white Carrara marble classical Greek bust of a young woman with braided hair tied up, nose slightly chipped, subtle grey veining and soft erosion, on a square marble socle, museum sculpture.",
+      "endpoint": "fal-ai/nano-banana-2",
+      "at": "2026-09-29T10:25:09.483Z"
+    },
+    "abyss-angler": {
+      "url": "https://v3b.fal.media/files/b/0aac5b64/mqKXGEfd7pwargiH6TNIo_7ETOblAv.png",
+      "prompt": "A deep-sea anglerfish, menacing wide jaw with long translucent needle teeth, bulbous glowing lure on a stalk above its head, dark brown-black rough warty skin, small eyes, fins spread, side three-quarter view, museum-quality natural history model.",
+      "endpoint": "fal-ai/nano-banana-2",
+      "at": "2026-09-29T10:25:10.518Z"
+    },
+    "abyss-vent": {
+      "url": "https://v3b.fal.media/files/b/0aac5b66/dOx3hZfIBwPplwPQf_oO-_A7yAgCBi.png",
+      "prompt": "A hydrothermal vent chimney diorama from the deep ocean floor: a tall craggy black-and-rust mineral chimney, dense clusters of giant red-plumed white tube worms at its base, pale crabs and mussels, on a round chunk of dark volcanic seabed.",
+      "endpoint": "fal-ai/nano-banana-2",
+      "at": "2026-09-29T10:25:22.621Z"
+    },
+    "abyss-sub": {
+      "url": "https://v3b.fal.media/files/b/0aac5b66/oFyY6ngTR1VgnHUoVePCy_8v7LJXzx.png",
+      "prompt": "A compact deep-sea research submersible, rounded white and safety-orange hull, large clear acrylic viewing dome at the front, two articulated manipulator arms, cluster of LED floodlights, ballast tanks, thrusters, sampling basket, realistic industrial design.",
+      "endpoint": "fal-ai/nano-banana-2",
+      "at": "2026-09-29T10:25:22.939Z"
+    },
+    "reliq-amphora": {
+      "url": "https://v3b.fal.media/files/b/0aac5b64/DrT4kJuEVGyCQmI4AWFAw_ojUj9BiU.png",
+      "prompt": "An ancient Greek black-figure terracotta amphora with two handles, orange clay with black painted figures of running athletes and meander bands, small chips and wear, standing upright.",
+      "endpoint": "fal-ai/nano-banana-2",
+      "at": "2026-09-29T10:25:23.072Z"
+    },
+    "ember-hammer": {
+      "url": "https://v3b.fal.media/files/b/0aac5b67/pV4vG45lL9DMjedtfN-eV_oNYpjzla.png",
+      "prompt": "A blacksmith's cross-peen forging hammer with a dark forged steel head showing hammer marks, and a worn ash-wood handle, lying diagonally.",
+      "endpoint": "fal-ai/nano-banana-2",
+      "at": "2026-09-29T10:25:28.385Z"
+    },
+    "ember-anvil": {
+      "url": "https://v3b.fal.media/files/b/0aac5b67/j73SyGu2BNr4j3XWgucZz_ImSc2ZVR.png",
+      "prompt": "A heavy old blacksmith's anvil, dark forged steel with a polished worn face and horn, scale and scratches, bolted on top of a thick weathered oak tree-stump base with iron bands.",
+      "endpoint": "fal-ai/nano-banana-2",
+      "at": "2026-09-29T10:25:30.169Z"
+    },
+    "ember-sword": {
+      "url": "https://v3b.fal.media/files/b/0aac5b7f/j6Lwz9abPTaYgra7YTqep_HuorDmFp.png",
+      "prompt": "A hand-forged Viking longsword lying diagonally across the frame from bottom-left to top-right, entire sword visible with margin, damascus pattern-welded steel blade with a clearly visible flowing wood-grain pattern, bronze crossguard and lobed pommel with knotwork, dark leather-wrapped grip.",
+      "endpoint": "fal-ai/nano-banana-2",
+      "at": "2026-09-29T10:29:33.186Z"
+    },
+    "terra-tropic": {
+      "url": "https://v3b.fal.media/files/b/0aac5b68/tcAHdxux8ZTw4OOtUesz-_uBEMAds6.png",
+      "prompt": "A miniature tropical rainforest terrarium landscape without any glass: dark volcanic rocks, a tiny cascading waterfall, lush miniature ferns, fittonia with pink veins, a small white orchid, mossy roots, all built on a round turned walnut wood base disc.",
+      "endpoint": "fal-ai/nano-banana-2",
+      "at": "2026-09-29T10:25:41.780Z"
+    },
+    "terra-desert": {
+      "url": "https://v3b.fal.media/files/b/0aac5b68/hUqq2XOCl0LDklCgAzLUE_T0FLf5lL.png",
+      "prompt": "A miniature desert terrarium landscape without any glass: pale golden sand dunes, sculptural sandstone rocks, small green and blue-grey succulents and echeverias, a tiny flowering cactus with pink blooms, all built on a round turned walnut wood base disc.",
+      "endpoint": "fal-ai/nano-banana-2",
+      "at": "2026-09-29T10:25:46.150Z"
+    },
+    "koi-kohaku": {
+      "url": "https://v3b.fal.media/files/b/0aac5b68/DCQl2Om_-yKmf3O4SY7iP_8bt31tU7.png",
+      "prompt": "A single koi carp fish seen from above at a slight three-quarter angle, kohaku pattern: glossy pearl-white body with large vivid red-orange patches, long flowing translucent fins and tail spread out, gentle S-curve swimming pose, realistic scales.",
+      "endpoint": "fal-ai/nano-banana-2",
+      "at": "2026-09-29T10:25:46.781Z"
+    },
+    "terra-moss": {
+      "url": "https://v3b.fal.media/files/b/0aac5b68/NJSvXhVg-vGxf7G4a70lW_rGuPuvKZ.png",
+      "prompt": "A miniature forest terrarium landscape without any glass: rolling hills of lush green cushion moss, lichen-covered grey stones, tiny ferns, a small gnarled bonsai-like tree, a white pebble path winding through, tiny red mushrooms, all built on a round turned walnut wood base disc.",
+      "endpoint": "fal-ai/nano-banana-2",
+      "at": "2026-09-29T10:25:49.137Z"
+    },
+    "koi-lotus": {
+      "url": "https://v3b.fal.media/files/b/0aac5b69/S6ZTtSQRVTHtmXmdy1EbR_WcYPyGYm.png",
+      "prompt": "A single open pink lotus flower with layered soft pink petals, golden seed pod center and yellow stamens, sitting on one round flat green lotus leaf.",
+      "endpoint": "fal-ai/nano-banana-2",
+      "at": "2026-09-29T10:25:49.491Z"
+    },
+    "koi-showa": {
+      "url": "https://v3b.fal.media/files/b/0aac5b69/X_e4mpGk1QijK7Dbokmtj_EsB2NIen.png",
+      "prompt": "A single koi carp fish seen from above at a slight three-quarter angle, showa sanshoku pattern: black body with red-orange and white patches, long flowing translucent fins and tail spread out, gentle S-curve swimming pose, realistic scales.",
+      "endpoint": "fal-ai/nano-banana-2",
+      "at": "2026-09-29T10:25:53.159Z"
+    },
+    "koi-lantern": {
+      "url": "https://v3b.fal.media/files/b/0aac5b6a/hTpOkVDbYMd8ifpvklVul_4ulCpYnD.png",
+      "prompt": "A traditional Japanese granite stone lantern (kasuga toro), weathered grey stone with moss on the roof and base, hexagonal fire box with carved openings, tall pillar, on a rough rock.",
+      "endpoint": "fal-ai/nano-banana-2",
+      "at": "2026-09-29T10:25:59.995Z"
+    },
+    "flora-rose": {
+      "url": "https://v3b.fal.media/files/b/0aac5b6a/KKBNJaRRRs6sNrBbCTvLk_27kuVv8A.png",
+      "prompt": "A single perfect deep crimson red rose bloom with many velvety layered petals and a short stem with two green leaves, botanical specimen.",
+      "endpoint": "fal-ai/nano-banana-2",
+      "at": "2026-09-29T10:26:02.128Z"
+    },
+    "flora-protea": {
+      "url": "https://v3b.fal.media/files/b/0aac5b6a/eSMln200Uw97azg-DA0hL_qcJYVLbm.png",
+      "prompt": "A single king protea flower head, large crown of pink-tipped pointed bracts around a silvery-cream fuzzy center, short stem with leathery green leaves, botanical specimen.",
+      "endpoint": "fal-ai/nano-banana-2",
+      "at": "2026-09-29T10:26:04.308Z"
+    },
+    "flora-orchid": {
+      "url": "https://v3b.fal.media/files/b/0aac5b6b/aRN1Es2Vl1yhPlQOgljuD_xc2DmbpW.png",
+      "prompt": "A single white phalaenopsis orchid spray: arching stem with five open white flowers with magenta-veined lips and two buds, botanical specimen without pot.",
+      "endpoint": "fal-ai/nano-banana-2",
+      "at": "2026-09-29T10:26:04.992Z"
+    },
+    "flora-morpho": {
+      "url": "https://v3b.fal.media/files/b/0aac5b6b/PONFL4W8yAS0eXXjWmcCP_vAUJuKta.png",
+      "prompt": "A blue morpho butterfly with wings spread open, iridescent electric-blue upper wings with black edges and white spots, body and antennae, seen from above at a slight angle, natural history specimen.",
+      "endpoint": "fal-ai/nano-banana-2",
+      "at": "2026-09-29T10:26:11.193Z"
+    },
+    "velo-white": {
+      "url": "https://v3b.fal.media/files/b/0aac5b7f/8S0FAwBH1iA1vPem0Gc_y_vQfod9aL.png",
+      "prompt": "A futuristic performance running sneaker resting flat on the ground, clean side three-quarter view with the entire shoe visible from toe to heel with wide margins, white engineered knit upper with subtle translucent ripstop overlays, sculpted chunky pale-grey foam midsole with a visible black carbon plate slit, volt-orange heel pull tab and orange laces, premium product design.",
+      "endpoint": "fal-ai/nano-banana-2",
+      "at": "2026-09-29T10:29:33.423Z"
+    },
+    "hangar-drone": {
+      "url": "https://v3b.fal.media/files/b/0aac5b6c/AlPhN02Q2PI6jOjpE75-7_2JhlQcOH.png",
+      "prompt": "A heavy industrial quadcopter drone, carbon fiber and matte grey body, four large rotors with guards, orange safety markings, sensor gimbal camera underneath, realistic hard-surface design.",
+      "endpoint": "fal-ai/nano-banana-2",
+      "at": "2026-09-29T10:26:17.791Z"
+    },
+    "hangar-mech": {
+      "url": "https://v3b.fal.media/files/b/0aac5b6c/X3fzf43XJ6lR3urfllTLe_cxhNPksx.png",
+      "prompt": "A large bipedal combat mech robot standing, full body head to feet, military gunmetal grey armor plates with orange hazard stripes and stencilled numbers, weathered and chipped paint, armored cockpit head with glowing visor slit, heavy digitigrade legs with hydraulic pistons, shoulder-mounted cannon, realistic hard-surface design.",
+      "endpoint": "fal-ai/nano-banana-2",
+      "at": "2026-09-29T10:26:17.902Z"
+    },
+    "sucre-macaron": {
+      "url": "https://v3b.fal.media/files/b/0aac5b6c/WaciDTwOW8j9lroQDay-W_UhIgQNN8.png",
+      "prompt": "A single French macaron, pastel pink shells with smooth domed tops and ruffled feet, raspberry buttercream filling, slightly tilted.",
+      "endpoint": "fal-ai/nano-banana-2",
+      "at": "2026-09-29T10:26:20.892Z"
+    },
+    "sucre-cake": {
+      "url": "https://v3b.fal.media/files/b/0aac5b6c/bdomvv1HKuE5lMlezSlWP_QUx7phmk.png",
+      "prompt": "An elegant three-tier pastel pink and cream wedding cake with piped buttercream ruffles, fresh raspberries and pale roses, gold leaf flakes, on a white porcelain cake stand.",
+      "endpoint": "fal-ai/nano-banana-2",
+      "at": "2026-09-29T10:26:21.815Z"
+    },
+    "sucre-croissant": {
+      "url": "https://v3b.fal.media/files/b/0aac5b6d/i8Dq8ljtQwH_0WbcFeRUx_OUxmdBmd.png",
+      "prompt": "A single golden buttery French croissant with flaky glossy laminated layers.",
+      "endpoint": "fal-ai/nano-banana-2",
+      "at": "2026-09-29T10:26:29.041Z"
+    },
+    "sucre-macaron2": {
+      "url": "https://v3b.fal.media/files/b/0aac5b6d/E1W1eKXjoocd1qTB2-bWG_Dhs09tUK.png",
+      "prompt": "A single French macaron, pastel pistachio green shells with smooth domed tops and ruffled feet, cream filling, slightly tilted.",
+      "endpoint": "fal-ai/nano-banana-2",
+      "at": "2026-09-29T10:26:33.809Z"
+    },
+    "sucre-tart": {
+      "url": "https://v3b.fal.media/files/b/0aac5b6d/HlpM1uQ5Rg1WFtubYpv_1_AU0tioGW.png",
+      "prompt": "A small round French strawberry tart: golden fluted pastry shell, vanilla custard, glazed halved strawberries arranged in a spiral, a mint leaf.",
+      "endpoint": "fal-ai/nano-banana-2",
+      "at": "2026-09-29T10:26:37.575Z"
+    },
+    "mono-house": {
+      "url": "https://v3b.fal.media/files/b/0aac5b6e/lhkuv4SUfgcu7TAuoD8mq_QSsRThSy.png",
+      "prompt": "An architectural diorama: a minimalist modern concrete villa with long cantilevered floors and floor-to-ceiling glass cantilevered dramatically over a rugged granite sea cliff, a few windswept pine trees, infinity pool, all on a chunk of rocky terrain with rough cut edges, highly detailed architectural model.",
+      "endpoint": "fal-ai/nano-banana-2",
+      "at": "2026-09-29T10:26:38.292Z"
+    },
+    "lf-turntable": {
+      "url": "https://v3b.fal.media/files/b/0aac5b6e/lBeNGl4IcV9q6Z8VhuDyk_mjAwQBO0.png",
+      "prompt": "A premium high-end record turntable, thick walnut wood plinth, heavy brushed aluminum platter with a black vinyl record, polished tonearm with counterweight, two rotary knobs, no dust cover.",
+      "endpoint": "fal-ai/nano-banana-2",
+      "at": "2026-09-29T10:26:44.016Z"
+    },
+    "gambit-king": {
+      "url": "https://v3b.fal.media/files/b/0aac5b6f/VBpH_ZfVXYGgihpg_JDzz_uPNTpT3d.png",
+      "prompt": "A tall ornate Staunton king chess piece carved from polished white Carrara marble with delicate grey veining, cross on top, standing upright.",
+      "endpoint": "fal-ai/nano-banana-2",
+      "at": "2026-09-29T10:26:50.388Z"
+    },
+    "lf-speaker": {
+      "url": "https://v3b.fal.media/files/b/0aac5b6f/JrAGayVte_onoCHZiBy0h_AiDxrzgW.png",
+      "prompt": "A premium bookshelf studio speaker, walnut wood cabinet, exposed woven paper woofer cone and a silk dome tweeter, brass bolts, front-facing three-quarter view.",
+      "endpoint": "fal-ai/nano-banana-2",
+      "at": "2026-09-29T10:26:51.201Z"
+    },
+    "sucre-strawberry": {
+      "url": "https://v3b.fal.media/files/b/0aac5b6d/GvWF0FpGdTuLtWgSUeqA4_MHOOaDOO.png",
+      "prompt": "A single ripe glossy red strawberry with green leafy calyx.",
+      "endpoint": "fal-ai/nano-banana-2",
+      "at": "2026-09-29T10:26:52.546Z"
+    },
+    "gambit-bishop": {
+      "url": "https://v3b.fal.media/files/b/0aac5b6f/SkV-kGh0epoqf24PYqk9H_tWAhetaR.png",
+      "prompt": "A Staunton bishop chess piece carved from polished white Carrara marble with delicate grey veining, mitre with diagonal cut and small ball finial, standing upright.",
+      "endpoint": "fal-ai/nano-banana-2",
+      "at": "2026-09-29T10:26:56.657Z"
+    },
+    "gambit-queen": {
+      "url": "https://v3b.fal.media/files/b/0aac5b6f/z1WT9J-RpBIYU1eCdnxlm_GEiiDjtf.png",
+      "prompt": "A tall ornate Staunton queen chess piece carved from polished white Carrara marble with delicate grey veining, coronet crown on top, standing upright.",
+      "endpoint": "fal-ai/nano-banana-2",
+      "at": "2026-09-29T10:26:58.530Z"
+    },
+    "gambit-knight": {
+      "url": "https://v3b.fal.media/files/b/0aac5b70/8U3H8UimPuzF7yzLq2bRj_9bhMU3AC.png",
+      "prompt": "A Staunton knight chess piece carved from polished white Carrara marble with delicate grey veining, finely sculpted horse head with flowing mane, standing upright, three-quarter side view.",
+      "endpoint": "fal-ai/nano-banana-2",
+      "at": "2026-09-29T10:27:02.908Z"
+    },
+    "gambit-rook": {
+      "url": "https://v3b.fal.media/files/b/0aac5b71/KqhNM8txSZyxSBhOiQcQQ_3hSe8wmk.png",
+      "prompt": "A Staunton rook chess piece carved from polished white Carrara marble with delicate grey veining, castle turret top with crenellations, standing upright.",
+      "endpoint": "fal-ai/nano-banana-2",
+      "at": "2026-09-29T10:27:06.315Z"
+    },
+    "gambit-pawn": {
+      "url": "https://v3b.fal.media/files/b/0aac5b71/oiej4x2cmXRblDdU39Wd3_UcKfM6y7.png",
+      "prompt": "A Staunton pawn chess piece carved from polished white Carrara marble with delicate grey veining, sphere head on a collar and stepped base, standing upright.",
+      "endpoint": "fal-ai/nano-banana-2",
+      "at": "2026-09-29T10:27:09.357Z"
+    },
+    "atlas-falls": {
+      "url": "https://v3b.fal.media/files/b/0aac5b71/Nyjc7yVPl_wv3xucFdvSK_sbsmmbvc.png",
+      "prompt": "A stylized floating sky island, hand-painted stylized game art style: lush forest with round trees, a waterfall pouring off the edge from a small lake, mossy boulders, the island's underside a jagged rock cone with hanging vines, floating in the air.",
+      "endpoint": "fal-ai/nano-banana-2",
+      "at": "2026-09-29T10:27:13.149Z"
+    },
+    "atlas-lighthouse": {
+      "url": "https://v3b.fal.media/files/b/0aac5b71/tDIxteDr_dOK5ydS5iCHq_oaLF1LOV.png",
+      "prompt": "A stylized floating sky island, hand-painted stylized game art style: a grassy cliff-top with a small white lighthouse with red top and a cozy stone cottage, winding path, wildflowers, the island's underside a jagged rock cone with hanging roots, floating in the air.",
+      "endpoint": "fal-ai/nano-banana-2",
+      "at": "2026-09-29T10:27:20.163Z"
+    },
+    "atlas-windmill": {
+      "url": "https://v3b.fal.media/files/b/0aac5b72/t8apRFrA23bFA_KO6zKh6_G9Wz1kXc.png",
+      "prompt": "A stylized floating sky island, hand-painted stylized game art style: rolling golden wheat fields, a wooden windmill, a red barn, hay bales and a tiny winding river, the island's underside a jagged rock cone with hanging roots, floating in the air.",
+      "endpoint": "fal-ai/nano-banana-2",
+      "at": "2026-09-29T10:27:22.133Z"
+    },
+    "atlas-pagoda": {
+      "url": "https://v3b.fal.media/files/b/0aac5b71/epBFDyoJm15rosV5_ocGo_Kw7xFJcD.png",
+      "prompt": "A stylized floating sky island, hand-painted stylized game art style: a red Japanese pagoda with pink cherry blossom trees, stone steps and a torii gate, the island's underside a jagged rock cone with hanging roots, floating in the air.",
+      "endpoint": "fal-ai/nano-banana-2",
+      "at": "2026-09-29T10:27:23.315Z"
+    },
+    "lithos-geode": {
+      "url": "https://v3b.fal.media/files/b/0aac5b72/nltDk7gY6mbtU0i8EO4o6_i4M6KR7V.png",
+      "prompt": "One half of a large split amethyst geode, cut face up and tilted toward the viewer: a rough grey-brown rocky outer crust, a white agate banding rim, and a deep cavity densely lined with sparkling purple amethyst crystal points.",
+      "endpoint": "fal-ai/nano-banana-2",
+      "at": "2026-09-29T10:27:24.625Z"
+    },
+    "lithos-quartz": {
+      "url": "https://v3b.fal.media/files/b/0aac5b73/_vto5DWnu7tp_mtz7yWsi_WAwMgVVM.png",
+      "prompt": "A cluster of clear quartz crystal points growing from a small matrix rock, tall hexagonal terminated crystals, water-clear with slight internal veils and rainbow inclusions.",
+      "endpoint": "fal-ai/nano-banana-2",
+      "at": "2026-09-29T10:27:29.801Z"
+    },
+    "lithos-pyrite": {
+      "url": "https://v3b.fal.media/files/b/0aac5b73/Y7CTs0WC6bCNLJBsmvnG4_lFYYqLCb.png",
+      "prompt": "A cluster of natural pyrite cubes, sharp interlocking metallic brass-gold cubic crystals with striated faces, on a small dark rock matrix.",
+      "endpoint": "fal-ai/nano-banana-2",
+      "at": "2026-09-29T10:27:32.504Z"
+    },
+    "lithos-ammonite": {
+      "url": "https://v3b.fal.media/files/b/0aac5b74/tTbB4Pu67vb_3uDJZQt8I_fy4kJrir.png",
+      "prompt": "A polished ammonite fossil, spiral shell cut and polished showing iridescent mother-of-pearl surface and intricate suture patterns, on a small rough stone base.",
+      "endpoint": "fal-ai/nano-banana-2",
+      "at": "2026-09-29T10:27:38.990Z"
+    },
+    "keeper-lighthouse": {
+      "url": "https://v3b.fal.media/files/b/0aac5b7f/a8-pAcfkKRGbRRa6YJZoA_K0t3ANUD.png",
+      "prompt": "A diorama of a tall weathered stone lighthouse painted with red and white bands, black iron lantern gallery at the top, attached small white keeper's cottage with slate roof and chimney, standing on a tall jagged dark wet basalt sea-rock outcrop with steep sides, the rock cut flat at the bottom, no water, no waves, no sea.",
+      "endpoint": "fal-ai/nano-banana-2",
+      "at": "2026-09-29T10:29:33.179Z"
+    },
+    "keeper-boat": {
+      "url": "https://v3b.fal.media/files/b/0aac5b75/dFYJ5u5KggSnM99OWBrkE_qMEFdNUZ.png",
+      "prompt": "A small weathered wooden fishing trawler boat, dark green hull with a white wheelhouse, rust streaks, nets, buoys and a small mast with lights.",
+      "endpoint": "fal-ai/nano-banana-2",
+      "at": "2026-09-29T10:27:45.307Z"
+    },
+    "artemis-astro": {
+      "url": "https://v3b.fal.media/files/b/0aac5b74/kyyiEKqDWO91R-pE8UKBv_maJfkxAY.png",
+      "prompt": "A full-body astronaut in a modern white and light grey lunar exploration spacesuit with a reflective gold visor, backpack life-support system, orange accents, gloves and boots, standing in a relaxed A-pose with arms slightly away from the body, facing the viewer, full figure head to toe visible.",
+      "endpoint": "fal-ai/nano-banana-2",
+      "at": "2026-09-29T10:27:47.221Z"
+    },
+    "artemis-lander": {
+      "url": "https://v3b.fal.media/files/b/0aac5b74/CExYOxp_oTaosGCthXglh_s4FwxSfc.png",
+      "prompt": "A modern lunar lander spacecraft on four spindly landing legs with round footpads, gold foil insulated descent stage, white and grey ascent cabin with windows, antennas, thrusters, solar panel, realistic aerospace design.",
+      "endpoint": "fal-ai/nano-banana-2",
+      "at": "2026-09-29T10:27:49.288Z"
+    },
+    "koen-maple": {
+      "url": "https://v3b.fal.media/files/b/0aac5b75/52TJfefWqGJl14s2Z9-7l_X131q33k.png",
+      "prompt": "A Japanese maple bonsai tree in full summer foliage, thick flared tapering trunk with nebari surface roots, elegant branch structure with dense green palmate leaf pads, in a shallow oval dark-glazed ceramic pot covered with moss.",
+      "endpoint": "fal-ai/nano-banana-2",
+      "at": "2026-09-29T10:27:50.683Z"
+    },
+    "noct-bergamot": {
+      "url": "https://v3b.fal.media/files/b/0aac5b76/Z4iL9WwosyWlag6vJv0cq_VWapd2N0.png",
+      "prompt": "Two bergamot oranges with one cut in half showing the juicy pale yellow segments, glossy textured green-yellow peel, a sprig with two dark leaves.",
+      "endpoint": "fal-ai/nano-banana-2",
+      "at": "2026-09-29T10:28:00.331Z"
+    },
+    "noct-oud": {
+      "url": "https://v3b.fal.media/files/b/0aac5b76/An0TELL41aJVxcbvrAzR4_qNlpEAIQ.png",
+      "prompt": "A piece of rare resinous agarwood (oud) wood, dark streaks of resin through pale gnarled wood, sculptural twisted chunk.",
+      "endpoint": "fal-ai/nano-banana-2",
+      "at": "2026-09-29T10:28:05.945Z"
+    },
+    "noct-cap": {
+      "url": "https://v3b.fal.media/files/b/0aac5b77/t9vxutlhTVZURbtdSt8MS_RAzYeP6c.png",
+      "prompt": "An ornate heavy perfume bottle stopper cap, faceted black obsidian crystal top in a sculpted polished gold art-deco collar with fluted ridges, standing upright.",
+      "endpoint": "fal-ai/nano-banana-2",
+      "at": "2026-09-29T10:28:08.542Z"
+    },
+    "noct-iris": {
+      "url": "https://v3b.fal.media/files/b/0aac5b76/c8VRYVaGNGuhwTjloFr_l_wK1WTybU.png",
+      "prompt": "A single purple bearded iris flower with ruffled violet falls and standards, golden beard, short green stem and a blade leaf, botanical specimen.",
+      "endpoint": "fal-ai/nano-banana-2",
+      "at": "2026-09-29T10:28:12.522Z"
+    },
+    "noct-vanilla": {
+      "url": "https://v3b.fal.media/files/b/0aac5b76/0t2EnbZxxANCldwUYGJVl_XWi9bmft.png",
+      "prompt": "A small bundle of glossy dark brown cured vanilla bean pods tied with twine, next to a cured vanilla orchid flower.",
+      "endpoint": "fal-ai/nano-banana-2",
+      "at": "2026-09-29T10:28:14.742Z"
+    },
+    "racer-helmet": {
+      "url": "https://v3b.fal.media/files/b/0aac5b78/gDf-CWYG6Df6vOHfPYRwJ_51lCYVhZ.png",
+      "prompt": "A vintage open-face motorcycle helmet, glossy cream paint with a thin red racing stripe, brown leather trim and chin strap, with a bubble visor raised.",
+      "endpoint": "fal-ai/nano-banana-2",
+      "at": "2026-09-29T10:28:19.768Z"
+    },
+    "horo-watch": {
+      "url": "https://v3b.fal.media/files/b/0aac5b78/RwF0kiq7SCAVelzsuCyPo_c7lqzriC.png",
+      "prompt": "A luxury skeleton mechanical wristwatch, round polished rose-gold case, openworked dial exposing gears, bridges and a balance wheel, blued steel hands, sapphire crystal, dark brown alligator leather strap, three-quarter view.",
+      "endpoint": "fal-ai/nano-banana-2",
+      "at": "2026-09-29T10:28:23.659Z"
+    },
+    "racer-bike": {
+      "url": "https://v3b.fal.media/files/b/0aac5b77/XVvpt4-Lhv2soLnApizig_XwzDgwG0.png",
+      "prompt": "A custom cafe racer motorcycle, three-quarter side view, glossy black fuel tank with brass pinstripe, tan leather hump seat, round chrome headlight, clip-on handlebars, exposed polished twin-cylinder engine, spoked wheels with black tires, brass and chrome details.",
+      "endpoint": "fal-ai/nano-banana-2",
+      "at": "2026-09-29T10:28:25.239Z"
+    },
+    "velo-black": {
+      "url": "https://v3b.fal.media/files/b/0aac5b83/eXVKlk511QxIpNoTjnDJO_alammmAK.png",
+      "prompt": "Recolor this exact sneaker, keeping the identical shape, angle, framing and pure white background: make the knit upper deep matte black, the foam midsole charcoal graphite, the carbon plate slit glossy black, and change the heel tab and laces to electric volt yellow-green. Photorealistic product render.",
+      "endpoint": "fal-ai/nano-banana-2/edit",
+      "at": "2026-09-29T10:30:17.318Z"
+    },
+    "plate-reliq-court": {
+      "url": "https://v3b.fal.media/files/b/0aac5bd2/RI1zLSDHAymJOvTZtgOzP_dnbYNxE5.png",
+      "prompt": "A moonlit cloister courtyard garden at night seen straight on, photographed at eye level: tall dark Italian cypress trees silhouetted against a deep blue night sky with scattered stars, a full moon high in the sky with a soft halo, a weathered stone fountain in the middle distance catching moonlight, pale gravel path leading away, low boxwood hedges, cool silver-blue moonlight, cinematic, photorealistic, calm, no people, no text.",
+      "endpoint": "fal-ai/nano-banana-2",
+      "at": "2026-09-29T10:43:28.118Z"
+    },
+    "hangar-pilot": {
+      "url": "https://v3b.fal.media/files/b/0aac5c2d/wo9HwQsvCl3OSNtTwMl6Q_Iw9JvyqH.png",
+      "prompt": "Cinematic portrait photograph of a female test pilot in her late thirties with short dark hair, wearing a gunmetal grey flight suit with amber hazard-stripe details and a mission patch, holding a matte grey pilot helmet under her arm, standing in a dark industrial hangar. Hard amber rim light from behind-left, cool steel-blue fill from the front, haze in the air, shallow depth of field, a blurred giant mechanical robot leg in the background out of focus. Serious calm expression looking just off camera. 85mm lens, film grain, desaturated teal and amber grade. No text, no logos with letters, no watermark.",
+      "endpoint": "fal-ai/nano-banana-2",
+      "at": "2026-09-29T10:58:33.399Z"
+    },
+    "hangar-dawn": {
+      "url": "https://v3b.fal.media/files/b/0aac5c4c/l_1_JqHvTt4xuCRUQxzNr_ZF8Z4MI1.png",
+      "prompt": "Clean full-frame landscape photograph of a vast empty military airfield apron at dawn, camera at standing eye level in the open, horizon exactly across the middle of the frame. Lower half: wet dark concrete apron slabs with faint yellow taxi lines and mirror-like reflections of the sky, two long rows of warm amber runway edge lights converging to a vanishing point at the centre of the horizon, thin low ground fog. Horizon: a distant dark jagged mountain ridge silhouette. Upper half: sky graded from deep steel blue at the top to burning amber and pale gold low at the centre where the sun is about to rise, a few thin clouds lit orange from below. Nothing else: no building, no door frame, no walls, no poles, no vignette border, no people, no vehicles, no aircraft, no text, no watermark. Anamorphic, moody, high dynamic range, 35mm film grain.",
+      "endpoint": "fal-ai/nano-banana-2",
+      "at": "2026-09-29T11:03:43.932Z"
+    },
+    "keeper-room-quarters": {
+      "url": "https://v3b.fal.media/files/b/0aac5c31/VPisDRIdTnqc_3v7KYFwk_rESnv33I.png",
+      "prompt": "Editorial interior photograph of a lighthouse keeper's quarters in a whitewashed granite cottage, converted into a hotel room. Thick walls with a deep-set small sash window showing a grey heaving sea. A black cast-iron stove glows with a peat fire, a narrow scrubbed oak table holds a brass oil lamp and an open handwritten logbook, a worn leather armchair with a folded tartan wool blanket, painted tongue-and-groove panelling in pale grey-blue, a single low bed with white linen tucked in tight. Warm lamplight against cold blue window light, deep shadows. Kinfolk / Cereal magazine style, 35mm film photograph, natural grain, no people, no text, no watermark.",
+      "endpoint": "fal-ai/nano-banana-2",
+      "at": "2026-09-29T10:59:13.809Z"
+    },
+    "keeper-room-lamp": {
+      "url": "https://v3b.fal.media/files/b/0aac5c31/cPkxpwrDpG-tf3pFVkadv_eBwI1dpF.png",
+      "prompt": "Editorial interior photograph of the lamp room at the very top of a Victorian lighthouse, converted into a single hotel bedroom. A huge antique brass-and-glass Fresnel lens stands beside a low double bed made with crisp white linen and a heavy undyed wool blanket. Curved floor-to-ceiling glass walls with dark cast-iron glazing bars on every side, beyond them a dark stormy North Atlantic at blue hour with whitecaps and low racing cloud. Rain beads on the outside of the glass. The lens throws warm sodium-yellow prisms of light across the white sheets and the curved iron. Moody, quiet, luxurious, Kinfolk / Cereal magazine style, 35mm film photograph, natural grain, no people, no text, no watermark.",
+      "endpoint": "fal-ai/nano-banana-2",
+      "at": "2026-09-29T10:59:17.255Z"
+    },
+    "keeper-room-watch": {
+      "url": "https://v3b.fal.media/files/b/0aac5c31/0jgLDfVGqIe5jfCaVPRO__2mkRXiQd.png",
+      "prompt": "Editorial interior photograph of the circular watch room of a lighthouse, just below the lantern, converted into a hotel room at dawn. A curved window seat with linen cushions runs along a band of small round-topped windows, a brass telescope on a wooden tripod points out to a calm pale sea, old nautical charts are pinned to the curved whitewashed wall, a narrow iron spiral stair rises through the ceiling, a daybed with a grey wool throw. Soft pink and apricot dawn light pours in low through the windows. Serene, luxurious, Kinfolk / Cereal magazine style, 35mm film photograph, natural grain, no people, no text, no watermark.",
+      "endpoint": "fal-ai/nano-banana-2",
+      "at": "2026-09-29T10:59:18.343Z"
+    },
+    "keeper-room-fog": {
+      "url": "https://v3b.fal.media/files/b/0aac5c31/VCcYoUI1QdVv3j9_WHNqg_bHnBQLhR.png",
+      "prompt": "Editorial interior photograph of an old fog signal house on a sea rock converted into a hotel room. Rough dark granite walls, the enormous flared mouth of a brass foghorn trumpet mounted through the wall, polished and green with age. A freestanding copper bathtub full of steaming water stands under a small arched window looking straight down at white surf smashing on black rocks. Slate floor, a thick sheepskin rug, a wrought-iron candle stand. Cold grey daylight from the window, warm candle glow, steam in the air. Kinfolk / Cereal magazine style, 35mm film photograph, natural grain, no people, no text, no watermark.",
+      "endpoint": "fal-ai/nano-banana-2",
+      "at": "2026-09-29T10:59:23.870Z"
+    },
+    "artemis-habitat": {
+      "url": "https://v3b.fal.media/files/b/0aac5c38/gmYVGLjqws1yNWOBrljR0_drrZz1Z4.png",
+      "prompt": "Interior of a compact lunar surface habitat module photographed on medium format film: four sleeping berths with pale grey fabric curtains, white composite wall panels with handrails and stowage lockers, one small warm reading lamp, a round thick porthole window showing a pitch black sky and a small blue half-lit Earth just above a grey lunar horizon, stark white sunlight raking across the floor from the window, calm, minimal, NASA archival documentary style, subtle film grain, muted colours, no people, no text, no logos.",
+      "endpoint": "fal-ai/nano-banana-2",
+      "at": "2026-09-29T11:00:20.190Z"
+    },
+    "artemis-training": {
+      "url": "https://v3b.fal.media/files/b/0aac5c38/gfRW3yjYYphZKni70-Stw_Ue7WVe6t.png",
+      "prompt": "Black and white archival documentary photograph: a trainee in a white pressurised spacesuit walking on a grey simulated lunar dust field inside a dark cavernous training hangar, a single harsh spotlight from the side casting a very long black shadow, a reduced-gravity harness cable rising from the suit shoulders into darkness, footprints in the dust, high contrast, 1960s NASA film grain, cinematic, no text, no logos.",
+      "endpoint": "fal-ai/nano-banana-2",
+      "at": "2026-09-29T11:00:20.728Z"
+    },
+    "artemis-centrifuge": {
+      "url": "https://v3b.fal.media/files/b/0aac5c38/LoiNgZEr99E8Az1XHUciR_Wwb8TCnQ.png",
+      "prompt": "Black and white archival documentary photograph of a human centrifuge training facility: a long steel arm with an enclosed white gondola capsule at its end sweeping around a circular concrete hall, slight motion blur on the capsule, dramatic single overhead light, deep shadows, 1960s NASA film grain, high contrast, no people visible, no text, no logos.",
+      "endpoint": "fal-ai/nano-banana-2",
+      "at": "2026-09-29T11:00:21.375Z"
+    },
+    "ember-floor": {
+      "url": "https://v3b.fal.media/files/b/0aac5c39/oS3WaaLPjThjf5pXTU6ij_6iTrEmxu.png",
+      "prompt": "Seamless tileable texture, top-down orthographic view of a blacksmith forge floor: packed dark earth and worn flagstones covered in black soot, coal dust and tiny flakes of iron forge scale, a few scattered small cinders, very dark charcoal and umber tones, flat even diffuse lighting with no shadows, fills the entire frame edge to edge, photographic PBR albedo texture, no objects, no text.",
+      "endpoint": "fal-ai/nano-banana-2",
+      "at": "2026-09-29T11:00:34.150Z"
+    },
+    "ember-brick": {
+      "url": "https://v3b.fal.media/files/b/0aac5c39/iXDk5PbHxyZmJu_vKYDLg_T7UJMohR.png",
+      "prompt": "Seamless tileable texture, orthographic flat front view of an old blacksmith workshop wall: hand-made clay bricks in running bond, heavily blackened by a century of forge soot and smoke, crumbling lime mortar joints, subtle warm brown-red brick showing through the soot in places, chipped edges, flat even diffuse lighting with no shadows or highlights, no perspective, fills the entire frame edge to edge, photographic PBR albedo texture, no text.",
+      "endpoint": "fal-ai/nano-banana-2",
+      "at": "2026-09-29T11:00:34.592Z"
+    },
+    "artemis-earth": {
+      "url": "https://v3b.fal.media/files/b/0aac5c38/DA4Wx_Oe6IH-r4SULm8IO_6PXvCSW7.png",
+      "prompt": "Seamless equirectangular projection texture map of the whole planet Earth, unwrapped globe, 2:1 cylindrical projection edge to edge, realistic NASA Blue Marble satellite imagery: deep navy oceans, green and ochre continents, Sahara, Amazon, white polar ice caps at top and bottom edges, dense realistic swirling white cloud cover with cyclones and weather fronts over the oceans, natural colours, no text, no labels, no grid lines, no borders, no stars, no black background, the texture fills the entire frame.",
+      "endpoint": "fal-ai/nano-banana-2",
+      "at": "2026-09-29T11:00:35.677Z"
+    },
+    "ember-damascus": {
+      "url": "https://v3b.fal.media/files/b/0aac5c39/j330IHIsaD96EvAWv8VFi_x6rpiOgN.png",
+      "prompt": "Extreme macro photograph of a polished and acid-etched random-pattern damascus steel sword blade surface, flat-on orthographic view filling the entire frame edge to edge, flowing wood-grain and topographic contour layers of bright silver nickel steel and dark grey carbon steel, hundreds of fine sinuous stretched layers running horizontally along the length, even soft lighting, no reflections of objects, no edges of the blade visible, no text.",
+      "endpoint": "fal-ai/nano-banana-2",
+      "at": "2026-09-29T11:00:42.720Z"
+    },
+    "koi-room-maple": {
+      "url": "https://v3b.fal.media/files/b/0aac5c3d/v692a6cnDioJflfQrnmtA_XjazgLv2.png",
+      "prompt": "Editorial interior photograph of a traditional Kyoto ryokan room in late autumn. Tatami floor, a low lacquered table, a round hinoki cedar soaking tub by an open window, sliding shoji screens framing an old Japanese maple tree blazing vermilion and crimson that overhangs a dark koi pond, fallen red leaves floating on the water. Warm late-afternoon light through the leaves casts dappled red light across the tatami. Serene, luxurious, Kinfolk / Cereal magazine style, 35mm film photograph, natural grain, no people, no text, no watermark.",
+      "endpoint": "fal-ai/nano-banana-2",
+      "at": "2026-09-29T11:01:06.298Z"
+    },
+    "koi-room-moon": {
+      "url": "https://v3b.fal.media/files/b/0aac5c3d/VWEuhwpArt-qhwFuWQKUT_QbAadp1U.png",
+      "prompt": "Editorial interior photograph of the upper room of a traditional Kyoto ryokan at night. A tatami room lit only by a glowing paper andon floor lamp, shoji opened onto a small wooden moon-viewing platform built out over a koi pond. A full moon hangs in a deep blue night sky above dark pine and maple silhouettes and its reflection sits perfectly in the still black water below. Two zabuton cushions and a tray with a sake flask on the platform. Deep blue and warm amber palette, quiet, luxurious, Kinfolk / Cereal magazine style, 35mm film photograph, natural grain, no people, no text, no watermark.",
+      "endpoint": "fal-ai/nano-banana-2",
+      "at": "2026-09-29T11:01:07.836Z"
+    },
+    "koi-floor": {
+      "url": "https://v3b.fal.media/files/b/0aac5c3d/fFey-sfNgoft_kUoYDNvk_gjD0vJEt.png",
+      "prompt": "Top-down flat-lay photograph of a dry riverbed texture, camera pointing straight down: densely packed smooth rounded river stones of mixed sizes from small 2 cm pebbles to 20 cm cobbles, colours dark slate grey, charcoal, muted olive, rust ochre and a few pale granite ones, with coarse pale sand and fine gravel filling the gaps, a few dark sunken leaves, slightly damp matte look. Soft even overcast lighting with no directional shadows, uniform density and scale across the entire frame edge to edge, seamless tileable material texture, no horizon, no perspective, no water, no text, no watermark.",
+      "endpoint": "fal-ai/nano-banana-2",
+      "at": "2026-09-29T11:01:08.417Z"
+    },
+    "koi-moss": {
+      "url": "https://v3b.fal.media/files/b/0aac5c3d/bnfAKcBlbPCgpRR-JuNih_LCIO6Z4d.png",
+      "prompt": "Top-down flat-lay photograph of a Japanese temple moss garden floor, camera pointing straight down: dense velvety cushion moss (sugigoke and hair-cap moss) in emerald, olive and a little golden green, soft undulating mounds, a few small dark wet stones half buried, scattered brown pine needles and two or three fallen red maple leaves. Soft even overcast light, no directional shadows, uniform density across the whole frame edge to edge, seamless tileable material texture, no horizon, no perspective, no text, no watermark.",
+      "endpoint": "fal-ai/nano-banana-2",
+      "at": "2026-09-29T11:01:08.787Z"
+    },
+    "koi-canopy": {
+      "url": "https://v3b.fal.media/files/b/0aac5c3d/L3y4TS_g6rBxqCroB3cA4_L2bithuQ.png",
+      "prompt": "Photograph looking straight up from beneath an old Japanese maple tree (Acer palmatum) toward a bright white overcast sky. Hundreds of delicate seven-pointed star-shaped leaves in dark silhouette, some layers glowing translucent green where light passes through, thin dark twisting branches reaching in from the left and top edges. The canopy is dense on the left half and top of the frame and opens to bright empty white sky toward the lower right. High contrast, crisp leaf edges, no sun, no lens flare, no text, no watermark.",
+      "endpoint": "fal-ai/nano-banana-2",
+      "at": "2026-09-29T11:01:09.095Z"
+    },
+    "koi-room-moss": {
+      "url": "https://v3b.fal.media/files/b/0aac5c3d/OC5T8ZoWwrMUCMX-vJlwA_52tMGuiS.png",
+      "prompt": "Editorial interior photograph of a quiet ground-floor room in a traditional Kyoto ryokan. Pale green tatami mats, a low dark wooden table with a single ceramic tea cup, a folded futon with undyed linen, sliding shoji screens pulled fully open onto a narrow engawa veranda of weathered cedar boards, beyond it a lush moss garden with a mossy stone lantern and the dark green edge of a koi pond. Soft diffused morning light, faint mist, deep shadows inside the room. Serene, minimal, luxurious, Kinfolk / Cereal magazine style, 35mm film photograph, natural grain, no people, no text, no watermark.",
+      "endpoint": "fal-ai/nano-banana-2",
+      "at": "2026-09-29T11:01:09.377Z"
+    },
+    "monolith-mertola": {
+      "url": "https://v3b.fal.media/files/b/0aac5c44/uOssw0MGe2jvP4yE3BklE_hRkn2Z47.png",
+      "prompt": "Architectural photograph of a low courtyard house of pale sand-coloured concrete in the Alentejo, Portugal. Hard midday sun, razor-sharp black shadows from a deep concrete pergola falling across a white wall and a gravel courtyard with a single old olive tree. Deep blue cloudless sky. Minimal, monolithic, almost abstract composition, Swiss architectural photography, medium format, perfectly vertical lines, no people, no text, no watermark.",
+      "endpoint": "fal-ai/nano-banana-2",
+      "at": "2026-09-29T11:02:20.631Z"
+    },
+    "monolith-lajes": {
+      "url": "https://v3b.fal.media/files/b/0aac5c44/sB6hpxTkGwmox3WqPSEQT_HWGmhht1.png",
+      "prompt": "Architectural photograph at blue hour of a house built from black basalt and grey concrete on the edge of a volcanic sea cliff in the Azores. Deep blue dusk sky, the Atlantic below, warm golden light glowing from a long horizontal strip window and a small lit infinity pool glowing turquoise on the terrace. Moody, quiet, cinematic, medium format, long exposure smooth sea, perfectly vertical lines, no people, no text, no watermark.",
+      "endpoint": "fal-ai/nano-banana-2",
+      "at": "2026-09-29T11:02:21.083Z"
+    },
+    "monolith-stal": {
+      "url": "https://v3b.fal.media/files/b/0aac5c44/-MdMPs8A0lFAjmP1NCbt8_R8dAlDci.png",
+      "prompt": "Architectural photograph, Julius Shulman / Iwan Baan style. A small minimalist cabin made of black weathered steel and board-formed concrete, a single long rectangular volume with one huge frameless window, perched on a bare granite outcrop above a dark Arctic sea in Lofoten, Norway. Blue polar twilight, low pink sun on the horizon, thin snow on the rocks, one warm light inside. Shot on medium-format camera, 45mm lens, perfectly vertical lines, deep natural colour, fine detail, no people, no text, no watermark.",
+      "endpoint": "fal-ai/nano-banana-2",
+      "at": "2026-09-29T11:02:21.227Z"
+    },
+    "monolith-ulvik": {
+      "url": "https://v3b.fal.media/files/b/0aac5c44/QmRmmWgFm2DMiiqa8NRwb_UzONhsfB.png",
+      "prompt": "Architectural photograph of a long, slender board-formed concrete house cantilevered dramatically out of a steep mossy cliff above a Norwegian fjord, Hardanger. Golden hour, the low sun raking across the concrete so every formwork line and tie-hole casts a tiny shadow, long shadows of pine trees across the facade, full-height glazing reflecting the warm sky, mist on the fjord far below. Medium format, 35mm lens, perfectly vertical lines, rich but natural colour, no people, no text, no watermark.",
+      "endpoint": "fal-ai/nano-banana-2",
+      "at": "2026-09-29T11:02:21.956Z"
+    },
+    "monolith-studio": {
+      "url": "https://v3b.fal.media/files/b/0aac5c44/M1AL9Y0WxRqfonxrA-N1t_a4rWdHyd.png",
+      "prompt": "Photograph of a quiet architecture studio in an old Lisbon warehouse: long pale oak tables covered with white and grey concrete architectural massing models of cliff houses, tracing paper drawings, a brass desk lamp. A single hard shaft of late afternoon sunlight from a tall window cuts diagonally across the room, casting long crisp shadows of the models across the table. Muted warm off-white palette, dust in the light, calm, editorial interior photography, 35mm, no people, no text, no watermark.",
+      "endpoint": "fal-ai/nano-banana-2",
+      "at": "2026-09-29T11:02:22.892Z"
+    },
+    "lithos-studs": {
+      "url": "https://v3b.fal.media/files/b/0aac5c46/eT6UvQeaY55U8nj_dR3q6_5YQ8SVet.png",
+      "prompt": "Luxury fine-jewellery campaign photograph: a pair of tiny natural pyrite cube stud earrings, each a perfect 5 mm brassy mirror-bright cube with fine growth striations, set in minimal platinum claw settings, lying on crushed jet-black silk velvet, one hard small spotlight creating mirror-sharp highlights on the cube faces, deep black shadows, shallow depth of field, 100mm macro lens, medium format, museum-quiet mood, no text, no logo, no hands.",
+      "endpoint": "fal-ai/nano-banana-2",
+      "at": "2026-09-29T11:02:42.475Z"
+    },
+    "lithos-pendant": {
+      "url": "https://v3b.fal.media/files/b/0aac5c46/95pcS375M5Euz3WbHpSnE_3LOSR0y8.png",
+      "prompt": "Luxury fine-jewellery campaign photograph: a raw natural water-clear quartz crystal point pendant, about 3 cm, capped in brushed platinum on a very fine platinum chain, the chain draped in a loose curve across crushed jet-black silk velvet, the crystal backlit by a narrow rim light so its edges glow and a faint rainbow fracture is visible inside, deep black background, shallow depth of field, 100mm macro lens, medium format, no text, no logo, no hands.",
+      "endpoint": "fal-ai/nano-banana-2",
+      "at": "2026-09-29T11:02:44.534Z"
+    },
+    "lithos-ring": {
+      "url": "https://v3b.fal.media/files/b/0aac5c46/E_i7BdV99PkApNzoEA_q4_sdrLcz1j.png",
+      "prompt": "Luxury fine-jewellery campaign photograph: a heavy polished platinum signet ring set with a deep saturated violet amethyst cabochon, the ring resting at a slight angle on crushed jet-black silk velvet, single small hard spotlight from the upper left, tiny sparkling internal facets in the amethyst, crisp specular highlights on the platinum, deep velvety black shadows filling most of the frame, shallow depth of field, 100mm macro lens, medium format, museum-quiet mood, violet and platinum palette, no text, no logo, no hands.",
+      "endpoint": "fal-ai/nano-banana-2",
+      "at": "2026-09-29T11:02:44.836Z"
+    },
+    "lithos-miner": {
+      "url": "https://v3b.fal.media/files/b/0aac5c46/zt7VLqGulx62O5Ldg2vjK_udFXaV0R.png",
+      "prompt": "Documentary photograph, respectful and quiet: two weathered hands of a miner holding a freshly opened amethyst geode half, deep violet crystals glittering inside, in a dim basalt mine tunnel in northern Uruguay lit only by a warm headlamp from above, dust in the air, rough dark rock walls, the person's face is out of frame, shallow depth of field, 35mm film grain, natural muted colours with violet accent, no text, no logo.",
+      "endpoint": "fal-ai/nano-banana-2",
+      "at": "2026-09-29T11:02:45.108Z"
+    },
+    "koen-juniper": {
+      "url": "https://v3b.fal.media/files/b/0aac5c47/hjodaC6MIS50KYhLZfJYM_cSgsJlw3.png",
+      "prompt": "Traditional Japanese sumi-e ink painting of an ancient shimpaku juniper bonsai with twisting white deadwood (shari and jin) spiralling up the trunk, a few dense foliage pads, in a small round pot. Loose expressive brushwork, the deadwood left as bare paper outlined by thin ink lines, foliage as soft grey ink washes. Black and grey ink only on plain warm white paper, large empty margins, subject centred. No seal, no stamp, no calligraphy, no text, no signature, no frame, no border.",
+      "endpoint": "fal-ai/nano-banana-2",
+      "at": "2026-09-29T11:02:56.770Z"
+    },
+    "koen-azalea": {
+      "url": "https://v3b.fal.media/files/b/0aac5c47/tIB-TCDoCCSS9SjmAVTOR_25eOBmrj.png",
+      "prompt": "Traditional Japanese sumi-e ink painting of a satsuki azalea bonsai in full bloom in a shallow oval pot, the gnarled trunk and branches in dark ink, the flower clusters painted as soft dabs of muted vermilion red watercolour, small leaves in grey ink wash. Black ink with a single restrained vermilion accent on plain warm white paper, large empty margins, subject centred. No seal, no stamp, no calligraphy, no text, no signature, no frame, no border.",
+      "endpoint": "fal-ai/nano-banana-2",
+      "at": "2026-09-29T11:02:56.902Z"
+    },
+    "koen-pine": {
+      "url": "https://v3b.fal.media/files/b/0aac5c47/SIZZXieckw-xeBcwl8Fen_WM4hC9f9.png",
+      "prompt": "Traditional Japanese sumi-e ink painting of a Japanese black pine bonsai in formal upright style in a shallow rectangular pot. Loose confident brushwork, the needle pads rendered as grey ink wash clouds, the trunk in dark dry-brush strokes with flaky bark, a pale ink wash suggests the pot. Black and grey ink only on plain warm white paper, large empty margins, subject centred in the lower two thirds. No seal, no stamp, no calligraphy, no text, no signature, no frame, no border.",
+      "endpoint": "fal-ai/nano-banana-2",
+      "at": "2026-09-29T11:02:57.213Z"
+    },
+    "koen-washi": {
+      "url": "https://v3b.fal.media/files/b/0aac5c47/wDn3iO5PG3fpsRWIvSjOo_ySsV0zRZ.png",
+      "prompt": "Flat overhead macro scan of handmade Japanese kozo washi paper, warm off-white cream colour, long translucent mulberry fibres visible, very subtle cloudy thickness variation, a few tiny darker fibre flecks, perfectly even diffuse lighting, no shadows, no folds, no edges, no objects, fills the entire frame, seamless texture, extremely subtle and low contrast.",
+      "endpoint": "fal-ai/nano-banana-2",
+      "at": "2026-09-29T11:02:58.257Z"
+    },
+    "koen-quince": {
+      "url": "https://v3b.fal.media/files/b/0aac5c47/MSR8A7zGBq906BinTrA6F_kZNF3khY.png",
+      "prompt": "Traditional Japanese sumi-e ink painting of a tiny shohin chojubai flowering quince bonsai in a small glazed square pot, a knotted miniature trunk with a few thorny twigs and a handful of small blossoms painted in pale coral pink watercolour, tiny leaves in grey ink wash. Mostly black and grey ink on plain warm white paper, very large empty margins, small subject centred low. No seal, no stamp, no calligraphy, no text, no signature, no frame, no border.",
+      "endpoint": "fal-ai/nano-banana-2",
+      "at": "2026-09-29T11:02:58.494Z"
+    },
+    "koen-enso": {
+      "url": "https://v3b.fal.media/files/b/0aac5c48/fmzdZutZfixC-XQuZjcfj_tiQkYL0H.png",
+      "prompt": "A single zen ensō circle painted in one confident stroke of black sumi ink with a large soft calligraphy brush on plain white paper. The stroke starts thick and wet at the lower left, sweeps clockwise, thins out and breaks into dry-brush streaks (kasure) near the end, leaving a small open gap at the top. Pure flat white background, nothing else on the paper, no seal, no stamp, no signature, no text, no characters, no shadows, no frame. Scanned artwork, high contrast, crisp fibre texture in the dry brush.",
+      "endpoint": "fal-ai/nano-banana-2",
+      "at": "2026-09-29T11:03:00.950Z"
+    },
+    "lowfreq-cover-valves": {
+      "url": "https://v3b.fal.media/files/b/0aac5c4a/sTUdb4m8xbDkjn1qemrmD_RnFIejtX.png",
+      "prompt": "Square record album cover artwork, no text, no letters, no typography. Macro photograph of four glowing vacuum tubes on a black amplifier chassis in total darkness, orange-amber filaments burning inside smoky glass, reflections on chrome, creamy bokeh, violet rim light from behind, dark and warm, analog hi-fi still life, film grain.",
+      "endpoint": "fal-ai/nano-banana-2",
+      "at": "2026-09-29T11:03:19.856Z"
+    },
+    "lowfreq-cover-counter": {
+      "url": "https://v3b.fal.media/files/b/0aac5c4a/2klj60HicBfqk1e9DsqOf_88GetNaA.png",
+      "prompt": "Square record album cover artwork, no text, no letters, no typography. High-contrast black and white photograph of an empty narrow Tokyo listening bar at closing time: a long polished wooden counter with a row of round bar stools, a single pendant lamp making a pool of light, walls of vinyl records fading into darkness, heavy grain, deep blacks, 1960s Blue Note style photography, cropped tight, cinematic.",
+      "endpoint": "fal-ai/nano-banana-2",
+      "at": "2026-09-29T11:03:20.617Z"
+    },
+    "lowfreq-cover-rain": {
+      "url": "https://v3b.fal.media/files/b/0aac5c4a/SohaXFOi3KKGPjrvUfXBk_Q2H2TjR9.png",
+      "prompt": "Square record album cover artwork, no text, no letters, no typography, no signs with readable writing. Night photograph of a narrow Tokyo back alley in heavy rain, wet asphalt reflecting smeared purple and amber neon glow, a lone figure with a transparent umbrella walking away, soft motion blur, bokeh, cinematic colour grade, film grain, melancholy lo-fi mood.",
+      "endpoint": "fal-ai/nano-banana-2",
+      "at": "2026-09-29T11:03:21.517Z"
+    },
+    "lowfreq-cover-tidal": {
+      "url": "https://v3b.fal.media/files/b/0aac5c4a/DBqPTkH2F5SIuiq8O3a5j_2BJtCUFw.png",
+      "prompt": "Square minimalist record album cover artwork, no text, no letters, no typography. A single large pale lavender circle hovering just above a flat dark indigo sea horizon, a thin amber line where sky meets water, vast empty space, risograph print with visible grain and slight ink misregistration, 1960s Japanese modernist graphic design, calm, flat colour fields on uncoated paper.",
+      "endpoint": "fal-ai/nano-banana-2",
+      "at": "2026-09-29T11:03:22.108Z"
+    },
+    "lowfreq-cover-geometry": {
+      "url": "https://v3b.fal.media/files/b/0aac5c4a/bjGIamMbXg6ejdG3Kfb60_fzXhlV8D.png",
+      "prompt": "Square abstract record album cover artwork, no text, no letters, no typography. Swiss and Japanese modernist composition: overlapping amber semicircles, a lavender quarter-disc and thin black parallel stripes arranged like sound waves on warm off-white paper, screen-printed texture with slight ink spread and paper fibres, bold, balanced, 1960s jazz label design.",
+      "endpoint": "fal-ai/nano-banana-2",
+      "at": "2026-09-29T11:03:27.055Z"
+    },
+    "lowfreq-cover-aubergine": {
+      "url": "https://v3b.fal.media/files/b/0aac5c4a/W-R4VZ55JeUS4D4fVke0e_QtkwfU9e.png",
+      "prompt": "Square vintage jazz record album cover artwork, no text, no letters, no typography. Grainy 35mm film photograph: close-up of a pianist's hands resting on the keys of a worn Fender Rhodes electric piano, lit by a single warm amber lamp from above, everything else falling into deep aubergine-purple shadow, shallow depth of field, heavy film grain, faded 1970s Japanese jazz label aesthetic, moody, intimate, photographic print texture.",
+      "endpoint": "fal-ai/nano-banana-2",
+      "at": "2026-09-29T11:03:38.121Z"
+    },
+    "racer-brick": {
+      "url": "https://v3b.fal.media/files/b/0aac5c50/yCwH9mYJxi3WVlPJ1Aa5K_5nps12Sh.png",
+      "prompt": "Seamless tileable texture. Straight-on orthographic photograph of an old industrial brick wall, soot-darkened charcoal and deep oxblood bricks in running bond, recessed dark mortar joints, wet from rain with subtle vertical water streaks and faint white efflorescence, evenly and flatly lit, no perspective, no shadows, no objects, no text, the bricks fill the entire frame edge to edge.",
+      "endpoint": "fal-ai/nano-banana-2",
+      "at": "2026-09-29T11:04:25.785Z"
+    },
+    "racer-workshop": {
+      "url": "https://v3b.fal.media/files/b/0aac5c50/I135fFlZiukoZ0N5NnWRs_wEPyQaxC.png",
+      "prompt": "Cinematic low photograph taken at floor level inside a small custom motorcycle workshop at night, warm amber tungsten work lights, polished concrete floor with oil stains and reflections, a red rolling tool chest, spoked motorcycle wheels leaning against a workbench, a bike frame on a stand, shallow depth of field, dim moody atmosphere, film grain, no people, no text.",
+      "endpoint": "fal-ai/nano-banana-2",
+      "at": "2026-09-29T11:04:26.455Z"
+    },
+    "racer-asphalt": {
+      "url": "https://v3b.fal.media/files/b/0aac5c50/fe4goO3SnXoCOONtOM5Jp_XQEiGYum.png",
+      "prompt": "Seamless tileable texture. Top-down orthographic photograph of dark city asphalt road surface, fine black aggregate with occasional grey stones, a couple of thin sealed tar crack lines, faint oil stains, evenly lit, no puddles, no road markings, no shadows, fills the entire frame.",
+      "endpoint": "fal-ai/nano-banana-2",
+      "at": "2026-09-29T11:04:26.771Z"
+    },
+    "racer-city": {
+      "url": "https://v3b.fal.media/files/b/0aac5c50/R5rbyx85Ql5Zu8-vHT7WA_Q9lEONPW.png",
+      "prompt": "Very dark rainy city street at night seen far in the distance, everything heavily out of focus, soft round bokeh of sodium street lamps, red tail lights and a few magenta and teal shop signs, wet road reflections, thin fog, cinematic anamorphic look, restrained palette, mostly black, no people, no readable text.",
+      "endpoint": "fal-ai/nano-banana-2",
+      "at": "2026-09-29T11:04:29.364Z"
+    },
+    "racer-shutter": {
+      "url": "https://v3b.fal.media/files/b/0aac5c50/7rBLn5MbRJWeOdYREU8F7_n3BhhtZY.png",
+      "prompt": "Straight-on orthographic photograph of a closed steel roll-up garage shutter, horizontal corrugated slats filling the entire frame edge to edge, dark gunmetal grey paint worn to bare steel along the ridges, rust streaks and rain runs, grime near the bottom, even flat lighting, no frame, no surrounding wall, no text, no graffiti, no logos.",
+      "endpoint": "fal-ai/nano-banana-2",
+      "at": "2026-09-29T11:04:30.201Z"
+    },
+    "koen-maple2": {
+      "url": "https://v3b.fal.media/files/b/0aac5cf1/lA-IIlTrmrC7U1uTeCvz9_NDA7NfQB.png",
+      "prompt": "A Japanese maple bonsai tree, thick gnarled tapering trunk with visible surface roots, elegant sculpted branch structure with rounded compact cloud-like pads of small bright green maple leaves, clear gaps between the foliage pads showing branches, in a shallow oval dark brown glazed ceramic pot topped with green moss.",
+      "endpoint": "fal-ai/nano-banana-2",
+      "at": "2026-09-29T11:31:11.699Z"
+    }
+  },
+  "meshes": {
+    "pilot-guardian": {
+      "request_id": "01a0eca9-e0e9-7ab3-b4d2-0d1c395b1f4a",
+      "endpoint": "meshy/v7.1/image-to-3d",
+      "input": {
+        "topology": "triangle",
+        "target_polycount": 150000,
+        "symmetry_mode": "auto",
+        "should_remesh": true,
+        "should_texture": true,
+        "enable_pbr": true,
+        "enable_safety_checker": false,
+        "geometry_resolution": "4k",
+        "model_type": "standard",
+        "image_url": "https://v3b.fal.media/files/b/0aac5b2c/fujbp1ruXevlrZkK1S7CH_5lu3fYdM.png"
+      },
+      "status": "done",
+      "at": "2026-09-29T10:15:50.315Z",
+      "glb": "https://v3b.fal.media/files/b/0aac5b57/NRndPQV14hLf3cZ6dsT0W_model.glb",
+      "size": 20890688,
+      "done": "2026-09-29T10:24:01.115Z"
+    },
+    "pilot-astrolabe": {
+      "request_id": "01a0eca9-e0ef-7cd1-b383-cbb8341ab69c",
+      "endpoint": "meshy/v7.1/image-to-3d",
+      "input": {
+        "topology": "triangle",
+        "target_polycount": 150000,
+        "symmetry_mode": "auto",
+        "should_remesh": true,
+        "should_texture": true,
+        "enable_pbr": true,
+        "enable_safety_checker": false,
+        "geometry_resolution": "4k",
+        "model_type": "standard",
+        "image_url": "https://v3b.fal.media/files/b/0aac5b2c/8IDIhjGIt9vPZjQLcaSep_ncXhpnwN.png"
+      },
+      "status": "done",
+      "at": "2026-09-29T10:15:50.318Z",
+      "glb": "https://v3b.fal.media/files/b/0aac5b4c/NzWMKEme93cVl3HR2t_t4_model.glb",
+      "size": 22983228,
+      "done": "2026-09-29T10:21:18.292Z"
+    },
+    "abyss-angler": {
+      "request_id": "01a0ecb7-7d74-7f60-80c4-538e6e98c542",
+      "endpoint": "meshy/v7.1/image-to-3d",
+      "input": {
+        "topology": "triangle",
+        "target_polycount": 150000,
+        "symmetry_mode": "auto",
+        "should_remesh": true,
+        "should_texture": true,
+        "enable_pbr": true,
+        "enable_safety_checker": false,
+        "geometry_resolution": "4k",
+        "model_type": "standard",
+        "image_url": "https://v3b.fal.media/files/b/0aac5b64/mqKXGEfd7pwargiH6TNIo_7ETOblAv.png"
+      },
+      "status": "done",
+      "at": "2026-09-29T10:30:42.342Z",
+      "glb": "https://v3b.fal.media/files/b/0aac5ba1/fCf4w3zVcdJX7GRAKSPve_model.glb",
+      "size": 19122888,
+      "done": "2026-09-29T10:35:19.330Z"
+    },
+    "reliq-amphora": {
+      "request_id": "01a0ecb7-7d74-78a2-a742-6668560270d0",
+      "endpoint": "meshy/v7.1/image-to-3d",
+      "input": {
+        "topology": "triangle",
+        "target_polycount": 80000,
+        "symmetry_mode": "auto",
+        "should_remesh": true,
+        "should_texture": true,
+        "enable_pbr": true,
+        "enable_safety_checker": false,
+        "geometry_resolution": "4k",
+        "model_type": "standard",
+        "image_url": "https://v3b.fal.media/files/b/0aac5b64/DrT4kJuEVGyCQmI4AWFAw_ojUj9BiU.png"
+      },
+      "status": "done",
+      "at": "2026-09-29T10:30:42.345Z",
+      "glb": "https://v3b.fal.media/files/b/0aac5baf/pkXb01NHRjeKgwzWdR6C0_model.glb",
+      "size": 16326204,
+      "done": "2026-09-29T10:37:41.696Z"
+    },
+    "reliq-mask": {
+      "request_id": "01a0ecb7-7d74-7013-9512-0d30636eab36",
+      "endpoint": "meshy/v7.1/image-to-3d",
+      "input": {
+        "topology": "triangle",
+        "target_polycount": 150000,
+        "symmetry_mode": "auto",
+        "should_remesh": true,
+        "should_texture": true,
+        "enable_pbr": true,
+        "enable_safety_checker": false,
+        "geometry_resolution": "4k",
+        "model_type": "standard",
+        "image_url": "https://v3b.fal.media/files/b/0aac5b64/-3GIYdVk22Nz5ajCQPgTC_Ed1Ds9Gb.png"
+      },
+      "status": "done",
+      "at": "2026-09-29T10:30:42.346Z",
+      "glb": "https://v3b.fal.media/files/b/0aac5ba6/crzCSpjAxJtmCw5Uf-lUw_model.glb",
+      "size": 20220032,
+      "done": "2026-09-29T10:36:11.629Z"
+    },
+    "terra-tropic": {
+      "request_id": "01a0ecb7-7d7c-7cd3-8847-c7968a3b0000",
+      "endpoint": "meshy/v7.1/image-to-3d",
+      "input": {
+        "topology": "triangle",
+        "target_polycount": 200000,
+        "symmetry_mode": "auto",
+        "should_remesh": true,
+        "should_texture": true,
+        "enable_pbr": true,
+        "enable_safety_checker": false,
+        "geometry_resolution": "4k",
+        "model_type": "standard",
+        "image_url": "https://v3b.fal.media/files/b/0aac5b68/tcAHdxux8ZTw4OOtUesz-_uBEMAds6.png"
+      },
+      "status": "done",
+      "at": "2026-09-29T10:30:42.348Z",
+      "glb": "https://v3b.fal.media/files/b/0aac5bc6/nk6WimHaLO_H9LVH3_hl-_model.glb",
+      "size": 26863692,
+      "done": "2026-09-29T10:41:25.666Z"
+    },
+    "flora-protea": {
+      "request_id": "01a0ecb7-7d7c-7cd3-8847-c780594ca3eb",
+      "endpoint": "meshy/v7.1/image-to-3d",
+      "input": {
+        "topology": "triangle",
+        "target_polycount": 100000,
+        "symmetry_mode": "auto",
+        "should_remesh": true,
+        "should_texture": true,
+        "enable_pbr": true,
+        "enable_safety_checker": false,
+        "geometry_resolution": "4k",
+        "model_type": "standard",
+        "image_url": "https://v3b.fal.media/files/b/0aac5b6a/eSMln200Uw97azg-DA0hL_qcJYVLbm.png"
+      },
+      "status": "done",
+      "at": "2026-09-29T10:30:42.350Z",
+      "glb": "https://v3b.fal.media/files/b/0aac5bc5/Pbaz83gvJ_3MRmv5rECG7_model.glb",
+      "size": 19483484,
+      "done": "2026-09-29T10:41:16.055Z"
+    },
+    "ember-anvil": {
+      "request_id": "01a0ecb7-7d7d-72b2-8bd2-e99f2afde8f3",
+      "endpoint": "meshy/v7.1/image-to-3d",
+      "input": {
+        "topology": "triangle",
+        "target_polycount": 100000,
+        "symmetry_mode": "auto",
+        "should_remesh": true,
+        "should_texture": true,
+        "enable_pbr": true,
+        "enable_safety_checker": false,
+        "geometry_resolution": "4k",
+        "model_type": "standard",
+        "image_url": "https://v3b.fal.media/files/b/0aac5b67/j73SyGu2BNr4j3XWgucZz_ImSc2ZVR.png"
+      },
+      "status": "done",
+      "at": "2026-09-29T10:30:42.351Z",
+      "glb": "https://v3b.fal.media/files/b/0aac5baa/t1aLUxwdG2IvNfTmHi6xA_model.glb",
+      "size": 17506912,
+      "done": "2026-09-29T10:36:50.530Z"
+    },
+    "terra-desert": {
+      "request_id": "01a0ecb7-7d7d-7182-b7bb-21b995441e23",
+      "endpoint": "meshy/v7.1/image-to-3d",
+      "input": {
+        "topology": "triangle",
+        "target_polycount": 200000,
+        "symmetry_mode": "auto",
+        "should_remesh": true,
+        "should_texture": true,
+        "enable_pbr": true,
+        "enable_safety_checker": false,
+        "geometry_resolution": "4k",
+        "model_type": "standard",
+        "image_url": "https://v3b.fal.media/files/b/0aac5b68/hUqq2XOCl0LDklCgAzLUE_T0FLf5lL.png"
+      },
+      "status": "done",
+      "at": "2026-09-29T10:30:42.352Z",
+      "glb": "https://v3b.fal.media/files/b/0aac5bb4/raPWOgb1f884JIL7eGlc2_model.glb",
+      "size": 25927340,
+      "done": "2026-09-29T10:38:42.676Z"
+    },
+    "ember-hammer": {
+      "request_id": "01a0ecb7-7d7d-7bb2-8417-cdd636eea18b",
+      "endpoint": "meshy/v7.1/image-to-3d",
+      "input": {
+        "topology": "triangle",
+        "target_polycount": 40000,
+        "symmetry_mode": "auto",
+        "should_remesh": true,
+        "should_texture": true,
+        "enable_pbr": true,
+        "enable_safety_checker": false,
+        "geometry_resolution": "4k",
+        "model_type": "standard",
+        "image_url": "https://v3b.fal.media/files/b/0aac5b67/pV4vG45lL9DMjedtfN-eV_oNYpjzla.png"
+      },
+      "status": "done",
+      "at": "2026-09-29T10:30:42.354Z",
+      "glb": "https://v3b.fal.media/files/b/0aac5b9a/sIg6RpRT6xdr5KgYUilhR_model.glb",
+      "size": 13464312,
+      "done": "2026-09-29T10:34:29.080Z"
+    },
+    "abyss-sub": {
+      "request_id": "01a0ecb7-7d7d-7573-b3b3-dec40ea7518f",
+      "endpoint": "meshy/v7.1/image-to-3d",
+      "input": {
+        "topology": "triangle",
+        "target_polycount": 150000,
+        "symmetry_mode": "auto",
+        "should_remesh": true,
+        "should_texture": true,
+        "enable_pbr": true,
+        "enable_safety_checker": false,
+        "geometry_resolution": "4k",
+        "model_type": "standard",
+        "image_url": "https://v3b.fal.media/files/b/0aac5b66/oFyY6ngTR1VgnHUoVePCy_8v7LJXzx.png"
+      },
+      "status": "done",
+      "at": "2026-09-29T10:30:42.356Z",
+      "glb": "https://v3b.fal.media/files/b/0aac5bb0/X1m_HTwa5OMSS9bdVr213_model.glb",
+      "size": 22606932,
+      "done": "2026-09-29T10:37:52.016Z"
+    },
+    "abyss-nautilus": {
+      "request_id": "01a0ecb7-7d7d-72b2-8bd2-e98b0e00089d",
+      "endpoint": "meshy/v7.1/image-to-3d",
+      "input": {
+        "topology": "triangle",
+        "target_polycount": 100000,
+        "symmetry_mode": "auto",
+        "should_remesh": true,
+        "should_texture": true,
+        "enable_pbr": true,
+        "enable_safety_checker": false,
+        "geometry_resolution": "4k",
+        "model_type": "standard",
+        "image_url": "https://v3b.fal.media/files/b/0aac5b64/p7pYbaBPK7NuWtDvgFNr__KWOJjXEW.png"
+      },
+      "status": "done",
+      "at": "2026-09-29T10:30:42.357Z",
+      "glb": "https://v3b.fal.media/files/b/0aac5ba8/69rvOfhNTQUGMOFxiBPlL_model.glb",
+      "size": 16958328,
+      "done": "2026-09-29T10:36:19.906Z"
+    },
+    "terra-moss": {
+      "request_id": "01a0ecb7-7d7e-79e3-a44d-e3333df38efa",
+      "endpoint": "meshy/v7.1/image-to-3d",
+      "input": {
+        "topology": "triangle",
+        "target_polycount": 200000,
+        "symmetry_mode": "auto",
+        "should_remesh": true,
+        "should_texture": true,
+        "enable_pbr": true,
+        "enable_safety_checker": false,
+        "geometry_resolution": "4k",
+        "model_type": "standard",
+        "image_url": "https://v3b.fal.media/files/b/0aac5b68/NJSvXhVg-vGxf7G4a70lW_rGuPuvKZ.png"
+      },
+      "status": "done",
+      "at": "2026-09-29T10:30:42.361Z",
+      "glb": "https://v3b.fal.media/files/b/0aac5bc6/HG889FPLy_eCO8kebHR88_model.glb",
+      "size": 29519712,
+      "done": "2026-09-29T10:42:27.080Z"
+    },
+    "koi-showa": {
+      "request_id": "01a0ecb7-7d7d-7fa1-950a-71fa212246eb",
+      "endpoint": "meshy/v7.1/image-to-3d",
+      "input": {
+        "topology": "triangle",
+        "target_polycount": 60000,
+        "symmetry_mode": "auto",
+        "should_remesh": true,
+        "should_texture": true,
+        "enable_pbr": true,
+        "enable_safety_checker": false,
+        "geometry_resolution": "4k",
+        "model_type": "standard",
+        "image_url": "https://v3b.fal.media/files/b/0aac5b69/X_e4mpGk1QijK7Dbokmtj_EsB2NIen.png"
+      },
+      "status": "done",
+      "at": "2026-09-29T10:30:42.362Z",
+      "glb": "https://v3b.fal.media/files/b/0aac5b9e/9oJWTPuKwQp8DEvMocTuq_model.glb",
+      "size": 14196188,
+      "done": "2026-09-29T10:35:29.420Z"
+    },
+    "koi-lantern": {
+      "request_id": "01a0ecb7-7d7d-73a2-94bd-97a7db31b370",
+      "endpoint": "meshy/v7.1/image-to-3d",
+      "input": {
+        "topology": "triangle",
+        "target_polycount": 80000,
+        "symmetry_mode": "auto",
+        "should_remesh": true,
+        "should_texture": true,
+        "enable_pbr": true,
+        "enable_safety_checker": false,
+        "geometry_resolution": "4k",
+        "model_type": "standard",
+        "image_url": "https://v3b.fal.media/files/b/0aac5b6a/hTpOkVDbYMd8ifpvklVul_4ulCpYnD.png"
+      },
+      "status": "done",
+      "at": "2026-09-29T10:30:42.364Z",
+      "glb": "https://v3b.fal.media/files/b/0aac5b9d/j80HuQEhKsCqfiPpihdEH_model.glb",
+      "size": 16299340,
+      "done": "2026-09-29T10:34:28.065Z"
+    },
+    "flora-rose": {
+      "request_id": "01a0ecb7-7d7d-7412-9e4d-de0b1cdf8da8",
+      "endpoint": "meshy/v7.1/image-to-3d",
+      "input": {
+        "topology": "triangle",
+        "target_polycount": 100000,
+        "symmetry_mode": "auto",
+        "should_remesh": true,
+        "should_texture": true,
+        "enable_pbr": true,
+        "enable_safety_checker": false,
+        "geometry_resolution": "4k",
+        "model_type": "standard",
+        "image_url": "https://v3b.fal.media/files/b/0aac5b6a/KKBNJaRRRs6sNrBbCTvLk_27kuVv8A.png"
+      },
+      "status": "done",
+      "at": "2026-09-29T10:30:42.365Z",
+      "glb": "https://v3b.fal.media/files/b/0aac5bb5/kTxDrJ7kqSid0ZuB8i0sT_model.glb",
+      "size": 14073208,
+      "done": "2026-09-29T10:38:52.689Z"
+    },
+    "koi-kohaku": {
+      "request_id": "01a0ecb7-7d7d-7182-b7bb-21a14fa98fc2",
+      "endpoint": "meshy/v7.1/image-to-3d",
+      "input": {
+        "topology": "triangle",
+        "target_polycount": 60000,
+        "symmetry_mode": "auto",
+        "should_remesh": true,
+        "should_texture": true,
+        "enable_pbr": true,
+        "enable_safety_checker": false,
+        "geometry_resolution": "4k",
+        "model_type": "standard",
+        "image_url": "https://v3b.fal.media/files/b/0aac5b68/DCQl2Om_-yKmf3O4SY7iP_8bt31tU7.png"
+      },
+      "status": "done",
+      "at": "2026-09-29T10:30:42.366Z",
+      "glb": "https://v3b.fal.media/files/b/0aac5b9e/zk_HwJY_lM3jJiO8av2IH_model.glb",
+      "size": 13503480,
+      "done": "2026-09-29T10:35:29.042Z"
+    },
+    "koi-lotus": {
+      "request_id": "01a0ecb7-7d7e-79e3-a44d-e34da97b1008",
+      "endpoint": "meshy/v7.1/image-to-3d",
+      "input": {
+        "topology": "triangle",
+        "target_polycount": 60000,
+        "symmetry_mode": "auto",
+        "should_remesh": true,
+        "should_texture": true,
+        "enable_pbr": true,
+        "enable_safety_checker": false,
+        "geometry_resolution": "4k",
+        "model_type": "standard",
+        "image_url": "https://v3b.fal.media/files/b/0aac5b69/S6ZTtSQRVTHtmXmdy1EbR_WcYPyGYm.png"
+      },
+      "status": "done",
+      "at": "2026-09-29T10:30:42.368Z",
+      "glb": "https://v3b.fal.media/files/b/0aac5bb4/wFVP604-X4kL1iZqX2vLy_model.glb",
+      "size": 12594052,
+      "done": "2026-09-29T10:39:03.246Z"
+    },
+    "reliq-bust": {
+      "request_id": "01a0ecb7-7d7d-7412-9e4d-de1bc3f3a390",
+      "endpoint": "meshy/v7.1/image-to-3d",
+      "input": {
+        "topology": "triangle",
+        "target_polycount": 150000,
+        "symmetry_mode": "auto",
+        "should_remesh": true,
+        "should_texture": true,
+        "enable_pbr": true,
+        "enable_safety_checker": false,
+        "geometry_resolution": "4k",
+        "model_type": "standard",
+        "image_url": "https://v3b.fal.media/files/b/0aac5b64/x1yFtWmVNkqOpyLzNwNJv_agLblIXw.png"
+      },
+      "status": "done",
+      "at": "2026-09-29T10:30:42.369Z",
+      "glb": "https://v3b.fal.media/files/b/0aac5ba5/KvQdZlJVMwd1CHVwx0I6I_model.glb",
+      "size": 18951540,
+      "done": "2026-09-29T10:36:11.865Z"
+    },
+    "abyss-vent": {
+      "request_id": "01a0ecb7-7d7d-7573-b3b3-ded4c6e82d71",
+      "endpoint": "meshy/v7.1/image-to-3d",
+      "input": {
+        "topology": "triangle",
+        "target_polycount": 150000,
+        "symmetry_mode": "auto",
+        "should_remesh": true,
+        "should_texture": true,
+        "enable_pbr": true,
+        "enable_safety_checker": false,
+        "geometry_resolution": "4k",
+        "model_type": "standard",
+        "image_url": "https://v3b.fal.media/files/b/0aac5b66/dOx3hZfIBwPplwPQf_oO-_A7yAgCBi.png"
+      },
+      "status": "done",
+      "at": "2026-09-29T10:30:42.370Z",
+      "glb": "https://v3b.fal.media/files/b/0aac5bc6/SEcoBv7HNA-ywMrzBLVMA_model.glb",
+      "size": 24252464,
+      "done": "2026-09-29T10:42:17.281Z"
+    },
+    "reliq-helmet": {
+      "request_id": "01a0ecb7-7d7f-7c93-9da8-3d11db496a6d",
+      "endpoint": "meshy/v7.1/image-to-3d",
+      "input": {
+        "topology": "triangle",
+        "target_polycount": 150000,
+        "symmetry_mode": "auto",
+        "should_remesh": true,
+        "should_texture": true,
+        "enable_pbr": true,
+        "enable_safety_checker": false,
+        "geometry_resolution": "4k",
+        "model_type": "standard",
+        "image_url": "https://v3b.fal.media/files/b/0aac5b64/sJHNwY5SJTN_iB_4wCVsd_E6wUYZMo.png"
+      },
+      "status": "done",
+      "at": "2026-09-29T10:30:42.372Z",
+      "glb": "https://v3b.fal.media/files/b/0aac5bb2/I2RGBaZljc2DE2XiQMcDW_model.glb",
+      "size": 19288756,
+      "done": "2026-09-29T10:38:44.662Z"
+    },
+    "ember-sword": {
+      "request_id": "01a0ecb7-7d7e-77d1-8a55-8279cbc55928",
+      "endpoint": "meshy/v7.1/image-to-3d",
+      "input": {
+        "topology": "triangle",
+        "target_polycount": 80000,
+        "symmetry_mode": "auto",
+        "should_remesh": true,
+        "should_texture": true,
+        "enable_pbr": true,
+        "enable_safety_checker": false,
+        "geometry_resolution": "4k",
+        "model_type": "standard",
+        "image_url": "https://v3b.fal.media/files/b/0aac5b7f/j6Lwz9abPTaYgra7YTqep_HuorDmFp.png"
+      },
+      "status": "done",
+      "at": "2026-09-29T10:30:42.373Z",
+      "glb": "https://v3b.fal.media/files/b/0aac5b98/EqlDTTMBjzaaXqMXwFse-_model.glb",
+      "size": 12377896,
+      "done": "2026-09-29T10:34:07.972Z"
+    },
+    "flora-morpho": {
+      "request_id": "01a0ecba-a0f5-7342-bee3-d27dfbf29a2e",
+      "endpoint": "meshy/v7.1/image-to-3d",
+      "input": {
+        "topology": "triangle",
+        "target_polycount": 60000,
+        "symmetry_mode": "auto",
+        "should_remesh": true,
+        "should_texture": true,
+        "enable_pbr": true,
+        "enable_safety_checker": false,
+        "geometry_resolution": "4k",
+        "model_type": "standard",
+        "image_url": "https://v3b.fal.media/files/b/0aac5b6b/PONFL4W8yAS0eXXjWmcCP_vAUJuKta.png"
+      },
+      "status": "done",
+      "at": "2026-09-29T10:34:08.034Z",
+      "glb": "https://v3b.fal.media/files/b/0aac5bb0/D3RBZBIL4IuOkOGdd9GcM_model.glb",
+      "size": 15572840,
+      "done": "2026-09-29T10:38:02.053Z"
+    },
+    "flora-orchid": {
+      "request_id": "01a0ecba-ef72-7080-9893-2f3b4d6d3a0e",
+      "endpoint": "meshy/v7.1/image-to-3d",
+      "input": {
+        "topology": "triangle",
+        "target_polycount": 100000,
+        "symmetry_mode": "auto",
+        "should_remesh": true,
+        "should_texture": true,
+        "enable_pbr": true,
+        "enable_safety_checker": false,
+        "geometry_resolution": "4k",
+        "model_type": "standard",
+        "image_url": "https://v3b.fal.media/files/b/0aac5b6b/aRN1Es2Vl1yhPlQOgljuD_xc2DmbpW.png"
+      },
+      "status": "done",
+      "at": "2026-09-29T10:34:28.126Z",
+      "glb": "https://v3b.fal.media/files/b/0aac5bb2/I7Pkrfx9mE1IQhMCDch35_model.glb",
+      "size": 15586756,
+      "done": "2026-09-29T10:38:02.668Z"
+    },
+    "velo-white": {
+      "request_id": "01a0ecba-f36b-7462-9f8d-bbcfb21115e7",
+      "endpoint": "meshy/v7.1/image-to-3d",
+      "input": {
+        "topology": "triangle",
+        "target_polycount": 150000,
+        "symmetry_mode": "auto",
+        "should_remesh": true,
+        "should_texture": true,
+        "enable_pbr": true,
+        "enable_safety_checker": false,
+        "geometry_resolution": "4k",
+        "model_type": "standard",
+        "image_url": "https://v3b.fal.media/files/b/0aac5b7f/8S0FAwBH1iA1vPem0Gc_y_vQfod9aL.png"
+      },
+      "status": "done",
+      "at": "2026-09-29T10:34:29.183Z",
+      "glb": "https://v3b.fal.media/files/b/0aac5bb9/VP3DdY0027qX--eJtvzfZ_model.glb",
+      "size": 17885164,
+      "done": "2026-09-29T10:39:33.661Z"
+    },
+    "hangar-mech": {
+      "request_id": "01a0ecbb-b7b1-7d93-a985-9a5bce6e7c01",
+      "endpoint": "meshy/v7.1/image-to-3d",
+      "input": {
+        "topology": "triangle",
+        "target_polycount": 200000,
+        "symmetry_mode": "auto",
+        "should_remesh": true,
+        "should_texture": true,
+        "enable_pbr": true,
+        "enable_safety_checker": false,
+        "geometry_resolution": "4k",
+        "model_type": "standard",
+        "image_url": "https://v3b.fal.media/files/b/0aac5b6c/X3fzf43XJ6lR3urfllTLe_cxhNPksx.png"
+      },
+      "status": "done",
+      "at": "2026-09-29T10:35:19.388Z",
+      "glb": "https://v3b.fal.media/files/b/0aac5bd0/z0rHgJWFiR3TAjaVpSLVl_model.glb",
+      "size": 25978508,
+      "done": "2026-09-29T10:43:29.797Z"
+    },
+    "hangar-drone": {
+      "request_id": "01a0ecbb-dda6-71c3-beca-8ca308dad871",
+      "endpoint": "meshy/v7.1/image-to-3d",
+      "input": {
+        "topology": "triangle",
+        "target_polycount": 100000,
+        "symmetry_mode": "auto",
+        "should_remesh": true,
+        "should_texture": true,
+        "enable_pbr": true,
+        "enable_safety_checker": false,
+        "geometry_resolution": "4k",
+        "model_type": "standard",
+        "image_url": "https://v3b.fal.media/files/b/0aac5b6c/AlPhN02Q2PI6jOjpE75-7_2JhlQcOH.png"
+      },
+      "status": "done",
+      "at": "2026-09-29T10:35:29.103Z",
+      "glb": "https://v3b.fal.media/files/b/0aac5bc5/-axL-Kz2chcfJoDgYWlu__model.glb",
+      "size": 18704440,
+      "done": "2026-09-29T10:41:15.484Z"
+    },
+    "sucre-cake": {
+      "request_id": "01a0ecbb-df1e-7e53-8df1-cbb1ce960011",
+      "endpoint": "meshy/v7.1/image-to-3d",
+      "input": {
+        "topology": "triangle",
+        "target_polycount": 150000,
+        "symmetry_mode": "auto",
+        "should_remesh": true,
+        "should_texture": true,
+        "enable_pbr": true,
+        "enable_safety_checker": false,
+        "geometry_resolution": "4k",
+        "model_type": "standard",
+        "image_url": "https://v3b.fal.media/files/b/0aac5b6c/bdomvv1HKuE5lMlezSlWP_QUx7phmk.png"
+      },
+      "status": "done",
+      "at": "2026-09-29T10:35:29.482Z",
+      "glb": "https://v3b.fal.media/files/b/0aac5bd1/V6umqJqj3Sgleunzwkexi_model.glb",
+      "size": 22548032,
+      "done": "2026-09-29T10:44:50.127Z"
+    },
+    "sucre-macaron": {
+      "request_id": "01a0ecbc-8401-7991-ba7f-84731ac1b1c4",
+      "endpoint": "meshy/v7.1/image-to-3d",
+      "input": {
+        "topology": "triangle",
+        "target_polycount": 20000,
+        "symmetry_mode": "auto",
+        "should_remesh": true,
+        "should_texture": true,
+        "enable_pbr": true,
+        "enable_safety_checker": false,
+        "geometry_resolution": "4k",
+        "model_type": "standard",
+        "image_url": "https://v3b.fal.media/files/b/0aac5b6c/WaciDTwOW8j9lroQDay-W_UhIgQNN8.png"
+      },
+      "status": "done",
+      "at": "2026-09-29T10:36:11.692Z",
+      "glb": "https://v3b.fal.media/files/b/0aac5bce/aPShkSqGdSnvBq3B6MiCP_model.glb",
+      "size": 12209944,
+      "done": "2026-09-29T10:42:47.199Z"
+    },
+    "sucre-macaron2": {
+      "request_id": "01a0ecbc-84e5-7e91-99a9-d30f574b10a1",
+      "endpoint": "meshy/v7.1/image-to-3d",
+      "input": {
+        "topology": "triangle",
+        "target_polycount": 20000,
+        "symmetry_mode": "auto",
+        "should_remesh": true,
+        "should_texture": true,
+        "enable_pbr": true,
+        "enable_safety_checker": false,
+        "geometry_resolution": "4k",
+        "model_type": "standard",
+        "image_url": "https://v3b.fal.media/files/b/0aac5b6d/E1W1eKXjoocd1qTB2-bWG_Dhs09tUK.png"
+      },
+      "status": "done",
+      "at": "2026-09-29T10:36:11.917Z",
+      "glb": "https://v3b.fal.media/files/b/0aac5bce/mb6gA8aTTCsd9-mebHklv_model.glb",
+      "size": 12558768,
+      "done": "2026-09-29T10:43:27.792Z"
+    },
+    "sucre-croissant": {
+      "request_id": "01a0ecbc-a45c-7253-a91f-78b9235aec80",
+      "endpoint": "meshy/v7.1/image-to-3d",
+      "input": {
+        "topology": "triangle",
+        "target_polycount": 30000,
+        "symmetry_mode": "auto",
+        "should_remesh": true,
+        "should_texture": true,
+        "enable_pbr": true,
+        "enable_safety_checker": false,
+        "geometry_resolution": "4k",
+        "model_type": "standard",
+        "image_url": "https://v3b.fal.media/files/b/0aac5b6d/i8Dq8ljtQwH_0WbcFeRUx_OUxmdBmd.png"
+      },
+      "status": "done",
+      "at": "2026-09-29T10:36:19.974Z",
+      "glb": "https://v3b.fal.media/files/b/0aac5bc3/HAvTOcsWzt5HW1Qm9jYzP_model.glb",
+      "size": 12421032,
+      "done": "2026-09-29T10:40:54.780Z"
+    },
+    "sucre-strawberry": {
+      "request_id": "01a0ecbd-1bff-7c40-b1bf-2f15bd6cf9c2",
+      "endpoint": "meshy/v7.1/image-to-3d",
+      "input": {
+        "topology": "triangle",
+        "target_polycount": 20000,
+        "symmetry_mode": "auto",
+        "should_remesh": true,
+        "should_texture": true,
+        "enable_pbr": true,
+        "enable_safety_checker": false,
+        "geometry_resolution": "4k",
+        "model_type": "standard",
+        "image_url": "https://v3b.fal.media/files/b/0aac5b6d/GvWF0FpGdTuLtWgSUeqA4_MHOOaDOO.png"
+      },
+      "status": "done",
+      "at": "2026-09-29T10:36:50.601Z",
+      "glb": "https://v3b.fal.media/files/b/0aac5bd0/2FnoG5GqGA00RE7RevVGm_model.glb",
+      "size": 13853684,
+      "done": "2026-09-29T10:43:17.456Z"
+    },
+    "sucre-tart": {
+      "request_id": "01a0ecbd-e3d4-7970-b596-a7ac7957c48f",
+      "endpoint": "meshy/v7.1/image-to-3d",
+      "input": {
+        "topology": "triangle",
+        "target_polycount": 40000,
+        "symmetry_mode": "auto",
+        "should_remesh": true,
+        "should_texture": true,
+        "enable_pbr": true,
+        "enable_safety_checker": false,
+        "geometry_resolution": "4k",
+        "model_type": "standard",
+        "image_url": "https://v3b.fal.media/files/b/0aac5b6d/HlpM1uQ5Rg1WFtubYpv_1_AU0tioGW.png"
+      },
+      "status": "done",
+      "at": "2026-09-29T10:37:41.757Z",
+      "glb": "https://v3b.fal.media/files/b/0aac5bd7/QUJqjv6HcNdS6fhwQPPKN_model.glb",
+      "size": 14276712,
+      "done": "2026-09-29T10:44:08.506Z"
+    },
+    "mono-house": {
+      "request_id": "01a0ecbe-0c21-7700-a280-0787fc5d7c19",
+      "endpoint": "meshy/v7.1/image-to-3d",
+      "input": {
+        "topology": "triangle",
+        "target_polycount": 250000,
+        "symmetry_mode": "auto",
+        "should_remesh": true,
+        "should_texture": true,
+        "enable_pbr": true,
+        "enable_safety_checker": false,
+        "geometry_resolution": "4k",
+        "model_type": "standard",
+        "image_url": "https://v3b.fal.media/files/b/0aac5b6e/lhkuv4SUfgcu7TAuoD8mq_QSsRThSy.png"
+      },
+      "status": "done",
+      "at": "2026-09-29T10:37:52.074Z",
+      "glb": "https://v3b.fal.media/files/b/0aac5bf1/0onNQsksEo5qMQSnXiMLW_model.glb",
+      "size": 30863264,
+      "done": "2026-09-29T10:48:53.896Z"
+    },
+    "lf-turntable": {
+      "request_id": "01a0ecbe-3358-7570-ab8e-405fcbda285e",
+      "endpoint": "meshy/v7.1/image-to-3d",
+      "input": {
+        "topology": "triangle",
+        "target_polycount": 150000,
+        "symmetry_mode": "auto",
+        "should_remesh": true,
+        "should_texture": true,
+        "enable_pbr": true,
+        "enable_safety_checker": false,
+        "geometry_resolution": "4k",
+        "model_type": "standard",
+        "image_url": "https://v3b.fal.media/files/b/0aac5b6e/lBeNGl4IcV9q6Z8VhuDyk_mjAwQBO0.png"
+      },
+      "status": "done",
+      "at": "2026-09-29T10:38:02.113Z",
+      "glb": "https://v3b.fal.media/files/b/0aac5bd1/-C6SXcW6ojxdSnS_vZ6gx_model.glb",
+      "size": 18069536,
+      "done": "2026-09-29T10:44:50.346Z"
+    },
+    "lf-speaker": {
+      "request_id": "01a0ecbe-35bf-7171-be7a-893380260e3b",
+      "endpoint": "meshy/v7.1/image-to-3d",
+      "input": {
+        "topology": "triangle",
+        "target_polycount": 80000,
+        "symmetry_mode": "auto",
+        "should_remesh": true,
+        "should_texture": true,
+        "enable_pbr": true,
+        "enable_safety_checker": false,
+        "geometry_resolution": "4k",
+        "model_type": "standard",
+        "image_url": "https://v3b.fal.media/files/b/0aac5b6f/JrAGayVte_onoCHZiBy0h_AiDxrzgW.png"
+      },
+      "status": "done",
+      "at": "2026-09-29T10:38:02.727Z",
+      "glb": "https://v3b.fal.media/files/b/0aac5bd7/jSkrYPZALtMJYwSQIw4tS_model.glb",
+      "size": 15530776,
+      "done": "2026-09-29T10:44:29.383Z"
+    },
+    "gambit-king": {
+      "request_id": "01a0ecbe-d209-75e1-94bc-d44ee1cf276c",
+      "endpoint": "meshy/v7.1/image-to-3d",
+      "input": {
+        "topology": "triangle",
+        "target_polycount": 60000,
+        "symmetry_mode": "on",
+        "should_remesh": true,
+        "should_texture": true,
+        "enable_pbr": true,
+        "enable_safety_checker": false,
+        "geometry_resolution": "4k",
+        "model_type": "standard",
+        "image_url": "https://v3b.fal.media/files/b/0aac5b6f/VBpH_ZfVXYGgihpg_JDzz_uPNTpT3d.png"
+      },
+      "status": "done",
+      "at": "2026-09-29T10:38:42.737Z",
+      "glb": "https://v3b.fal.media/files/b/0aac5bcf/WXCTbvwxpjexgzpANeCRi_model.glb",
+      "size": 13819144,
+      "done": "2026-09-29T10:43:07.238Z"
+    },
+    "gambit-queen": {
+      "request_id": "01a0ecbe-d9c5-73a2-91c9-b12644ae22d8",
+      "endpoint": "meshy/v7.1/image-to-3d",
+      "input": {
+        "topology": "triangle",
+        "target_polycount": 60000,
+        "symmetry_mode": "on",
+        "should_remesh": true,
+        "should_texture": true,
+        "enable_pbr": true,
+        "enable_safety_checker": false,
+        "geometry_resolution": "4k",
+        "model_type": "standard",
+        "image_url": "https://v3b.fal.media/files/b/0aac5b6f/z1WT9J-RpBIYU1eCdnxlm_GEiiDjtf.png"
+      },
+      "status": "done",
+      "at": "2026-09-29T10:38:44.718Z",
+      "glb": "https://v3b.fal.media/files/b/0aac5bcd/fCONyPDG3K44Pawss939M_model.glb",
+      "size": 11952784,
+      "done": "2026-09-29T10:42:37.794Z"
+    },
+    "gambit-bishop": {
+      "request_id": "01a0ecbe-f924-7f51-9105-793e9d402a47",
+      "endpoint": "meshy/v7.1/image-to-3d",
+      "input": {
+        "topology": "triangle",
+        "target_polycount": 60000,
+        "symmetry_mode": "on",
+        "should_remesh": true,
+        "should_texture": true,
+        "enable_pbr": true,
+        "enable_safety_checker": false,
+        "geometry_resolution": "4k",
+        "model_type": "standard",
+        "image_url": "https://v3b.fal.media/files/b/0aac5b6f/SkV-kGh0epoqf24PYqk9H_tWAhetaR.png"
+      },
+      "status": "done",
+      "at": "2026-09-29T10:38:52.748Z",
+      "glb": "https://v3b.fal.media/files/b/0aac5bcb/gNkNStRZYBtxt1hIzH4vf_model.glb",
+      "size": 9776040,
+      "done": "2026-09-29T10:42:16.772Z"
+    },
+    "gambit-knight": {
+      "request_id": "01a0ecbf-2260-7102-aa0a-171fcb573911",
+      "endpoint": "meshy/v7.1/image-to-3d",
+      "input": {
+        "topology": "triangle",
+        "target_polycount": 60000,
+        "symmetry_mode": "on",
+        "should_remesh": true,
+        "should_texture": true,
+        "enable_pbr": true,
+        "enable_safety_checker": false,
+        "geometry_resolution": "4k",
+        "model_type": "standard",
+        "image_url": "https://v3b.fal.media/files/b/0aac5b70/8U3H8UimPuzF7yzLq2bRj_9bhMU3AC.png"
+      },
+      "status": "done",
+      "at": "2026-09-29T10:39:03.305Z",
+      "glb": "https://v3b.fal.media/files/b/0aac5bd1/5Ba6A02sLAtUFMg2GeIG6_model.glb",
+      "size": 12321948,
+      "done": "2026-09-29T10:43:29.122Z"
+    },
+    "gambit-rook": {
+      "request_id": "01a0ecbf-9937-7f73-8c4a-79218039fd93",
+      "endpoint": "meshy/v7.1/image-to-3d",
+      "input": {
+        "topology": "triangle",
+        "target_polycount": 60000,
+        "symmetry_mode": "on",
+        "should_remesh": true,
+        "should_texture": true,
+        "enable_pbr": true,
+        "enable_safety_checker": false,
+        "geometry_resolution": "4k",
+        "model_type": "standard",
+        "image_url": "https://v3b.fal.media/files/b/0aac5b71/KqhNM8txSZyxSBhOiQcQQ_3hSe8wmk.png"
+      },
+      "status": "done",
+      "at": "2026-09-29T10:39:33.725Z",
+      "glb": "https://v3b.fal.media/files/b/0aac5bd9/tME4s-1rNeAdKbFOp_cPx_model.glb",
+      "size": 9319992,
+      "done": "2026-09-29T10:47:11.584Z"
+    },
+    "gambit-pawn": {
+      "request_id": "01a0ecc0-d611-7e82-abbe-51b49d3ca123",
+      "endpoint": "meshy/v7.1/image-to-3d",
+      "input": {
+        "topology": "triangle",
+        "target_polycount": 60000,
+        "symmetry_mode": "on",
+        "should_remesh": true,
+        "should_texture": true,
+        "enable_pbr": true,
+        "enable_safety_checker": false,
+        "geometry_resolution": "4k",
+        "model_type": "standard",
+        "image_url": "https://v3b.fal.media/files/b/0aac5b71/oiej4x2cmXRblDdU39Wd3_UcKfM6y7.png"
+      },
+      "status": "done",
+      "at": "2026-09-29T10:40:54.837Z",
+      "glb": "https://v3b.fal.media/files/b/0aac5bde/QYRmQ2iQUblffmOqzHH6A_model.glb",
+      "size": 9774304,
+      "done": "2026-09-29T10:47:31.940Z"
+    },
+    "atlas-lighthouse": {
+      "request_id": "01a0ecc1-2703-7ca2-8aef-0fbd58adced1",
+      "endpoint": "meshy/v7.1/image-to-3d",
+      "input": {
+        "topology": "triangle",
+        "target_polycount": 150000,
+        "symmetry_mode": "auto",
+        "should_remesh": true,
+        "should_texture": true,
+        "enable_pbr": true,
+        "enable_safety_checker": false,
+        "geometry_resolution": "4k",
+        "model_type": "standard",
+        "image_url": "https://v3b.fal.media/files/b/0aac5b71/tDIxteDr_dOK5ydS5iCHq_oaLF1LOV.png"
+      },
+      "status": "done",
+      "at": "2026-09-29T10:41:15.606Z",
+      "glb": "https://v3b.fal.media/files/b/0aac5bf5/1mpf04NCl80uC8CU1jXAD_model.glb",
+      "size": 27212736,
+      "done": "2026-09-29T10:49:46.140Z"
+    },
+    "atlas-falls": {
+      "request_id": "01a0ecc1-292d-7ff2-8ec7-2c93733ed03e",
+      "endpoint": "meshy/v7.1/image-to-3d",
+      "input": {
+        "topology": "triangle",
+        "target_polycount": 150000,
+        "symmetry_mode": "auto",
+        "should_remesh": true,
+        "should_texture": true,
+        "enable_pbr": true,
+        "enable_safety_checker": false,
+        "geometry_resolution": "4k",
+        "model_type": "standard",
+        "image_url": "https://v3b.fal.media/files/b/0aac5b71/Nyjc7yVPl_wv3xucFdvSK_sbsmmbvc.png"
+      },
+      "status": "done",
+      "at": "2026-09-29T10:41:16.114Z",
+      "glb": "https://v3b.fal.media/files/b/0aac5c02/5pyBkRUKEJG1EI5k33xRr_model.glb",
+      "size": 27012816,
+      "done": "2026-09-29T10:51:47.304Z"
+    },
+    "atlas-pagoda": {
+      "request_id": "01a0ecc1-4eb9-7533-9423-1447f1c8c209",
+      "endpoint": "meshy/v7.1/image-to-3d",
+      "input": {
+        "topology": "triangle",
+        "target_polycount": 150000,
+        "symmetry_mode": "auto",
+        "should_remesh": true,
+        "should_texture": true,
+        "enable_pbr": true,
+        "enable_safety_checker": false,
+        "geometry_resolution": "4k",
+        "model_type": "standard",
+        "image_url": "https://v3b.fal.media/files/b/0aac5b71/epBFDyoJm15rosV5_ocGo_Kw7xFJcD.png"
+      },
+      "status": "done",
+      "at": "2026-09-29T10:41:25.727Z",
+      "glb": "https://v3b.fal.media/files/b/0aac5bee/hQ46sQ-CvORB-ux-lpRL4_model.glb",
+      "size": 26463936,
+      "done": "2026-09-29T10:48:13.179Z"
+    },
+    "atlas-windmill": {
+      "request_id": "01a0ecc2-165b-71f0-96b4-f406c8fd27af",
+      "endpoint": "meshy/v7.1/image-to-3d",
+      "input": {
+        "topology": "triangle",
+        "target_polycount": 150000,
+        "symmetry_mode": "auto",
+        "should_remesh": true,
+        "should_texture": true,
+        "enable_pbr": true,
+        "enable_safety_checker": false,
+        "geometry_resolution": "4k",
+        "model_type": "standard",
+        "image_url": "https://v3b.fal.media/files/b/0aac5b72/t8apRFrA23bFA_KO6zKh6_G9Wz1kXc.png"
+      },
+      "status": "done",
+      "at": "2026-09-29T10:42:16.854Z",
+      "glb": "https://v3b.fal.media/files/b/0aac5bf7/RshiPXDalcHtRTbWTkbHe_model.glb",
+      "size": 23381784,
+      "done": "2026-09-29T10:49:55.029Z"
+    },
+    "lithos-geode": {
+      "request_id": "01a0ecc2-1859-7953-9508-9368a709d5f7",
+      "endpoint": "meshy/v7.1/image-to-3d",
+      "input": {
+        "topology": "triangle",
+        "target_polycount": 200000,
+        "symmetry_mode": "auto",
+        "should_remesh": true,
+        "should_texture": true,
+        "enable_pbr": true,
+        "enable_safety_checker": false,
+        "geometry_resolution": "4k",
+        "model_type": "standard",
+        "image_url": "https://v3b.fal.media/files/b/0aac5b72/nltDk7gY6mbtU0i8EO4o6_i4M6KR7V.png"
+      },
+      "status": "done",
+      "at": "2026-09-29T10:42:17.341Z",
+      "glb": "https://v3b.fal.media/files/b/0aac5bfb/_2MKFAltA0LyPnn8AaU2V_model.glb",
+      "size": 24323376,
+      "done": "2026-09-29T10:50:56.530Z"
+    },
+    "lithos-quartz": {
+      "request_id": "01a0ecc2-3ea2-76d1-a03c-220263484a3b",
+      "endpoint": "meshy/v7.1/image-to-3d",
+      "input": {
+        "topology": "triangle",
+        "target_polycount": 100000,
+        "symmetry_mode": "auto",
+        "should_remesh": true,
+        "should_texture": true,
+        "enable_pbr": true,
+        "enable_safety_checker": false,
+        "geometry_resolution": "4k",
+        "model_type": "standard",
+        "image_url": "https://v3b.fal.media/files/b/0aac5b73/_vto5DWnu7tp_mtz7yWsi_WAwMgVVM.png"
+      },
+      "status": "done",
+      "at": "2026-09-29T10:42:27.142Z",
+      "glb": "https://v3b.fal.media/files/b/0aac5bfa/y-CHZ5U8-3uqedoXaoR5p_model.glb",
+      "size": 17874368,
+      "done": "2026-09-29T10:50:35.496Z"
+    },
+    "lithos-pyrite": {
+      "request_id": "01a0ecc2-687c-7562-9215-a698f4c00d4a",
+      "endpoint": "meshy/v7.1/image-to-3d",
+      "input": {
+        "topology": "triangle",
+        "target_polycount": 100000,
+        "symmetry_mode": "auto",
+        "should_remesh": true,
+        "should_texture": true,
+        "enable_pbr": true,
+        "enable_safety_checker": false,
+        "geometry_resolution": "4k",
+        "model_type": "standard",
+        "image_url": "https://v3b.fal.media/files/b/0aac5b73/Y7CTs0WC6bCNLJBsmvnG4_lFYYqLCb.png"
+      },
+      "status": "done",
+      "at": "2026-09-29T10:42:37.856Z",
+      "glb": "https://v3b.fal.media/files/b/0aac5bee/iCI0Y4i_whuJtArDh4-1U_model.glb",
+      "size": 18167052,
+      "done": "2026-09-29T10:48:23.074Z"
+    },
+    "lithos-ammonite": {
+      "request_id": "01a0ecc2-8d38-74c2-9ec9-895f60e3edbe",
+      "endpoint": "meshy/v7.1/image-to-3d",
+      "input": {
+        "topology": "triangle",
+        "target_polycount": 80000,
+        "symmetry_mode": "auto",
+        "should_remesh": true,
+        "should_texture": true,
+        "enable_pbr": true,
+        "enable_safety_checker": false,
+        "geometry_resolution": "4k",
+        "model_type": "standard",
+        "image_url": "https://v3b.fal.media/files/b/0aac5b74/tTbB4Pu67vb_3uDJZQt8I_fy4kJrir.png"
+      },
+      "status": "done",
+      "at": "2026-09-29T10:42:47.259Z",
+      "glb": "https://v3b.fal.media/files/b/0aac5bef/Tcy-CpJetIXxAW6M2b3Wy_model.glb",
+      "size": 18985700,
+      "done": "2026-09-29T10:48:33.289Z"
+    },
+    "artemis-astro": {
+      "request_id": "01a0ecc2-db7d-7992-a122-fdb07472e0ec",
+      "endpoint": "meshy/v7.1/image-to-3d",
+      "input": {
+        "topology": "triangle",
+        "target_polycount": 60000,
+        "symmetry_mode": "on",
+        "should_remesh": true,
+        "should_texture": true,
+        "enable_pbr": true,
+        "enable_safety_checker": false,
+        "pose_mode": "a-pose",
+        "enable_rigging": true,
+        "rigging_height_meters": 1.85,
+        "enable_animation": true,
+        "animation_action_id": 0,
+        "geometry_resolution": "4k",
+        "model_type": "standard",
+        "image_url": "https://v3b.fal.media/files/b/0aac5b74/kyyiEKqDWO91R-pE8UKBv_maJfkxAY.png"
+      },
+      "status": "done",
+      "at": "2026-09-29T10:43:07.298Z",
+      "glb": "https://v3b.fal.media/files/b/0aac5bec/0rx_h_w_FLiXJiAIwTPHI_model.glb",
+      "size": 15452632,
+      "done": "2026-09-29T10:49:14.844Z"
+    },
+    "artemis-lander": {
+      "request_id": "01a0ecc3-0368-72e3-8a42-bfaaaba27aec",
+      "endpoint": "meshy/v7.1/image-to-3d",
+      "input": {
+        "topology": "triangle",
+        "target_polycount": 150000,
+        "symmetry_mode": "auto",
+        "should_remesh": true,
+        "should_texture": true,
+        "enable_pbr": true,
+        "enable_safety_checker": false,
+        "geometry_resolution": "4k",
+        "model_type": "standard",
+        "image_url": "https://v3b.fal.media/files/b/0aac5b74/CExYOxp_oTaosGCthXglh_s4FwxSfc.png"
+      },
+      "status": "done",
+      "at": "2026-09-29T10:43:17.514Z",
+      "glb": "https://v3b.fal.media/files/b/0aac5bfb/yWByfq2421943soOrDNxd_model.glb",
+      "size": 21888956,
+      "done": "2026-09-29T10:50:15.175Z"
+    },
+    "keeper-lighthouse": {
+      "request_id": "01a0ecc3-2bd1-7cc1-915a-72652682a87c",
+      "endpoint": "meshy/v7.1/image-to-3d",
+      "input": {
+        "topology": "triangle",
+        "target_polycount": 200000,
+        "symmetry_mode": "auto",
+        "should_remesh": true,
+        "should_texture": true,
+        "enable_pbr": true,
+        "enable_safety_checker": false,
+        "geometry_resolution": "4k",
+        "model_type": "standard",
+        "image_url": "https://v3b.fal.media/files/b/0aac5b7f/a8-pAcfkKRGbRRa6YJZoA_K0t3ANUD.png"
+      },
+      "status": "done",
+      "at": "2026-09-29T10:43:27.863Z",
+      "glb": "https://v3b.fal.media/files/b/0aac5bf6/gSPl7iiZTAIFHd8-yyL3S_model.glb",
+      "size": 26097588,
+      "done": "2026-09-29T10:49:45.106Z"
+    },
+    "keeper-boat": {
+      "request_id": "01a0ecc3-30fe-7ac0-868a-cd36ed6e9e0f",
+      "endpoint": "meshy/v7.1/image-to-3d",
+      "input": {
+        "topology": "triangle",
+        "target_polycount": 100000,
+        "symmetry_mode": "auto",
+        "should_remesh": true,
+        "should_texture": true,
+        "enable_pbr": true,
+        "enable_safety_checker": false,
+        "geometry_resolution": "4k",
+        "model_type": "standard",
+        "image_url": "https://v3b.fal.media/files/b/0aac5b75/dFYJ5u5KggSnM99OWBrkE_qMEFdNUZ.png"
+      },
+      "status": "done",
+      "at": "2026-09-29T10:43:29.185Z",
+      "glb": "https://v3b.fal.media/files/b/0aac5bf1/hyD-h7iWec3bPEZJzrCaY_model.glb",
+      "size": 18968404,
+      "done": "2026-09-29T10:49:03.910Z"
+    },
+    "koen-maple": {
+      "request_id": "01a0ecee-e018-7a20-80e2-f4a022b6fdaf",
+      "endpoint": "meshy/v7.1/image-to-3d",
+      "input": {
+        "topology": "triangle",
+        "target_polycount": 120000,
+        "symmetry_mode": "auto",
+        "should_remesh": true,
+        "should_texture": true,
+        "enable_pbr": true,
+        "enable_safety_checker": false,
+        "geometry_resolution": "standard",
+        "model_type": "standard",
+        "image_url": "https://v3b.fal.media/files/b/0aac5b75/52TJfefWqGJl14s2Z9-7l_X131q33k.png"
+      },
+      "status": "done",
+      "at": "2026-09-29T11:31:12.017Z",
+      "glb": "https://v3b.fal.media/files/b/0aac5d15/njMpZna4_O0t23p9O7G1-_model.glb",
+      "size": 12000604,
+      "done": "2026-09-29T11:37:10.053Z"
+    },
+    "noct-iris": {
+      "request_id": "01a0ecc3-cae0-7422-82d7-3228a743c81e",
+      "endpoint": "meshy/v7.1/image-to-3d",
+      "input": {
+        "topology": "triangle",
+        "target_polycount": 80000,
+        "symmetry_mode": "auto",
+        "should_remesh": true,
+        "should_texture": true,
+        "enable_pbr": true,
+        "enable_safety_checker": false,
+        "geometry_resolution": "4k",
+        "model_type": "standard",
+        "image_url": "https://v3b.fal.media/files/b/0aac5b76/c8VRYVaGNGuhwTjloFr_l_wK1WTybU.png"
+      },
+      "status": "done",
+      "at": "2026-09-29T10:44:08.577Z",
+      "glb": "https://v3b.fal.media/files/b/0aac5bf5/s4iFIScrpaj_2OoJFJfXP_model.glb",
+      "size": 18034604,
+      "done": "2026-09-29T10:49:14.019Z"
+    },
+    "noct-bergamot": {
+      "request_id": "01a0ecc4-1c5d-7362-89d1-5676d6d59960",
+      "endpoint": "meshy/v7.1/image-to-3d",
+      "input": {
+        "topology": "triangle",
+        "target_polycount": 80000,
+        "symmetry_mode": "auto",
+        "should_remesh": true,
+        "should_texture": true,
+        "enable_pbr": true,
+        "enable_safety_checker": false,
+        "geometry_resolution": "4k",
+        "model_type": "standard",
+        "image_url": "https://v3b.fal.media/files/b/0aac5b76/Z4iL9WwosyWlag6vJv0cq_VWapd2N0.png"
+      },
+      "status": "done",
+      "at": "2026-09-29T10:44:29.441Z",
+      "glb": "https://v3b.fal.media/files/b/0aac5bf8/4RxygW_ezj6OOsZU2O_jO_model.glb",
+      "size": 13806280,
+      "done": "2026-09-29T10:50:04.978Z"
+    },
+    "noct-vanilla": {
+      "request_id": "01a0ecc4-6d68-7702-8582-5a7cd936ac9e",
+      "endpoint": "meshy/v7.1/image-to-3d",
+      "input": {
+        "topology": "triangle",
+        "target_polycount": 80000,
+        "symmetry_mode": "auto",
+        "should_remesh": true,
+        "should_texture": true,
+        "enable_pbr": true,
+        "enable_safety_checker": false,
+        "geometry_resolution": "4k",
+        "model_type": "standard",
+        "image_url": "https://v3b.fal.media/files/b/0aac5b76/0t2EnbZxxANCldwUYGJVl_XWi9bmft.png"
+      },
+      "status": "done",
+      "at": "2026-09-29T10:44:50.187Z",
+      "glb": "https://v3b.fal.media/files/b/0aac5bfc/oHbhD2UQOs6EAYuXsXTEg_model.glb",
+      "size": 17543832,
+      "done": "2026-09-29T10:51:06.149Z"
+    },
+    "noct-oud": {
+      "request_id": "01a0ecc4-6e41-7c42-a773-dc0ceb9ee49e",
+      "endpoint": "meshy/v7.1/image-to-3d",
+      "input": {
+        "topology": "triangle",
+        "target_polycount": 80000,
+        "symmetry_mode": "auto",
+        "should_remesh": true,
+        "should_texture": true,
+        "enable_pbr": true,
+        "enable_safety_checker": false,
+        "geometry_resolution": "4k",
+        "model_type": "standard",
+        "image_url": "https://v3b.fal.media/files/b/0aac5b76/An0TELL41aJVxcbvrAzR4_qNlpEAIQ.png"
+      },
+      "status": "done",
+      "at": "2026-09-29T10:44:50.404Z",
+      "glb": "https://v3b.fal.media/files/b/0aac5c09/z-UNfu8SQQfOrhrw13Bt4_model.glb",
+      "size": 19094156,
+      "done": "2026-09-29T10:54:40.127Z"
+    },
+    "noct-cap": {
+      "request_id": "01a0ecc6-95fa-7eb1-9188-692f4dbd6641",
+      "endpoint": "meshy/v7.1/image-to-3d",
+      "input": {
+        "topology": "triangle",
+        "target_polycount": 80000,
+        "symmetry_mode": "auto",
+        "should_remesh": true,
+        "should_texture": true,
+        "enable_pbr": true,
+        "enable_safety_checker": false,
+        "geometry_resolution": "4k",
+        "model_type": "standard",
+        "image_url": "https://v3b.fal.media/files/b/0aac5b77/t9vxutlhTVZURbtdSt8MS_RAzYeP6c.png"
+      },
+      "status": "done",
+      "at": "2026-09-29T10:47:11.641Z",
+      "glb": "https://v3b.fal.media/files/b/0aac5c09/oTzQ4EcfgsybRr0Akb-lY_model.glb",
+      "size": 13610308,
+      "done": "2026-09-29T10:54:19.597Z"
+    },
+    "racer-bike": {
+      "request_id": "01a0ecc6-e580-7b73-bc4b-1d8659a013b5",
+      "endpoint": "meshy/v7.1/image-to-3d",
+      "input": {
+        "topology": "triangle",
+        "target_polycount": 250000,
+        "symmetry_mode": "auto",
+        "should_remesh": true,
+        "should_texture": true,
+        "enable_pbr": true,
+        "enable_safety_checker": false,
+        "geometry_resolution": "4k",
+        "model_type": "standard",
+        "image_url": "https://v3b.fal.media/files/b/0aac5b77/XVvpt4-Lhv2soLnApizig_XwzDgwG0.png"
+      },
+      "status": "done",
+      "at": "2026-09-29T10:47:31.998Z",
+      "glb": "https://v3b.fal.media/files/b/0aac5c12/DXa_0NOc-EFwQCrwCuCsN_model.glb",
+      "size": 28966752,
+      "done": "2026-09-29T10:55:21.111Z"
+    },
+    "racer-helmet": {
+      "request_id": "01a0ecc7-8697-7f00-aa99-b3997423dc4e",
+      "endpoint": "meshy/v7.1/image-to-3d",
+      "input": {
+        "topology": "triangle",
+        "target_polycount": 80000,
+        "symmetry_mode": "auto",
+        "should_remesh": true,
+        "should_texture": true,
+        "enable_pbr": true,
+        "enable_safety_checker": false,
+        "geometry_resolution": "4k",
+        "model_type": "standard",
+        "image_url": "https://v3b.fal.media/files/b/0aac5b78/gDf-CWYG6Df6vOHfPYRwJ_51lCYVhZ.png"
+      },
+      "status": "done",
+      "at": "2026-09-29T10:48:13.237Z",
+      "glb": "https://v3b.fal.media/files/b/0aac5c1f/ziTOMRTSZ5Ue7Cna_rv27_model.glb",
+      "size": 15045696,
+      "done": "2026-09-29T10:56:12.404Z"
+    },
+    "horo-watch": {
+      "request_id": "01a0ecc7-ad3f-7763-a260-19e45cc9ba96",
+      "endpoint": "meshy/v7.1/image-to-3d",
+      "input": {
+        "topology": "triangle",
+        "target_polycount": 150000,
+        "symmetry_mode": "auto",
+        "should_remesh": true,
+        "should_texture": true,
+        "enable_pbr": true,
+        "enable_safety_checker": false,
+        "geometry_resolution": "4k",
+        "model_type": "standard",
+        "image_url": "https://v3b.fal.media/files/b/0aac5b78/RwF0kiq7SCAVelzsuCyPo_c7lqzriC.png"
+      },
+      "status": "done",
+      "at": "2026-09-29T10:48:23.132Z",
+      "glb": "https://v3b.fal.media/files/b/0aac5c1d/Nqh88DZ9wj-S9WV8MyDm0_model.glb",
+      "size": 21877520,
+      "done": "2026-09-29T10:56:01.523Z"
+    },
+    "velo-black": {
+      "request_id": "01a0ecc7-d529-70e3-ad2f-47609827a2a8",
+      "endpoint": "meshy/v7.1/image-to-3d",
+      "input": {
+        "topology": "triangle",
+        "target_polycount": 150000,
+        "symmetry_mode": "auto",
+        "should_remesh": true,
+        "should_texture": true,
+        "enable_pbr": true,
+        "enable_safety_checker": false,
+        "geometry_resolution": "4k",
+        "model_type": "standard",
+        "image_url": "https://v3b.fal.media/files/b/0aac5b83/eXVKlk511QxIpNoTjnDJO_alammmAK.png"
+      },
+      "status": "done",
+      "at": "2026-09-29T10:48:33.352Z",
+      "glb": "https://v3b.fal.media/files/b/0aac5c0f/KXoJIIgr6tcUuRcbOLLQC_model.glb",
+      "size": 17920444,
+      "done": "2026-09-29T10:53:39.134Z"
+    },
+    "koen-maple2": {
+      "request_id": "01a0ecee-e019-7bb0-98e9-3ee71a6e2483",
+      "endpoint": "meshy/v7.1/image-to-3d",
+      "input": {
+        "topology": "triangle",
+        "target_polycount": 150000,
+        "symmetry_mode": "auto",
+        "should_remesh": true,
+        "should_texture": true,
+        "enable_pbr": true,
+        "enable_safety_checker": false,
+        "geometry_resolution": "standard",
+        "model_type": "standard",
+        "image_url": "https://v3b.fal.media/files/b/0aac5cf1/lA-IIlTrmrC7U1uTeCvz9_NDA7NfQB.png"
+      },
+      "status": "done",
+      "at": "2026-09-29T11:31:12.020Z",
+      "glb": "https://v3b.fal.media/files/b/0aac5d28/TbHTEewJitNmZWYeJimGO_model.glb",
+      "size": 27221104,
+      "done": "2026-09-29T11:40:24.066Z"
+    }
+  }
+}
